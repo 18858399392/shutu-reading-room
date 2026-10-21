@@ -1,0 +1,10 @@
+node_modules/
+.tooling/
+__pycache__/
+*.pyc
+.env*
+.wrangler/
+tools/supplement-render/
+tools/qa/
+tools/*report.json
+content/build-report.json

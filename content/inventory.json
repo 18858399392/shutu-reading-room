@@ -1,0 +1,2999 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "一间自己的房间",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "9c96f83c3acdc73a00adccba0dac33b47ebb8fe0899a249dbe66e636fc2eca6e",
+          "bytes": 1606730,
+          "webPath": "assets/books/01/cover.webp",
+          "thumbPath": "assets/books/01/cover-thumb.webp",
+          "webBytes": 151988,
+          "thumbBytes": 41026,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "9c96f83c3acdc73a00adccba0dac33b47ebb8fe0899a249dbe66e636fc2eca6e",
+          "bytes": 1606730,
+          "webPath": "assets/books/01/cover-2.webp",
+          "thumbPath": "assets/books/01/cover-2-thumb.webp",
+          "webBytes": 151988,
+          "thumbBytes": 41026,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面3.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "b14eb2ae935bbc7eb91df7e9a4a64187dfd5d096c3e8222cc74d4cebb833929f",
+          "bytes": 1498328,
+          "webPath": "assets/books/01/cover-3.webp",
+          "thumbPath": "assets/books/01/cover-3-thumb.webp",
+          "webBytes": 123722,
+          "thumbBytes": 27120,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "8ac7056f65cbd7b8d9491d40decc80fc654c8fc85fb8f322474c159b1723b418",
+          "bytes": 13708489,
+          "webPath": "assets/books/01/board.webp",
+          "thumbPath": "assets/books/01/board-thumb.webp",
+          "webBytes": 769980,
+          "thumbBytes": 53780,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "万历十五年",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "be277f63768583f02b29aae5133997a05ddc2d0fd4b24c8a98a605a1f1b9427d",
+          "bytes": 9276469,
+          "webPath": "assets/books/02/three-lines.webp",
+          "thumbPath": "assets/books/02/three-lines-thumb.webp",
+          "webBytes": 833334,
+          "thumbBytes": 57862,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "59775122af4392a67eb7fdcdb2efe8b1d61b1a8c2483f705f6f2cc37225eab17",
+          "bytes": 1444491,
+          "webPath": "assets/books/02/cover.webp",
+          "thumbPath": "assets/books/02/cover-thumb.webp",
+          "webBytes": 110532,
+          "thumbBytes": 25836,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "世上为什么要有图书馆",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a44d688e516b99aca75e512671477276a81f48670f3dcaef33e861acafb911f1",
+          "bytes": 8652118,
+          "webPath": "assets/books/03/three-lines.webp",
+          "thumbPath": "assets/books/03/three-lines-thumb.webp",
+          "webBytes": 1012986,
+          "thumbBytes": 67756,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "abdd0a81f17c59899217e25042ebcf2d832f314063b7e4c1e116cd1682346f88",
+          "bytes": 1739821,
+          "webPath": "assets/books/03/cover.webp",
+          "thumbPath": "assets/books/03/cover-thumb.webp",
+          "webBytes": 163282,
+          "thumbBytes": 42896,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "dffd091c0fc0d17993c99b15e7226663c1b739efdb02dbfe29488776cebe96e5",
+          "bytes": 7012491,
+          "webPath": "assets/books/03/board.webp",
+          "thumbPath": "assets/books/03/board-thumb.webp",
+          "webBytes": 667418,
+          "thumbBytes": 48262,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "中国历代政治得失",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "5f1e8417c33dfbba1c510f852e0937e5096659082df112e249ec64031e794d85",
+          "bytes": 9848409,
+          "webPath": "assets/books/04/three-lines.webp",
+          "thumbPath": "assets/books/04/three-lines-thumb.webp",
+          "webBytes": 940426,
+          "thumbBytes": 55774,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "2691a732396e9c4ae166a62e28a50df15170cefa2231b644ed05190bc3503d99",
+          "bytes": 1617020,
+          "webPath": "assets/books/04/cover.webp",
+          "thumbPath": "assets/books/04/cover-thumb.webp",
+          "webBytes": 157732,
+          "thumbBytes": 36712,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "61cb1c4a9d3ff8a2442ac99ee89017a22c4debe3694f12e7086f04ff844ae9e4",
+          "bytes": 10107441,
+          "webPath": "assets/books/04/board.webp",
+          "thumbPath": "assets/books/04/board-thumb.webp",
+          "webBytes": 719548,
+          "thumbBytes": 49884,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "乌合之众",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "ffda7226d6fbe1227a0714fcd8e6f8eb8c2aca663b70ce89b74f250a2d93d42e",
+          "bytes": 8411706,
+          "webPath": "assets/books/05/three-lines.webp",
+          "thumbPath": "assets/books/05/three-lines-thumb.webp",
+          "webBytes": 621778,
+          "thumbBytes": 43308,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "d1e67872e34a426987be6fd2024a012735c2d5d17619ebc168d98e85611be791",
+          "bytes": 1680453,
+          "webPath": "assets/books/05/cover.webp",
+          "thumbPath": "assets/books/05/cover-thumb.webp",
+          "webBytes": 196876,
+          "thumbBytes": 38530,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "4391c3d91b04dc04a3a97058a4d75bdcfe826b07066cf32c29cac28b37ea48d9",
+          "bytes": 9171216,
+          "webPath": "assets/books/05/board.webp",
+          "thumbPath": "assets/books/05/board-thumb.webp",
+          "webBytes": 784958,
+          "thumbBytes": 55794,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "也许你该找个人聊聊",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "16fd2b4bafc68da8bd8b1d7e6e7494e58403c29106de4daa2ab2cf7d59b6134d",
+          "bytes": 7039187,
+          "webPath": "assets/books/06/cover.webp",
+          "thumbPath": "assets/books/06/cover-thumb.webp",
+          "webBytes": 743366,
+          "thumbBytes": 52956,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "fe0b7340ba665ddfc2e24d7476128b17397ea4490f717b570ce74d12ec81dd29",
+          "bytes": 1308800,
+          "webPath": "assets/books/06/cover-2.webp",
+          "thumbPath": "assets/books/06/cover-2-thumb.webp",
+          "webBytes": 92588,
+          "thumbBytes": 25700,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面3.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "4e4738524092e56c9e1c156a5f463c7c840ad539965480d5d9c1acd6e107fa40",
+          "bytes": 1338891,
+          "webPath": "assets/books/06/cover-3.webp",
+          "thumbPath": "assets/books/06/cover-3-thumb.webp",
+          "webBytes": 108136,
+          "thumbBytes": 29440,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "e5d1664d91675eda04837dd6420871c954e13d9f5e6746e4f90410c932364b6c",
+          "bytes": 13420286,
+          "webPath": "assets/books/06/board.webp",
+          "thumbPath": "assets/books/06/board-thumb.webp",
+          "webBytes": 734292,
+          "thumbBytes": 53450,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "乡土中国",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "0b8c08f50a42ab070680dec0dfaed1f08d3b7c2c7e96c47a95ccd4629cf9cc55",
+          "bytes": 10299612,
+          "webPath": "assets/books/07/cover.webp",
+          "thumbPath": "assets/books/07/cover-thumb.webp",
+          "webBytes": 1117044,
+          "thumbBytes": 82222,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "1e0bab7d980227cd1d97ea19c78bf919631641f25e5334049cdd53b30ded5136",
+          "bytes": 1647371,
+          "webPath": "assets/books/07/cover-2.webp",
+          "thumbPath": "assets/books/07/cover-2-thumb.webp",
+          "webBytes": 162594,
+          "thumbBytes": 36810,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "922098de4374c72352f2da572681b57fac197cdb5867defe1fe3952abd946306",
+          "bytes": 10175359,
+          "webPath": "assets/books/07/board.webp",
+          "thumbPath": "assets/books/07/board-thumb.webp",
+          "webBytes": 675376,
+          "thumbBytes": 45238,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "亲密关系",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "13cf9c5c3282e6bdb3597d75f249bf2715d0e6fe45f06ee4112973a4df61cf23",
+          "bytes": 8105057,
+          "webPath": "assets/books/08/cover.webp",
+          "thumbPath": "assets/books/08/cover-thumb.webp",
+          "webBytes": 876882,
+          "thumbBytes": 57916,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "7279e416414b11490e8ab1b1aa02a314d759157b537e6ec9434fc6ace6f12274",
+          "bytes": 1281774,
+          "webPath": "assets/books/08/cover-2.webp",
+          "thumbPath": "assets/books/08/cover-2-thumb.webp",
+          "webBytes": 88266,
+          "thumbBytes": 23942,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "19e4a77467f6201c2aaed2c11c3cf8051c762c59ded66b165ac3153ba8beed4a",
+          "bytes": 6252493,
+          "webPath": "assets/books/08/board.webp",
+          "thumbPath": "assets/books/08/board-thumb.webp",
+          "webBytes": 680856,
+          "thumbBytes": 52692,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "人类简史",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "13992baa7afbaa476c08bf6356b7d50c89d670b071f60b153a3333d887cf0c77",
+          "bytes": 8770765,
+          "webPath": "assets/books/09/cover.webp",
+          "thumbPath": "assets/books/09/cover-thumb.webp",
+          "webBytes": 696962,
+          "thumbBytes": 63252,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "f665ca2bf2d3a0adfaab7bdc4c30727d66794ab5003f9579989ed78aaefcc01a",
+          "bytes": 1571341,
+          "webPath": "assets/books/09/cover-2.webp",
+          "thumbPath": "assets/books/09/cover-2-thumb.webp",
+          "webBytes": 147206,
+          "thumbBytes": 30790,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面3.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "cb6fc4f049783a0d56a87adfec0a70753df4f99d003309e8291d3c6a5191f04d",
+          "bytes": 1525138,
+          "webPath": "assets/books/09/cover-3.webp",
+          "thumbPath": "assets/books/09/cover-3-thumb.webp",
+          "webBytes": 143974,
+          "thumbBytes": 35020,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "c2211824e99992c8cd5bc0470542356ad4a035dbfb2d4aae47f74827ace18e65",
+          "bytes": 9147799,
+          "webPath": "assets/books/09/board.webp",
+          "thumbPath": "assets/books/09/board-thumb.webp",
+          "webBytes": 835374,
+          "thumbBytes": 49846,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "刀锋",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "ee7da0c2e37813a26ec6a532cd6b645d15c956f687d0700c7268e9a9d5ee7a0c",
+          "bytes": 9227405,
+          "webPath": "assets/books/10/three-lines.webp",
+          "thumbPath": "assets/books/10/three-lines-thumb.webp",
+          "webBytes": 980072,
+          "thumbBytes": 66392,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "f414d5a3ceb6bd4c7b3937661c8f00583811870b25347a61e29cd3453f04b120",
+          "bytes": 1506300,
+          "webPath": "assets/books/10/cover.webp",
+          "thumbPath": "assets/books/10/cover-thumb.webp",
+          "webBytes": 137514,
+          "thumbBytes": 33468,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "bc925b76f8b76d9f0ab249c0a81d9796e4762363a8af77e09ef269328a83137f",
+          "bytes": 6628195,
+          "webPath": "assets/books/10/board.webp",
+          "thumbPath": "assets/books/10/board-thumb.webp",
+          "webBytes": 734614,
+          "thumbBytes": 56706,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "卡拉马佐夫兄弟",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "dc653c234af2fc84f6a57f5e063b70a3c765764b1786d3ed576154d6d3778f95",
+          "bytes": 8647436,
+          "webPath": "assets/books/11/three-lines.webp",
+          "thumbPath": "assets/books/11/three-lines-thumb.webp",
+          "webBytes": 899412,
+          "thumbBytes": 47836,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "faa668295281a9d6094250cc84bbcb53420a5c24699aa5d4388a80f5370299b1",
+          "bytes": 1586300,
+          "webPath": "assets/books/11/cover.webp",
+          "thumbPath": "assets/books/11/cover-thumb.webp",
+          "webBytes": 167084,
+          "thumbBytes": 42308,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "f39574faaa11040d0bc17bfeb0f4ecfe433fcc9468d451e3886ee2dce28b9cf8",
+          "bytes": 6333941,
+          "webPath": "assets/books/11/board.webp",
+          "thumbPath": "assets/books/11/board-thumb.webp",
+          "webBytes": 688942,
+          "thumbBytes": 55948,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "厌女",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "86d5e98cd94b9200a693cdd1e3a2c82b047f7cfb56cd9b456b48ae120a9059ee",
+          "bytes": 9904828,
+          "webPath": "assets/books/12/cover.webp",
+          "thumbPath": "assets/books/12/cover-thumb.webp",
+          "webBytes": 728406,
+          "thumbBytes": 41496,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "dafce5936c44e2abfd470d6e4fc746cf0d1c8c657cfcf47d04a61678db768cb7",
+          "bytes": 1316730,
+          "webPath": "assets/books/12/cover-2.webp",
+          "thumbPath": "assets/books/12/cover-2-thumb.webp",
+          "webBytes": 82760,
+          "thumbBytes": 22468,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "63b09de8ff580e6b24277c03fd40430abee3e7c6d239247a95fa70b1a28c15e2",
+          "bytes": 8647122,
+          "webPath": "assets/books/12/board.webp",
+          "thumbPath": "assets/books/12/board-thumb.webp",
+          "webBytes": 691550,
+          "thumbBytes": 49974,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "黑板2.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "c37079a510f0429be7266eed613ed20e98a06fca066e86582ac296bcca2cb982",
+          "bytes": 8794968,
+          "webPath": "assets/books/12/board-2.webp",
+          "thumbPath": "assets/books/12/board-2-thumb.webp",
+          "webBytes": 711470,
+          "thumbBytes": 49790,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "原则",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "63c324f751324d89e71e5c3d6353675772db9ace3aa185487d5ff53b80ef043d",
+          "bytes": 8917554,
+          "webPath": "assets/books/13/three-lines.webp",
+          "thumbPath": "assets/books/13/three-lines-thumb.webp",
+          "webBytes": 610698,
+          "thumbBytes": 47172,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "abdff87b20071951a1ae9fc6309a860023c643d9035a6412e450466f97062932",
+          "bytes": 6851016,
+          "webPath": "assets/books/13/cover.webp",
+          "thumbPath": "assets/books/13/cover-thumb.webp",
+          "webBytes": 292366,
+          "thumbBytes": 26388,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "aa50f4d11db04e173fca031f5bba9481198cfa82ae2bccf39b0a0b12e418bd22",
+          "bytes": 1671448,
+          "webPath": "assets/books/13/cover-2.webp",
+          "thumbPath": "assets/books/13/cover-2-thumb.webp",
+          "webBytes": 192088,
+          "thumbBytes": 47604,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "23d1f1d913f6b7a18c2ac29ea2c524ebe5139793522d8327a906a31b2be70021",
+          "bytes": 9205770,
+          "webPath": "assets/books/13/board.webp",
+          "thumbPath": "assets/books/13/board-thumb.webp",
+          "webBytes": 779530,
+          "thumbBytes": 49776,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "原子习惯",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "b1942cc3e094f4e31a46bce64bace67fca4b9b8f3329cfa8c8cda4aab2b80b9b",
+          "bytes": 1403422,
+          "webPath": "assets/books/14/cover.webp",
+          "thumbPath": "assets/books/14/cover-thumb.webp",
+          "webBytes": 121094,
+          "thumbBytes": 35252,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "叫魂",
+      "images": [
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "c06d6f0e665808628afb8c249ab661f21381126ac1a1828429e63a0136c2a78b",
+          "bytes": 8611682,
+          "webPath": "assets/books/15/board.webp",
+          "thumbPath": "assets/books/15/board-thumb.webp",
+          "webBytes": 739446,
+          "thumbBytes": 44610,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "可能的世界",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "35f8c7fc51655a1547da5cf6a587b4f4c0d5c26c42de4f9ff26540afaf99a1d7",
+          "bytes": 6603571,
+          "webPath": "assets/books/16/three-lines.webp",
+          "thumbPath": "assets/books/16/three-lines-thumb.webp",
+          "webBytes": 735884,
+          "thumbBytes": 50688,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "ea561bfd66f881b8432d7e543e8b9c361c08f5a01179ceef3f3dc581724b522b",
+          "bytes": 5098494,
+          "webPath": "assets/books/16/cover.webp",
+          "thumbPath": "assets/books/16/cover-thumb.webp",
+          "webBytes": 177234,
+          "thumbBytes": 41648,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "256e52ece7de56072e0ccc8c43f7d1ab8739b1755bbdce349441c745b83f47ff",
+          "bytes": 6651752,
+          "webPath": "assets/books/16/board.webp",
+          "thumbPath": "assets/books/16/board-thumb.webp",
+          "webBytes": 851718,
+          "thumbBytes": 55668,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "向前一步",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "4f5d03507552d9b53727aa0e8bf5a452b4bdb65ea985ba049a995f96a211ad2d",
+          "bytes": 1381300,
+          "webPath": "assets/books/17/cover.webp",
+          "thumbPath": "assets/books/17/cover-thumb.webp",
+          "webBytes": 105880,
+          "thumbBytes": 28100,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "5980f15e8a02e1bfdfaea84b9b6e4ed081b2bd2f4b2859a9f6da5b262de75a28",
+          "bytes": 6217780,
+          "webPath": "assets/books/17/board.webp",
+          "thumbPath": "assets/books/17/board-thumb.webp",
+          "webBytes": 681040,
+          "thumbBytes": 45920,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "命运",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "60770e84079f80f88eda252981aecc19cda04f9d0bcfcc2de669e4e4e156e1b0",
+          "bytes": 6890427,
+          "webPath": "assets/books/18/three-lines.webp",
+          "thumbPath": "assets/books/18/three-lines-thumb.webp",
+          "webBytes": 829160,
+          "thumbBytes": 70642,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "ab818a25af88784ac276588ab134f62c8e19bd57e469d5647c10bb5343d2775a",
+          "bytes": 6433471,
+          "webPath": "assets/books/18/cover.webp",
+          "thumbPath": "assets/books/18/cover-thumb.webp",
+          "webBytes": 231050,
+          "thumbBytes": 45766,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "39a2f930c414e997f5f857355aede43417832d91646f5ce82a6765816717b519",
+          "bytes": 1716496,
+          "webPath": "assets/books/18/board.webp",
+          "thumbPath": "assets/books/18/board-thumb.webp",
+          "webBytes": 209962,
+          "thumbBytes": 49746,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "埃隆·马斯克传",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "28040ba59d881be93ec1afcf013c05344e647b5b9028079bb8f2b970d8ca1978",
+          "bytes": 13457459,
+          "webPath": "assets/books/19/cover.webp",
+          "thumbPath": "assets/books/19/cover-thumb.webp",
+          "webBytes": 1104742,
+          "thumbBytes": 82590,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "9b60aefe945a9c9026b8ba2fb700ec8e2ed83f7da8d4f5f84aa7df36c488c6b5",
+          "bytes": 3078212,
+          "webPath": "assets/books/19/cover-2.webp",
+          "thumbPath": "assets/books/19/cover-2-thumb.webp",
+          "webBytes": 142062,
+          "thumbBytes": 34640,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "59cf87271a8173c32e401cd3ca9c87cee7053233e09a24551a261ccec884e9bd",
+          "bytes": 10196764,
+          "webPath": "assets/books/19/board.webp",
+          "thumbPath": "assets/books/19/board-thumb.webp",
+          "webBytes": 706904,
+          "thumbBytes": 54178,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "大败局",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "b18d6eaf8f8edc00882e39524178a0dc1ade5efe996cafcaee8c2935f7702bf8",
+          "bytes": 9822070,
+          "webPath": "assets/books/20/cover.webp",
+          "thumbPath": "assets/books/20/cover-thumb.webp",
+          "webBytes": 814804,
+          "thumbBytes": 55940,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "16555e4ecd44b4b8f884c8166687c67c53de0d8299e54b17ef2709093b7f935c",
+          "bytes": 1780160,
+          "webPath": "assets/books/20/cover-2.webp",
+          "thumbPath": "assets/books/20/cover-2-thumb.webp",
+          "webBytes": 220482,
+          "thumbBytes": 53058,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "14d88aafe13731ded904d5ccd482a4480fbf3e3e274448ba0a9f6a39afa9c6b4",
+          "bytes": 9096450,
+          "webPath": "assets/books/20/board.webp",
+          "thumbPath": "assets/books/20/board-thumb.webp",
+          "webBytes": 863536,
+          "thumbBytes": 45502,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "太白金星有点烦",
+      "images": [
+        {
+          "name": "其他.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "48127983b2c136f032f583427297973665ab12cd6dbb67fe4ef9bc2c4c7aae82",
+          "bytes": 9650162,
+          "webPath": "assets/books/21/other.webp",
+          "thumbPath": "assets/books/21/other-thumb.webp",
+          "webBytes": 966526,
+          "thumbBytes": 80052,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "37c587952155a61fda80e077939e25f84f6dd35800061411782c1967736294ee",
+          "bytes": 1997838,
+          "webPath": "assets/books/21/cover.webp",
+          "thumbPath": "assets/books/21/cover-thumb.webp",
+          "webBytes": 179246,
+          "thumbBytes": 44970,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "6dadcabb49d3c1e43e126b93f276b96e4b58397a714ad890bdef809a36e2f559",
+          "bytes": 7628979,
+          "webPath": "assets/books/21/board.webp",
+          "thumbPath": "assets/books/21/board-thumb.webp",
+          "webBytes": 708454,
+          "thumbBytes": 53088,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "女性主义",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "4cbae6fcc3d43a5849b02dd558fbb0fe3be9235fc395da2aab812c493991150f",
+          "bytes": 1422822,
+          "webPath": "assets/books/22/cover.webp",
+          "thumbPath": "assets/books/22/cover-thumb.webp",
+          "webBytes": 112894,
+          "thumbBytes": 33164,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "96e799a1324edf0d9c0c9ab984f456e76bf3e456fce913b1f4d0dff66337d808",
+          "bytes": 1558625,
+          "webPath": "assets/books/22/cover-2.webp",
+          "thumbPath": "assets/books/22/cover-2-thumb.webp",
+          "webBytes": 144930,
+          "thumbBytes": 40582,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "始于极限",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "7b260080f390f3e87047e85aee1da15062c76770f10724a2a5b4f4d3896a4189",
+          "bytes": 10164558,
+          "webPath": "assets/books/23/cover.webp",
+          "thumbPath": "assets/books/23/cover-thumb.webp",
+          "webBytes": 675736,
+          "thumbBytes": 57366,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "416dc1931a7f2a3a951880f816ad6ccf1a071dc8f70bccca3d2b849e803c31b6",
+          "bytes": 2570759,
+          "webPath": "assets/books/23/cover-2.webp",
+          "thumbPath": "assets/books/23/cover-2-thumb.webp",
+          "webBytes": 192866,
+          "thumbBytes": 45292,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "76b35ddff13a5b52b5ac8d8a3d8a4af14f9f1a4dedd4db54e9b0785e36a0321c",
+          "bytes": 8770343,
+          "webPath": "assets/books/23/board.webp",
+          "thumbPath": "assets/books/23/board-thumb.webp",
+          "webBytes": 696284,
+          "thumbBytes": 52424,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "富爸爸穷爸爸",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a31f74638163d736c3650af014b0ef53ea9eac96c49da081f6b05082a6e37f36",
+          "bytes": 8460322,
+          "webPath": "assets/books/24/cover.webp",
+          "thumbPath": "assets/books/24/cover-thumb.webp",
+          "webBytes": 428536,
+          "thumbBytes": 39188,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "1e5a4e38c511f2e8da667fbc674bff8f8e4cac2a73b265d06a231f932851e027",
+          "bytes": 1314108,
+          "webPath": "assets/books/24/cover-2.webp",
+          "thumbPath": "assets/books/24/cover-2-thumb.webp",
+          "webBytes": 101678,
+          "thumbBytes": 29562,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "af907ccfef34e53933eb70a9ef3e72ecd974b042e8f08e79d264eb492a220096",
+          "bytes": 9030893,
+          "webPath": "assets/books/24/board.webp",
+          "thumbPath": "assets/books/24/board-thumb.webp",
+          "webBytes": 920770,
+          "thumbBytes": 50642,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "少有人走的路",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "aecc3c2915ec08d354dd18df47d17314cd67ab943d9b83d62bec756ec24c8ad9",
+          "bytes": 7932317,
+          "webPath": "assets/books/25/cover.webp",
+          "thumbPath": "assets/books/25/cover-thumb.webp",
+          "webBytes": 832070,
+          "thumbBytes": 61834,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "7395d225d026dacd24a16b28ebc1118b0669ed5d777bbf1f1c3fcd04f07b200b",
+          "bytes": 1387432,
+          "webPath": "assets/books/25/cover-2.webp",
+          "thumbPath": "assets/books/25/cover-2-thumb.webp",
+          "webBytes": 103388,
+          "thumbBytes": 25790,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "814bd86f785096c73f7b108142fd30e986d9158f87561a3b9e7839ef7f3132f8",
+          "bytes": 6525473,
+          "webPath": "assets/books/25/board.webp",
+          "thumbPath": "assets/books/25/board-thumb.webp",
+          "webBytes": 772506,
+          "thumbBytes": 48590,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "局外人",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "ac0502219484fb172d0471fb75cf3abf4ebbbe818d67e39d4efcd74db58777ca",
+          "bytes": 7217203,
+          "webPath": "assets/books/26/three-lines.webp",
+          "thumbPath": "assets/books/26/three-lines-thumb.webp",
+          "webBytes": 644750,
+          "thumbBytes": 44358,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "dddac571d9910eccc89d34922ac8cfeb47cd5eeb59d8ec8e20a98f4b2aea69ae",
+          "bytes": 1626246,
+          "webPath": "assets/books/26/cover.webp",
+          "thumbPath": "assets/books/26/cover-thumb.webp",
+          "webBytes": 121020,
+          "thumbBytes": 22850,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "1540cd3ff1e109bd98a1573c35f5822fcd8ab923f2c4c2140f7c772e5b63fe1b",
+          "bytes": 7207186,
+          "webPath": "assets/books/26/board.webp",
+          "thumbPath": "assets/books/26/board-thumb.webp",
+          "webBytes": 805782,
+          "thumbBytes": 47014,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "黑板2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "9593afa1678e9fdcfbdca311e1b904bc380d668c096a5dae29eb408deb6731e6",
+          "bytes": 1809634,
+          "webPath": "assets/books/26/board-2.webp",
+          "thumbPath": "assets/books/26/board-2-thumb.webp",
+          "webBytes": 234056,
+          "thumbBytes": 46086,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "当下的力量",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "d4cac4a6e7b0152d4e2cf661fc5c9388a695fe630845507416e2f77d6925fa09",
+          "bytes": 8372305,
+          "webPath": "assets/books/27/cover.webp",
+          "thumbPath": "assets/books/27/cover-thumb.webp",
+          "webBytes": 804084,
+          "thumbBytes": 60076,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "282be47118d0dc08bd3033f8511c2e5b5f27ba7bafd63fd6609a4f7b288f659a",
+          "bytes": 1354619,
+          "webPath": "assets/books/27/cover-2.webp",
+          "thumbPath": "assets/books/27/cover-2-thumb.webp",
+          "webBytes": 103838,
+          "thumbBytes": 28182,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "7817505dbeb66aef189685c8b2a34df06c56fd76cdf63020a8e6b0934a5d4432",
+          "bytes": 6545191,
+          "webPath": "assets/books/27/board.webp",
+          "thumbPath": "assets/books/27/board-thumb.webp",
+          "webBytes": 793886,
+          "thumbBytes": 53436,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "影响力",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "3b5c16bacb1e369a0f67da5dc41aed8269e22f558ce9d3aa40b2b3e08f71ec65",
+          "bytes": 8622176,
+          "webPath": "assets/books/28/cover.webp",
+          "thumbPath": "assets/books/28/cover-thumb.webp",
+          "webBytes": 651414,
+          "thumbBytes": 55028,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "8971c326e2f3dbe6b1f662cb909fd01805d866d0853495d24af91c290c88f784",
+          "bytes": 1477456,
+          "webPath": "assets/books/28/cover-2.webp",
+          "thumbPath": "assets/books/28/cover-2-thumb.webp",
+          "webBytes": 140656,
+          "thumbBytes": 37684,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "bec71077264f8ac5eafb373e72df61536808e2d8c7e7888c3cae54c1326572a4",
+          "bytes": 9268921,
+          "webPath": "assets/books/28/board.webp",
+          "thumbPath": "assets/books/28/board-thumb.webp",
+          "webBytes": 663340,
+          "thumbBytes": 49964,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "思考快与慢",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "77db9b137c41c17514f467a39d81adf9d6144f9ed67849d6bea531a6c247f2ff",
+          "bytes": 7690819,
+          "webPath": "assets/books/29/cover.webp",
+          "thumbPath": "assets/books/29/cover-thumb.webp",
+          "webBytes": 498552,
+          "thumbBytes": 49466,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "7ee85a75800a2e6e92d94427a9f572a977937fb23f1384fe12dbc09da285af58",
+          "bytes": 1472298,
+          "webPath": "assets/books/29/cover-2.webp",
+          "thumbPath": "assets/books/29/cover-2-thumb.webp",
+          "webBytes": 141350,
+          "thumbBytes": 36892,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "bb2be8b520fdb95f0c88edf64c7d281a9aa5a39ceaa3a542934b65e8ef7cdd78",
+          "bytes": 8375873,
+          "webPath": "assets/books/29/board.webp",
+          "thumbPath": "assets/books/29/board-thumb.webp",
+          "webBytes": 507306,
+          "thumbBytes": 38912,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "悉达多",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "9c3bd60ce01ac8ae3c526862961ce41b4a44276f5bb1a2d4d697e334f657be4f",
+          "bytes": 1849294,
+          "webPath": "assets/books/30/three-lines.webp",
+          "thumbPath": "assets/books/30/three-lines-thumb.webp",
+          "webBytes": 234798,
+          "thumbBytes": 55958,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "8e5f9b0b894322c8e1cb18c377a9892570156bc92eb46aa713e713c5064c6799",
+          "bytes": 1436902,
+          "webPath": "assets/books/30/cover.webp",
+          "thumbPath": "assets/books/30/cover-thumb.webp",
+          "webBytes": 124454,
+          "thumbBytes": 30726,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "7cb8d4df2fbc979c5f1f72879fb7a4683dd28bf46b1e0e6e1d8fbecf6af8062c",
+          "bytes": 1818534,
+          "webPath": "assets/books/30/board.webp",
+          "thumbPath": "assets/books/30/board-thumb.webp",
+          "webBytes": 230876,
+          "thumbBytes": 46144,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "成为",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "0ffbd44642944e692ad998dd66fc50ea4a9368ea8e9c0949f3daec20f86d4819",
+          "bytes": 1551301,
+          "webPath": "assets/books/31/cover.webp",
+          "thumbPath": "assets/books/31/cover-thumb.webp",
+          "webBytes": 133524,
+          "thumbBytes": 25178,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "3539ba1733979b1ae21005ef581c9664249b82de0c54c3e1038b078296234d1b",
+          "bytes": 13500930,
+          "webPath": "assets/books/31/board.webp",
+          "thumbPath": "assets/books/31/board-thumb.webp",
+          "webBytes": 704012,
+          "thumbBytes": 47650,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "我们生活在巨大的差距里",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "bd078ac4e36a67bb085630ab65761fd954ad0027549d15ff6669ed510f88e146",
+          "bytes": 9470682,
+          "webPath": "assets/books/32/cover.webp",
+          "thumbPath": "assets/books/32/cover-thumb.webp",
+          "webBytes": 782380,
+          "thumbBytes": 56846,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "807ef6bd9dbf789442eb37ebd9b7ef04242eea4610f8e54a6cb6545dfb289c60",
+          "bytes": 1565574,
+          "webPath": "assets/books/32/cover-2.webp",
+          "thumbPath": "assets/books/32/cover-2-thumb.webp",
+          "webBytes": 169142,
+          "thumbBytes": 41518,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "ff28a76d06ec3f5a0c5b3c1cfd09da283b885d205aef2cb61b7fdbb62b5dda93",
+          "bytes": 9269404,
+          "webPath": "assets/books/32/board.webp",
+          "thumbPath": "assets/books/32/board-thumb.webp",
+          "webBytes": 904340,
+          "thumbBytes": 57332,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "我在北京送快递",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "3dc4ec1ed9b7cda919b7e5c8996200f13ecf474563c40769969bf9de48b7a46a",
+          "bytes": 10412223,
+          "webPath": "assets/books/33/cover.webp",
+          "thumbPath": "assets/books/33/cover-thumb.webp",
+          "webBytes": 942090,
+          "thumbBytes": 67856,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "d5a861b6e8ec1dbd825c4a51f970ba5808c6dc7d29d452f6c10e67a4bd2a4590",
+          "bytes": 2530588,
+          "webPath": "assets/books/33/cover-2.webp",
+          "thumbPath": "assets/books/33/cover-2-thumb.webp",
+          "webBytes": 221638,
+          "thumbBytes": 45456,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "f03d6220edbfe5fefd3a618bb16774fa4cadaf5091c0873a51b829b0f2026bce",
+          "bytes": 8688021,
+          "webPath": "assets/books/33/board.webp",
+          "thumbPath": "assets/books/33/board-thumb.webp",
+          "webBytes": 800990,
+          "thumbBytes": 54970,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "我本芬芳",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "0a682f50571e19bcdcc91e2e412611f1a5fe8abbb986ab350acb95dd4e5d2f33",
+          "bytes": 14407256,
+          "webPath": "assets/books/34/three-lines.webp",
+          "thumbPath": "assets/books/34/three-lines-thumb.webp",
+          "webBytes": 1160220,
+          "thumbBytes": 75836,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "2c47f5eec0a7cf641aebe031cbcf66208a4a91bef86cffbfab32f691baa9c80b",
+          "bytes": 3509672,
+          "webPath": "assets/books/34/cover.webp",
+          "thumbPath": "assets/books/34/cover-thumb.webp",
+          "webBytes": 175130,
+          "thumbBytes": 33440,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "ff834615d9814129b4e704474161637581dfc22ddcaeee57f46dec3e59609942",
+          "bytes": 10986133,
+          "webPath": "assets/books/34/board.webp",
+          "thumbPath": "assets/books/34/board-thumb.webp",
+          "webBytes": 794996,
+          "thumbBytes": 52380,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "我的母亲做保洁",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "80f56dd7bdd6fdfd1c8ec63c4e9a89091ef298fff66128fa3cbb0b74b273bcef",
+          "bytes": 8064762,
+          "webPath": "assets/books/35/cover.webp",
+          "thumbPath": "assets/books/35/cover-thumb.webp",
+          "webBytes": 913270,
+          "thumbBytes": 62742,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "3dae338ac48ebf520e6c813f551cbe3a5420058169ed651109e73fcdb141b92a",
+          "bytes": 1783278,
+          "webPath": "assets/books/35/cover-2.webp",
+          "thumbPath": "assets/books/35/cover-2-thumb.webp",
+          "webBytes": 168380,
+          "thumbBytes": 32394,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "把自己当回事儿",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "a63b80fbd57646cce153742eeb3a6cd81b178dcf08a10257d267927fef617b5a",
+          "bytes": 1398413,
+          "webPath": "assets/books/36/cover.webp",
+          "thumbPath": "assets/books/36/cover-thumb.webp",
+          "webBytes": 104644,
+          "thumbBytes": 27906,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a3fb2c0f9dc6f48f7bf47ffe25fe5baf6a734eb8efb5311fe4fa85a73f53ba28",
+          "bytes": 6424659,
+          "webPath": "assets/books/36/board.webp",
+          "thumbPath": "assets/books/36/board-thumb.webp",
+          "webBytes": 753128,
+          "thumbBytes": 50184,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "明亮的日子",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "acd8e108a4e7802e1d69f25583bfa2a0103badd51867dc52839196adf2127a0b",
+          "bytes": 12932296,
+          "webPath": "assets/books/37/cover.webp",
+          "thumbPath": "assets/books/37/cover-thumb.webp",
+          "webBytes": 1242062,
+          "thumbBytes": 91640,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "49de181416741c0cfa4441ca1632a1e3f40fdf27ef064a63b641a41677102e90",
+          "bytes": 2606246,
+          "webPath": "assets/books/37/cover-2.webp",
+          "thumbPath": "assets/books/37/cover-2-thumb.webp",
+          "webBytes": 152778,
+          "thumbBytes": 35448,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "9dcc43e7ad6ad298b176087f60cee822ce9a09991fa6c27df8c96743a182032d",
+          "bytes": 10014927,
+          "webPath": "assets/books/37/board.webp",
+          "thumbPath": "assets/books/37/board-thumb.webp",
+          "webBytes": 771968,
+          "thumbBytes": 51442,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "明朝那些事儿",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "8c12450ab33260e9520ba01c45b42474401aad482c5d0457bb8f71dbe69a8d3b",
+          "bytes": 9402155,
+          "webPath": "assets/books/38/cover.webp",
+          "thumbPath": "assets/books/38/cover-thumb.webp",
+          "webBytes": 882538,
+          "thumbBytes": 73582,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "73e3c30df2852a562e20f0afc29d79050d80696a7b2bb0c85408bdd66a272a7f",
+          "bytes": 1610501,
+          "webPath": "assets/books/38/cover-2.webp",
+          "thumbPath": "assets/books/38/cover-2-thumb.webp",
+          "webBytes": 167090,
+          "thumbBytes": 39178,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "1b06fe917c14c6bff1805c212d8c76834a9def99754b6d9fb2c55bf1f678c2a4",
+          "bytes": 9973340,
+          "webPath": "assets/books/38/board.webp",
+          "thumbPath": "assets/books/38/board-thumb.webp",
+          "webBytes": 745894,
+          "thumbBytes": 51200,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "月亮与六便士",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "aca4553aa593df998531b0bfa262c62440165c91b5a7b740e3574a9346a5ee9d",
+          "bytes": 2269722,
+          "webPath": "assets/books/39/cover.webp",
+          "thumbPath": "assets/books/39/cover-thumb.webp",
+          "webBytes": 406048,
+          "thumbBytes": 89828,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "aa55e283608d76734504fd326657f67cdcd97d613fca1b6db79b76e7a9e5bd2b",
+          "bytes": 1597977,
+          "webPath": "assets/books/39/cover-2.webp",
+          "thumbPath": "assets/books/39/cover-2-thumb.webp",
+          "webBytes": 138408,
+          "thumbBytes": 31862,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "83ec1eb36143b09063f0526fee9dcc38a0b60173b99871177a94a9b849ac5204",
+          "bytes": 1696603,
+          "webPath": "assets/books/39/board.webp",
+          "thumbPath": "assets/books/39/board-thumb.webp",
+          "webBytes": 202828,
+          "thumbBytes": 45204,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "枪炮、病菌与钢铁",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "875c0e24f0a338713a6eba5a20cf24fe6339aa5dd9829c5f5aef841c873abc9b",
+          "bytes": 8927904,
+          "webPath": "assets/books/40/three-lines.webp",
+          "thumbPath": "assets/books/40/three-lines-thumb.webp",
+          "webBytes": 796222,
+          "thumbBytes": 60210,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "404b86833570360cf58630da0a0516d9bd1a124ed2eae7df5e28f89c98efa9e0",
+          "bytes": 8778520,
+          "webPath": "assets/books/40/cover.webp",
+          "thumbPath": "assets/books/40/cover-thumb.webp",
+          "webBytes": 280968,
+          "thumbBytes": 54136,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "激荡三十年",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "7bd20beb4a554068dafeabb11ea002aaf4f3123686dca804f96a6ec00aa568b4",
+          "bytes": 10881954,
+          "webPath": "assets/books/41/cover.webp",
+          "thumbPath": "assets/books/41/cover-thumb.webp",
+          "webBytes": 1198024,
+          "thumbBytes": 82564,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "0b25ade0d9d6f098592ff1254bf7070a89852ef61e2945ff18034cbcbb83e416",
+          "bytes": 1679350,
+          "webPath": "assets/books/41/cover-2.webp",
+          "thumbPath": "assets/books/41/cover-2-thumb.webp",
+          "webBytes": 193708,
+          "thumbBytes": 48382,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a7444a810b9be0f13912c5e9c6f1141f90b5cd30a0824985a1058aa22937f215",
+          "bytes": 8726558,
+          "webPath": "assets/books/41/board.webp",
+          "thumbPath": "assets/books/41/board-thumb.webp",
+          "webBytes": 799330,
+          "thumbBytes": 45126,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "爱的艺术",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "58bacf1b40d416f425170a8d68d438a9c748ab894b3fb7bdcbc2186a3583d4d1",
+          "bytes": 1482033,
+          "webPath": "assets/books/42/cover.webp",
+          "thumbPath": "assets/books/42/cover-thumb.webp",
+          "webBytes": 129524,
+          "thumbBytes": 30848,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "父权制与资本主义",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "edd074130bcf012f27645b9a2ead94d78b5f79363ab9e09bacacba35784586c0",
+          "bytes": 1671367,
+          "webPath": "assets/books/43/cover.webp",
+          "thumbPath": "assets/books/43/cover-thumb.webp",
+          "webBytes": 166626,
+          "thumbBytes": 39076,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "60d2366679942853cefd9cd9901b7accae4f516f3a4a638f9c53b0d620be9c92",
+          "bytes": 1925845,
+          "webPath": "assets/books/43/cover-2.webp",
+          "thumbPath": "assets/books/43/cover-2-thumb.webp",
+          "webBytes": 271170,
+          "thumbBytes": 58822,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "2438dd7439bd9559c29ecdb1b2683ab380d728a3d367513278a0e825e1607a14",
+          "bytes": 1815351,
+          "webPath": "assets/books/43/board.webp",
+          "thumbPath": "assets/books/43/board-thumb.webp",
+          "webBytes": 220160,
+          "thumbBytes": 49096,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "猫鱼",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "63aad7a23af8c25a86df676516c4832fe37f985b3df3d6897cbcce25eb619ea2",
+          "bytes": 9947519,
+          "webPath": "assets/books/44/three-lines.webp",
+          "thumbPath": "assets/books/44/three-lines-thumb.webp",
+          "webBytes": 952168,
+          "thumbBytes": 64060,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "a2ed05f45bfdb59a8b48c3e0029beae631e7973837ada83d24be0ab77fc8652f",
+          "bytes": 2144271,
+          "webPath": "assets/books/44/cover.webp",
+          "thumbPath": "assets/books/44/cover-thumb.webp",
+          "webBytes": 143228,
+          "thumbBytes": 33122,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "4b30e6f6978e28a1e0e1295223b3b25b19aa93bf6786029d49a62bc9be70f1c8",
+          "bytes": 8462594,
+          "webPath": "assets/books/44/board.webp",
+          "thumbPath": "assets/books/44/board-thumb.webp",
+          "webBytes": 850384,
+          "thumbBytes": 53382,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "真希望我父母读过这本书",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "27251a3806e8b644abfb06d48992e2bd72070eda6757d46df67c62c9f0f2f2c0",
+          "bytes": 1238154,
+          "webPath": "assets/books/45/cover.webp",
+          "thumbPath": "assets/books/45/cover-thumb.webp",
+          "webBytes": 84124,
+          "thumbBytes": 26674,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "社会心理学",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "5d2e8ca94cd93db1726f89790126ddf666eb24595e7c07a7f5c2a431de29d21e",
+          "bytes": 8984963,
+          "webPath": "assets/books/46/three-lines.webp",
+          "thumbPath": "assets/books/46/three-lines-thumb.webp",
+          "webBytes": 695548,
+          "thumbBytes": 55758,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "d0d6f732445fdf03a25075b6f5f5daca1e7196946748364588c4d932cfea70f8",
+          "bytes": 1501398,
+          "webPath": "assets/books/46/cover.webp",
+          "thumbPath": "assets/books/46/cover-thumb.webp",
+          "webBytes": 165514,
+          "thumbBytes": 43746,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "d886086d08afd3eb13e271fbedd84e049250a5b7dd6714060e3664810c88247d",
+          "bytes": 8699272,
+          "webPath": "assets/books/46/board.webp",
+          "thumbPath": "assets/books/46/board-thumb.webp",
+          "webBytes": 671674,
+          "thumbBytes": 52616,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "秋园",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "053686b540cd059af6cd558c1dcf5e7344b2f56ae28fba15d35e70572eba069b",
+          "bytes": 8908875,
+          "webPath": "assets/books/47/three-lines.webp",
+          "thumbPath": "assets/books/47/three-lines-thumb.webp",
+          "webBytes": 332198,
+          "thumbBytes": 68822,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "79c6e3710e5e2d8f1ddae87cf48620daa42fc0787cbe0de2e28cce77fadb4560",
+          "bytes": 3855423,
+          "webPath": "assets/books/47/cover.webp",
+          "thumbPath": "assets/books/47/cover-thumb.webp",
+          "webBytes": 200594,
+          "thumbBytes": 26924,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "59c132cb563ae08ca226e746c78cf0b0f81dd404109ba618f6cc8a437d08d7f8",
+          "bytes": 11540411,
+          "webPath": "assets/books/47/board.webp",
+          "thumbPath": "assets/books/47/board-thumb.webp",
+          "webBytes": 682968,
+          "thumbBytes": 54180,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "穷查理宝典",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "ebd39b85702c75a91a3004b47ffd499e3c72706127cff67860f8c124e9ccdfa9",
+          "bytes": 9651100,
+          "webPath": "assets/books/48/cover.webp",
+          "thumbPath": "assets/books/48/cover-thumb.webp",
+          "webBytes": 935644,
+          "thumbBytes": 68320,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "538360b444a7cd69127855cf4332038cde01b362fd6ea40b69e1756805f2ff45",
+          "bytes": 1692700,
+          "webPath": "assets/books/48/cover-2.webp",
+          "thumbPath": "assets/books/48/cover-2-thumb.webp",
+          "webBytes": 201878,
+          "thumbBytes": 46236,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "2cf1c51a0437570df12500377fe95a3b3180f9c7671c9ddf1629b715f02c1f13",
+          "bytes": 8819441,
+          "webPath": "assets/books/48/board.webp",
+          "thumbPath": "assets/books/48/board-thumb.webp",
+          "webBytes": 709568,
+          "thumbBytes": 51570,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "第二性",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "f9cabb26d05ef94233ccf212c988857ac41f914855887d01343b77c11e3e7d63",
+          "bytes": 6131265,
+          "webPath": "assets/books/49/cover.webp",
+          "thumbPath": "assets/books/49/cover-thumb.webp",
+          "webBytes": 501532,
+          "thumbBytes": 38400,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "bb8deaa1df3bc7b78622356c4c2df7494931f55305b2406dc53c9c3bde4f116c",
+          "bytes": 7642378,
+          "webPath": "assets/books/49/cover-2.webp",
+          "thumbPath": "assets/books/49/cover-2-thumb.webp",
+          "webBytes": 147108,
+          "thumbBytes": 30620,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "db2610be0ebb364864ebacb583170b65269ca1037da695f8fc960115f0398aa4",
+          "bytes": 13396134,
+          "webPath": "assets/books/49/board.webp",
+          "thumbPath": "assets/books/49/board-thumb.webp",
+          "webBytes": 690672,
+          "thumbBytes": 48760,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "纳瓦尔宝典",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "5df697faf8c4deca4cd65f4d418f424984b75ed624a573d544ef08cfeeb7b8d8",
+          "bytes": 7900195,
+          "webPath": "assets/books/50/cover.webp",
+          "thumbPath": "assets/books/50/cover-thumb.webp",
+          "webBytes": 853028,
+          "thumbBytes": 64884,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "72ddc53d6eeaf0092c2d12800853cf25e67837abe719c021298536a7ce43aae5",
+          "bytes": 6606400,
+          "webPath": "assets/books/50/board.webp",
+          "thumbPath": "assets/books/50/board-thumb.webp",
+          "webBytes": 759816,
+          "thumbBytes": 47542,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "绝叫",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "c7f300f1afbd0c4ccd97e91f30ac05288ad081e1b3f6d924ca1e03499f289c80",
+          "bytes": 1868058,
+          "webPath": "assets/books/51/cover.webp",
+          "thumbPath": "assets/books/51/cover-thumb.webp",
+          "webBytes": 285840,
+          "thumbBytes": 60014,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "8dc9aaf3f1be2d7aac4b86ac5e2b4e2a1aafd99dcd1f0b2c887a87fec86d93a4",
+          "bytes": 4445228,
+          "webPath": "assets/books/51/cover-2.webp",
+          "thumbPath": "assets/books/51/cover-2-thumb.webp",
+          "webBytes": 249282,
+          "thumbBytes": 44718,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "354c86fbb01244c7a51ea9ce5ac76c9f7ed1059e94bb36eb4d35ee6e86de32dd",
+          "bytes": 12374330,
+          "webPath": "assets/books/51/board.webp",
+          "thumbPath": "assets/books/51/board-thumb.webp",
+          "webBytes": 726580,
+          "thumbBytes": 49280,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "置身事内",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "dc4502df945bf1189c05aa8a4de584e5ff96560ac1572601c77332fe686ba3bc",
+          "bytes": 2102081,
+          "webPath": "assets/books/52/cover.webp",
+          "thumbPath": "assets/books/52/cover-thumb.webp",
+          "webBytes": 325168,
+          "thumbBytes": 67124,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "3d76013e226e6bc33f65c6cfe89b80390bdb21203006e8654a22a70903508c69",
+          "bytes": 1578124,
+          "webPath": "assets/books/52/cover-2.webp",
+          "thumbPath": "assets/books/52/cover-2-thumb.webp",
+          "webBytes": 169438,
+          "thumbBytes": 42616,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "3ae6bfe6090a34f799d1e0d82bea528420aa4eda818d500c465e13088cddf554",
+          "bytes": 1684723,
+          "webPath": "assets/books/52/board.webp",
+          "thumbPath": "assets/books/52/board-thumb.webp",
+          "webBytes": 195172,
+          "thumbBytes": 40874,
+          "webWidth": 896,
+          "webHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "翦商",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "94c092970bd23e7beb461d06895c805eb58fd2cbdfbed2bacde26418c900a5ad",
+          "bytes": 6108710,
+          "webPath": "assets/books/53/cover.webp",
+          "thumbPath": "assets/books/53/cover-thumb.webp",
+          "webBytes": 538790,
+          "thumbBytes": 43142,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "35287d668c486148b6aad5294b8939498ab981431df162a23ba870c87cd91ad7",
+          "bytes": 7000560,
+          "webPath": "assets/books/53/cover-2.webp",
+          "thumbPath": "assets/books/53/cover-2-thumb.webp",
+          "webBytes": 198390,
+          "thumbBytes": 41168,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "3e2b9de312d8d67654312c66f9515490fb138c96cc6960d9c31d5e8f51e86517",
+          "bytes": 13964907,
+          "webPath": "assets/books/53/board.webp",
+          "thumbPath": "assets/books/53/board-thumb.webp",
+          "webBytes": 742618,
+          "thumbBytes": 54816,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "老派少女购物路线",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "52d3156987e7dd3508f4c5da08a9573e13ea6f05108e09163553a6588f937eec",
+          "bytes": 11811783,
+          "webPath": "assets/books/54/cover.webp",
+          "thumbPath": "assets/books/54/cover-thumb.webp",
+          "webBytes": 1017832,
+          "thumbBytes": 69818,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "25a831d89db9851df89289ac303646d05a4310488e0f8962f5cf925c8e8e0db1",
+          "bytes": 9360346,
+          "webPath": "assets/books/54/board.webp",
+          "thumbPath": "assets/books/54/board-thumb.webp",
+          "webBytes": 718388,
+          "thumbBytes": 57640,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "自卑与超越",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "56a95ba1f0449d3a6fa3389d53b8275f06c505121c7faf7be0823d9530cd1367",
+          "bytes": 7020523,
+          "webPath": "assets/books/55/three-lines.webp",
+          "thumbPath": "assets/books/55/three-lines-thumb.webp",
+          "webBytes": 695536,
+          "thumbBytes": 58144,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "9f8eb5c36fcb8b950cd501223103b663a65d36b48c3c90b4fd9f284a84226d4d",
+          "bytes": 1502500,
+          "webPath": "assets/books/55/cover.webp",
+          "thumbPath": "assets/books/55/cover-thumb.webp",
+          "webBytes": 135454,
+          "thumbBytes": 33086,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a7d84c208e713e5405c29995ef97961555089e970dbace6d3a742370bd392198",
+          "bytes": 6250752,
+          "webPath": "assets/books/55/board.webp",
+          "thumbPath": "assets/books/55/board-thumb.webp",
+          "webBytes": 672854,
+          "thumbBytes": 48576,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "黑板2.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a7d84c208e713e5405c29995ef97961555089e970dbace6d3a742370bd392198",
+          "bytes": 6250752,
+          "webPath": "assets/books/55/board-2.webp",
+          "thumbPath": "assets/books/55/board-2-thumb.webp",
+          "webBytes": 672854,
+          "thumbBytes": 48576,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "草民",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "ae338c877d7fc7c7757b97a96d751a5cd2c2a612118b36d0c6750fd6ea61c08c",
+          "bytes": 5724591,
+          "webPath": "assets/books/56/cover.webp",
+          "thumbPath": "assets/books/56/cover-thumb.webp",
+          "webBytes": 196660,
+          "thumbBytes": 39628,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "482c4bd1837536a5e3c9c5361d607b9eae6be32a584bfd40cf13df6ba4eed1a0",
+          "bytes": 1726887,
+          "webPath": "assets/books/56/board.webp",
+          "thumbPath": "assets/books/56/board-thumb.webp",
+          "webBytes": 244700,
+          "thumbBytes": 55370,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板2.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "aac67a56df180a18ba56986a83b9adfc483f07dcff7c2305e6cbc0f5cc2afb1d",
+          "bytes": 7510598,
+          "webPath": "assets/books/56/board-2.webp",
+          "thumbPath": "assets/books/56/board-2-thumb.webp",
+          "webBytes": 1131550,
+          "thumbBytes": 68340,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "被讨厌的勇气",
+      "images": [
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "893058858c2d7fcc8d5bef2b91de5b6a0de91b0590e0ba5770c91361d4771a56",
+          "bytes": 6100366,
+          "webPath": "assets/books/57/board.webp",
+          "thumbPath": "assets/books/57/board-thumb.webp",
+          "webBytes": 662130,
+          "thumbBytes": 43120,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "认知觉醒",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "69e6d6d0d9cf07da630bfd70c276a772b0888cdf94ba2eeaa2609e3820d314c7",
+          "bytes": 6788434,
+          "webPath": "assets/books/58/three-lines.webp",
+          "thumbPath": "assets/books/58/three-lines-thumb.webp",
+          "webBytes": 520198,
+          "thumbBytes": 41920,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "04be3ec7f46b6d111ac1708dc1808bdb328acd69e9678399883f01c87cb15c5d",
+          "bytes": 1460146,
+          "webPath": "assets/books/58/cover.webp",
+          "thumbPath": "assets/books/58/cover-thumb.webp",
+          "webBytes": 138594,
+          "thumbBytes": 35742,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "0a3cb13bdc8b8029623193638a218de6b48cf7c48da93ac317bb78dfa6ebd771",
+          "bytes": 6281526,
+          "webPath": "assets/books/58/board.webp",
+          "thumbPath": "assets/books/58/board-thumb.webp",
+          "webBytes": 706470,
+          "thumbBytes": 47660,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "豆子芝麻茶",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "099a935d077818d871501b61a2899fef2bc55dc60812c8e0f7f2800de4d9b0b3",
+          "bytes": 7452959,
+          "webPath": "assets/books/59/cover.webp",
+          "thumbPath": "assets/books/59/cover-thumb.webp",
+          "webBytes": 990076,
+          "thumbBytes": 80326,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "8ea41fa0e2b26d746e75365d016e2414053d2c78b45054b438d675f46a40882b",
+          "bytes": 4606960,
+          "webPath": "assets/books/59/cover-2.webp",
+          "thumbPath": "assets/books/59/cover-2-thumb.webp",
+          "webBytes": 151864,
+          "thumbBytes": 33736,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "72f9fd950506285c302d930ccb2dcbb396e8269c44b5d32822f54975f77ad668",
+          "bytes": 13395571,
+          "webPath": "assets/books/59/board.webp",
+          "thumbPath": "assets/books/59/board-thumb.webp",
+          "webBytes": 823068,
+          "thumbBytes": 58960,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "赶时间的人",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "eacd655fd0ba78bcdd3e7474813dc0f7a0a4827a466dc44709670aea6911212d",
+          "bytes": 9493876,
+          "webPath": "assets/books/60/cover.webp",
+          "thumbPath": "assets/books/60/cover-thumb.webp",
+          "webBytes": 951440,
+          "thumbBytes": 65950,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "cfb751f934328c2b43c7806e2ae4561c80e95ba6915e1e3eaaf730142b0a2c1f",
+          "bytes": 2307182,
+          "webPath": "assets/books/60/cover-2.webp",
+          "thumbPath": "assets/books/60/cover-2-thumb.webp",
+          "webBytes": 255054,
+          "thumbBytes": 55842,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "8dd5ddd54b2d8dd5e801545c90dad374dcf5ec434145647657dc28fb4b92bf20",
+          "bytes": 8126170,
+          "webPath": "assets/books/60/board.webp",
+          "thumbPath": "assets/books/60/board-thumb.webp",
+          "webBytes": 779464,
+          "thumbBytes": 57452,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "身体从未忘记",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "23f97e8dda16b100a0807a9c6fd2926dc40681e168739049da683d698882313b",
+          "bytes": 7623012,
+          "webPath": "assets/books/61/three-lines.webp",
+          "thumbPath": "assets/books/61/three-lines-thumb.webp",
+          "webBytes": 932836,
+          "thumbBytes": 58192,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "0f78c6b0b4a55faa10f7c883455dd7de2baec94a6448fc949e928df58e99f492",
+          "bytes": 1338068,
+          "webPath": "assets/books/61/cover.webp",
+          "thumbPath": "assets/books/61/cover-thumb.webp",
+          "webBytes": 93590,
+          "thumbBytes": 24050,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "0f78c6b0b4a55faa10f7c883455dd7de2baec94a6448fc949e928df58e99f492",
+          "bytes": 1338068,
+          "webPath": "assets/books/61/cover-2.webp",
+          "thumbPath": "assets/books/61/cover-2-thumb.webp",
+          "webBytes": 93590,
+          "thumbBytes": 24050,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "050c8649eecd0f84ad8f280d0a28a1b8bebb5114159a01004c2fc37150654d57",
+          "bytes": 6720062,
+          "webPath": "assets/books/61/board.webp",
+          "thumbPath": "assets/books/61/board-thumb.webp",
+          "webBytes": 798364,
+          "thumbBytes": 53780,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "邓小平时代",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "c08eea67e141f1b116dc5a72cc973d6d6334339a63f6c2b1f00c4a220d040ed0",
+          "bytes": 9094707,
+          "webPath": "assets/books/62/cover.webp",
+          "thumbPath": "assets/books/62/cover-thumb.webp",
+          "webBytes": 731580,
+          "thumbBytes": 56248,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "7f62d79a4a25815ebc5c2b6721591d1810ecc45280b5fe605e6cfcb29dad0684",
+          "bytes": 1395055,
+          "webPath": "assets/books/62/cover-2.webp",
+          "thumbPath": "assets/books/62/cover-2-thumb.webp",
+          "webBytes": 105738,
+          "thumbBytes": 27772,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "b3864282cf3de42809ac6ccbcd91e2f77e27d4c02c4150bf8ad1b9a555e2a20c",
+          "bytes": 8289053,
+          "webPath": "assets/books/62/board.webp",
+          "thumbPath": "assets/books/62/board-thumb.webp",
+          "webBytes": 652916,
+          "thumbBytes": 47740,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "金字塔原理",
+      "images": [
+        {
+          "name": "三句话.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "6df4272b2b81d9eb74065360f62d0e2ff734a9312f8f28b4ef5906647443908e",
+          "bytes": 8967463,
+          "webPath": "assets/books/63/three-lines.webp",
+          "thumbPath": "assets/books/63/three-lines-thumb.webp",
+          "webBytes": 772960,
+          "thumbBytes": 39512,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "718fc67b6b74420e4dc1dffdc06ac0a6e584f81dcb5e6c97042b8bc55d9e84e5",
+          "bytes": 1572684,
+          "webPath": "assets/books/63/cover.webp",
+          "thumbPath": "assets/books/63/cover-thumb.webp",
+          "webBytes": 145954,
+          "thumbBytes": 31406,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "7d7f4d053084bae4b15f1e532aa453616a5e0e9995069c89bca61cc27901d08d",
+          "bytes": 9306367,
+          "webPath": "assets/books/63/board.webp",
+          "thumbPath": "assets/books/63/board-thumb.webp",
+          "webBytes": 694490,
+          "thumbBytes": 49148,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "长安的荔枝",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "540f68e053c66199b2ed5a526cc5febb46e2b22e01e6093cca8cecc174715a2b",
+          "bytes": 8567175,
+          "webPath": "assets/books/64/cover.webp",
+          "thumbPath": "assets/books/64/cover-thumb.webp",
+          "webBytes": 883454,
+          "thumbBytes": 70372,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "f258696c3b1d3007fd946cefdcff4fe8e65c999c9229de649ae47a02f3f605a8",
+          "bytes": 1698061,
+          "webPath": "assets/books/64/cover-2.webp",
+          "thumbPath": "assets/books/64/cover-2-thumb.webp",
+          "webBytes": 214214,
+          "thumbBytes": 47614,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "4414d9729984cc8bc4d2c9f6cf04c41f8b6e5445024c4456b069a8756468f8a8",
+          "bytes": 7174210,
+          "webPath": "assets/books/64/board.webp",
+          "thumbPath": "assets/books/64/board-thumb.webp",
+          "webBytes": 698674,
+          "thumbBytes": 53446,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "非暴力沟通",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "5e2611916ef817b3fd7188026fd94d29cccecf8931e4942f509033e5fbe62cac",
+          "bytes": 6676359,
+          "webPath": "assets/books/65/cover.webp",
+          "thumbPath": "assets/books/65/cover-thumb.webp",
+          "webBytes": 720650,
+          "thumbBytes": 40160,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "eadc789db0e797db31cacc9271469aa89f7793daf6a28d5488dd749fa5ba0f76",
+          "bytes": 1264807,
+          "webPath": "assets/books/65/cover-2.webp",
+          "thumbPath": "assets/books/65/cover-2-thumb.webp",
+          "webBytes": 85172,
+          "thumbBytes": 25556,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "5113fcfd8d0d3623b97de124c6b1d30363bc6da85407cca33d6cf6cba83683ef",
+          "bytes": 13473412,
+          "webPath": "assets/books/65/board.webp",
+          "thumbPath": "assets/books/65/board-thumb.webp",
+          "webBytes": 686556,
+          "thumbBytes": 49220,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "非虚构写作指南",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "288f6e2c8278785f1c416c6a3970920a089aa2be07a500500a9f467e2dcff08a",
+          "bytes": 8840155,
+          "webPath": "assets/books/66/cover.webp",
+          "thumbPath": "assets/books/66/cover-thumb.webp",
+          "webBytes": 791874,
+          "thumbBytes": 50378,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "d8c7a8c3ae9ba4ea0607da14c6903acc93d5de1f79c14ad0f877d187a5f0ef1e",
+          "bytes": 1581751,
+          "webPath": "assets/books/66/cover-2.webp",
+          "thumbPath": "assets/books/66/cover-2-thumb.webp",
+          "webBytes": 144702,
+          "thumbBytes": 34704,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "a0df93beffd88abb66d471001aaf68e1a9a5dc459699461f2eefdd339363bb42",
+          "bytes": 9388684,
+          "webPath": "assets/books/66/board.webp",
+          "thumbPath": "assets/books/66/board-thumb.webp",
+          "webBytes": 704460,
+          "thumbBytes": 54212,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "食南之徒",
+      "images": [
+        {
+          "name": "封面.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "b15c3e60104b8045e07b2cdc5644f9afab3d805e991acbfabc5925a50fb98152",
+          "bytes": 9612349,
+          "webPath": "assets/books/67/cover.webp",
+          "thumbPath": "assets/books/67/cover-thumb.webp",
+          "webBytes": 1086388,
+          "thumbBytes": 85980,
+          "webWidth": 1792,
+          "webHeight": 2400
+        },
+        {
+          "name": "封面2.png",
+          "width": 896,
+          "height": 1200,
+          "sha256": "7212edff40eab71591cc77fb9c921812ba2929b34ca82e59b7b4de29936dd68d",
+          "bytes": 1941853,
+          "webPath": "assets/books/67/cover-2.webp",
+          "thumbPath": "assets/books/67/cover-2-thumb.webp",
+          "webBytes": 191954,
+          "thumbBytes": 45552,
+          "webWidth": 896,
+          "webHeight": 1200
+        },
+        {
+          "name": "黑板.png",
+          "width": 1792,
+          "height": 2400,
+          "sha256": "cb10d7c72e499706f6d2cfa0fd73d4767023d0cb749e1577986dbacfb46285d1",
+          "bytes": 7433471,
+          "webPath": "assets/books/67/board.webp",
+          "thumbPath": "assets/books/67/board-thumb.webp",
+          "webBytes": 736056,
+          "thumbBytes": 59652,
+          "webWidth": 1792,
+          "webHeight": 2400
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "books": 67,
+    "images": 190,
+    "sourceBytes": 1147777103,
+    "webBytes": 98209526,
+    "thumbBytes": 9178764,
+    "underThree": [
+      {
+        "id": 2,
+        "title": "万历十五年",
+        "count": 2
+      },
+      {
+        "id": 14,
+        "title": "原子习惯",
+        "count": 1
+      },
+      {
+        "id": 15,
+        "title": "叫魂",
+        "count": 1
+      },
+      {
+        "id": 17,
+        "title": "向前一步",
+        "count": 2
+      },
+      {
+        "id": 22,
+        "title": "女性主义",
+        "count": 2
+      },
+      {
+        "id": 31,
+        "title": "成为",
+        "count": 2
+      },
+      {
+        "id": 35,
+        "title": "我的母亲做保洁",
+        "count": 2
+      },
+      {
+        "id": 36,
+        "title": "把自己当回事儿",
+        "count": 2
+      },
+      {
+        "id": 40,
+        "title": "枪炮、病菌与钢铁",
+        "count": 2
+      },
+      {
+        "id": 42,
+        "title": "爱的艺术",
+        "count": 1
+      },
+      {
+        "id": 45,
+        "title": "真希望我父母读过这本书",
+        "count": 1
+      },
+      {
+        "id": 50,
+        "title": "纳瓦尔宝典",
+        "count": 2
+      },
+      {
+        "id": 54,
+        "title": "老派少女购物路线",
+        "count": 2
+      },
+      {
+        "id": 57,
+        "title": "被讨厌的勇气",
+        "count": 1
+      }
+    ],
+    "overThree": [
+      {
+        "id": 1,
+        "title": "一间自己的房间",
+        "count": 4
+      },
+      {
+        "id": 6,
+        "title": "也许你该找个人聊聊",
+        "count": 4
+      },
+      {
+        "id": 9,
+        "title": "人类简史",
+        "count": 4
+      },
+      {
+        "id": 12,
+        "title": "厌女",
+        "count": 4
+      },
+      {
+        "id": 13,
+        "title": "原则",
+        "count": 4
+      },
+      {
+        "id": 26,
+        "title": "局外人",
+        "count": 4
+      },
+      {
+        "id": 55,
+        "title": "自卑与超越",
+        "count": 4
+      },
+      {
+        "id": 61,
+        "title": "身体从未忘记",
+        "count": 4
+      }
+    ],
+    "readingResolution": "original",
+    "readingQuality": 90
+  }
+}
