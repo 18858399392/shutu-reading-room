@@ -1,4 +1,4 @@
-const VERSION='onebook-ae0c884a9249',SHELL=VERSION+'-shell',IMAGES=VERSION+'-images';
+const VERSION='onebook-b13fbb19c2c7',SHELL=VERSION+'-shell',IMAGES=VERSION+'-images';
 const FILES=['./','./index.html','./index.htm','./style.css','./app.js','./books.js','./manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(SHELL).then(c=>c.addAll(FILES.map(u=>new Request(u,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('onebook-')&&!k.startsWith(VERSION)).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
