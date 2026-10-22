@@ -1,0 +1,4022 @@
+[
+  {
+    "id": 1,
+    "cover": {
+      "src": "assets/books/01/cover-3.webp?v=b14eb2ae935b",
+      "thumb": "assets/books/01/cover-3-thumb.webp?v=b14eb2ae935b",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/01/cover.webp?v=9c96f83c3acd",
+      "thumb": "assets/books/01/cover-thumb.webp?v=9c96f83c3acd",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "blackboard": {
+      "src": "assets/books/01/board.webp?v=8ac7056f65cb",
+      "thumb": "assets/books/01/board-thumb.webp?v=8ac7056f65cb",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 2,
+    "cover": {
+      "src": "assets/books/02/cover.webp?v=59775122af43",
+      "thumb": "assets/books/02/cover-thumb.webp?v=59775122af43",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/02/three-lines.webp?v=be277f637685",
+      "thumb": "assets/books/02/three-lines-thumb.webp?v=be277f637685",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/notebook/02-blackboard.webp?v=92a3de003a32",
+      "thumb": "assets/notebook/02-blackboard-thumb.webp?v=92a3de003a32",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/02-ideas.webp?v=cff60697862a",
+        "thumb": "assets/supplements/02-ideas-thumb.webp?v=cff60697862a",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cover": {
+      "src": "assets/books/03/cover.webp?v=abdd0a81f17c",
+      "thumb": "assets/books/03/cover-thumb.webp?v=abdd0a81f17c",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/03/three-lines.webp?v=a44d688e516b",
+      "thumb": "assets/books/03/three-lines-thumb.webp?v=a44d688e516b",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/03/board.webp?v=dffd091c0fc0",
+      "thumb": "assets/books/03/board-thumb.webp?v=dffd091c0fc0",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 4,
+    "cover": {
+      "src": "assets/books/04/cover.webp?v=2691a732396e",
+      "thumb": "assets/books/04/cover-thumb.webp?v=2691a732396e",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/04/three-lines.webp?v=5f1e8417c33d",
+      "thumb": "assets/books/04/three-lines-thumb.webp?v=5f1e8417c33d",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/04/board.webp?v=61cb1c4a9d3f",
+      "thumb": "assets/books/04/board-thumb.webp?v=61cb1c4a9d3f",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 5,
+    "cover": {
+      "src": "assets/books/05/cover.webp?v=d1e67872e34a",
+      "thumb": "assets/books/05/cover-thumb.webp?v=d1e67872e34a",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/05/three-lines.webp?v=ffda7226d6fb",
+      "thumb": "assets/books/05/three-lines-thumb.webp?v=ffda7226d6fb",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/05/board.webp?v=4391c3d91b04",
+      "thumb": "assets/books/05/board-thumb.webp?v=4391c3d91b04",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 6,
+    "cover": {
+      "src": "assets/books/06/cover-3.webp?v=4e4738524092",
+      "thumb": "assets/books/06/cover-3-thumb.webp?v=4e4738524092",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/06/cover.webp?v=16fd2b4bafc6",
+      "thumb": "assets/books/06/cover-thumb.webp?v=16fd2b4bafc6",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/06/board.webp?v=e5d1664d9167",
+      "thumb": "assets/books/06/board-thumb.webp?v=e5d1664d9167",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/06/cover-2.webp?v=fe0b7340ba66",
+        "thumb": "assets/books/06/cover-2-thumb.webp?v=fe0b7340ba66",
+        "label": "另一种封面",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "cover": {
+      "src": "assets/books/07/cover-2.webp?v=1e0bab7d9802",
+      "thumb": "assets/books/07/cover-2-thumb.webp?v=1e0bab7d9802",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/07-three-lines.webp?v=2468b0cb3ebc",
+      "thumb": "assets/notebook/07-three-lines-thumb.webp?v=2468b0cb3ebc",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/07/board.webp?v=922098de4374",
+      "thumb": "assets/books/07/board-thumb.webp?v=922098de4374",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/07/cover.webp?v=0b8c08f50a42",
+        "thumb": "assets/books/07/cover-thumb.webp?v=0b8c08f50a42",
+        "label": "封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "cover": {
+      "src": "assets/books/08/cover-2.webp?v=7279e416414b",
+      "thumb": "assets/books/08/cover-2-thumb.webp?v=7279e416414b",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/08/cover.webp?v=13cf9c5c3282",
+      "thumb": "assets/books/08/cover-thumb.webp?v=13cf9c5c3282",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/08/board.webp?v=19e4a77467f6",
+      "thumb": "assets/books/08/board-thumb.webp?v=19e4a77467f6",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 9,
+    "cover": {
+      "src": "assets/books/09/cover-3.webp?v=cb6fc4f04978",
+      "thumb": "assets/books/09/cover-3-thumb.webp?v=cb6fc4f04978",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/09/cover.webp?v=13992baa7afb",
+      "thumb": "assets/books/09/cover-thumb.webp?v=13992baa7afb",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/09/board.webp?v=c2211824e999",
+      "thumb": "assets/books/09/board-thumb.webp?v=c2211824e999",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/09/cover-2.webp?v=f665ca2bf2d3",
+        "thumb": "assets/books/09/cover-2-thumb.webp?v=f665ca2bf2d3",
+        "label": "另一种封面",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "cover": {
+      "src": "assets/books/10/cover.webp?v=f414d5a3ceb6",
+      "thumb": "assets/books/10/cover-thumb.webp?v=f414d5a3ceb6",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/10/three-lines.webp?v=ee7da0c2e378",
+      "thumb": "assets/books/10/three-lines-thumb.webp?v=ee7da0c2e378",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/10/board.webp?v=bc925b76f8b7",
+      "thumb": "assets/books/10/board-thumb.webp?v=bc925b76f8b7",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 11,
+    "cover": {
+      "src": "assets/books/11/cover.webp?v=faa668295281",
+      "thumb": "assets/books/11/cover-thumb.webp?v=faa668295281",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/11/three-lines.webp?v=dc653c234af2",
+      "thumb": "assets/books/11/three-lines-thumb.webp?v=dc653c234af2",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/11/board.webp?v=f39574faaa11",
+      "thumb": "assets/books/11/board-thumb.webp?v=f39574faaa11",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 12,
+    "cover": {
+      "src": "assets/books/12/cover-2.webp?v=dafce5936c44",
+      "thumb": "assets/books/12/cover-2-thumb.webp?v=dafce5936c44",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/12/cover.webp?v=86d5e98cd94b",
+      "thumb": "assets/books/12/cover-thumb.webp?v=86d5e98cd94b",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/12/board.webp?v=63b09de8ff58",
+      "thumb": "assets/books/12/board-thumb.webp?v=63b09de8ff58",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/12/board-2.webp?v=c37079a510f0",
+        "thumb": "assets/books/12/board-2-thumb.webp?v=c37079a510f0",
+        "label": "黑板图解 · 二",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "cover": {
+      "src": "assets/books/13/cover-2.webp?v=aa50f4d11db0",
+      "thumb": "assets/books/13/cover-2-thumb.webp?v=aa50f4d11db0",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/13/three-lines.webp?v=63c324f75132",
+      "thumb": "assets/books/13/three-lines-thumb.webp?v=63c324f75132",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/13/board.webp?v=23d1f1d913f6",
+      "thumb": "assets/books/13/board-thumb.webp?v=23d1f1d913f6",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/13/cover.webp?v=abdff87b2007",
+        "thumb": "assets/books/13/cover-thumb.webp?v=abdff87b2007",
+        "label": "封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "cover": {
+      "src": "assets/books/14/cover.webp?v=b1942cc3e094",
+      "thumb": "assets/books/14/cover-thumb.webp?v=b1942cc3e094",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/14-three-lines.webp?v=c3406d65aeba",
+      "thumb": "assets/notebook/14-three-lines-thumb.webp?v=c3406d65aeba",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/14-blackboard.webp?v=db9846e118b0",
+      "thumb": "assets/notebook/14-blackboard-thumb.webp?v=db9846e118b0",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/14-ideas.webp?v=95aa7dd60d7d",
+        "thumb": "assets/supplements/14-ideas-thumb.webp?v=95aa7dd60d7d",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/14-questions.webp?v=90f8592ec5ae",
+        "thumb": "assets/supplements/14-questions-thumb.webp?v=90f8592ec5ae",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "cover": {
+      "src": "assets/notebook/15-cover.webp?v=a6a7dbd408e6",
+      "thumb": "assets/notebook/15-cover-thumb.webp?v=a6a7dbd408e6",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/15-three-lines.webp?v=4f6491f16243",
+      "thumb": "assets/notebook/15-three-lines-thumb.webp?v=4f6491f16243",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/15/board.webp?v=c06d6f0e6658",
+      "thumb": "assets/books/15/board-thumb.webp?v=c06d6f0e6658",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/15-overview.webp?v=59bfc76b6526",
+        "thumb": "assets/supplements/15-overview-thumb.webp?v=59bfc76b6526",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/15-ideas.webp?v=5b60c1cd4c15",
+        "thumb": "assets/supplements/15-ideas-thumb.webp?v=5b60c1cd4c15",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "cover": {
+      "src": "assets/notebook/16-cover.webp?v=a4356737811f",
+      "thumb": "assets/notebook/16-cover-thumb.webp?v=a4356737811f",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/16-three-lines.webp?v=c846de8a2c92",
+      "thumb": "assets/notebook/16-three-lines-thumb.webp?v=c846de8a2c92",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/16-blackboard.webp?v=607beb896618",
+      "thumb": "assets/notebook/16-blackboard-thumb.webp?v=607beb896618",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/16-overview.webp?v=ac4e483facd9",
+        "thumb": "assets/supplements/16-overview-thumb.webp?v=ac4e483facd9",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/16-ideas.webp?v=98c2d1c67a18",
+        "thumb": "assets/supplements/16-ideas-thumb.webp?v=98c2d1c67a18",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/16-reflections.webp?v=8c4aa9e6a2f8",
+        "thumb": "assets/supplements/16-reflections-thumb.webp?v=8c4aa9e6a2f8",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/books/16/cover.webp?v=ea561bfd66f8",
+        "thumb": "assets/books/16/cover-thumb.webp?v=ea561bfd66f8",
+        "label": "原素材对照 · 封面印象",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      },
+      {
+        "src": "assets/books/16/board.webp?v=256e52ece7de",
+        "thumb": "assets/books/16/board-thumb.webp?v=256e52ece7de",
+        "label": "原素材对照 · 黑板图解",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "src": "assets/books/16/three-lines.webp?v=35f8c7fc5165",
+        "thumb": "assets/books/16/three-lines-thumb.webp?v=35f8c7fc5165",
+        "label": "原素材对照 · 三句话读懂",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "cover": {
+      "src": "assets/books/17/cover.webp?v=4f5d03507552",
+      "thumb": "assets/books/17/cover-thumb.webp?v=4f5d03507552",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/17-three-lines.webp?v=3288c22a90a4",
+      "thumb": "assets/notebook/17-three-lines-thumb.webp?v=3288c22a90a4",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/17/board.webp?v=5980f15e8a02",
+      "thumb": "assets/books/17/board-thumb.webp?v=5980f15e8a02",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/17-ideas.webp?v=8f3293d270f9",
+        "thumb": "assets/supplements/17-ideas-thumb.webp?v=8f3293d270f9",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "cover": {
+      "src": "assets/books/18/cover.webp?v=ab818a25af88",
+      "thumb": "assets/books/18/cover-thumb.webp?v=ab818a25af88",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/18/three-lines.webp?v=60770e84079f",
+      "thumb": "assets/books/18/three-lines-thumb.webp?v=60770e84079f",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/18/board.webp?v=39a2f930c414",
+      "thumb": "assets/books/18/board-thumb.webp?v=39a2f930c414",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "extras": []
+  },
+  {
+    "id": 19,
+    "cover": {
+      "src": "assets/books/19/cover-2.webp?v=9b60aefe945a",
+      "thumb": "assets/books/19/cover-2-thumb.webp?v=9b60aefe945a",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/19/cover.webp?v=28040ba59d88",
+      "thumb": "assets/books/19/cover-thumb.webp?v=28040ba59d88",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/19/board.webp?v=59cf87271a81",
+      "thumb": "assets/books/19/board-thumb.webp?v=59cf87271a81",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 20,
+    "cover": {
+      "src": "assets/books/20/cover-2.webp?v=16555e4ecd44",
+      "thumb": "assets/books/20/cover-2-thumb.webp?v=16555e4ecd44",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/20/cover.webp?v=b18d6eaf8f8e",
+      "thumb": "assets/books/20/cover-thumb.webp?v=b18d6eaf8f8e",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/20/board.webp?v=14d88aafe137",
+      "thumb": "assets/books/20/board-thumb.webp?v=14d88aafe137",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 21,
+    "cover": {
+      "src": "assets/books/21/cover.webp?v=37c587952155",
+      "thumb": "assets/books/21/cover-thumb.webp?v=37c587952155",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/21/other.webp?v=48127983b2c1",
+      "thumb": "assets/books/21/other-thumb.webp?v=48127983b2c1",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/21/board.webp?v=6dadcabb49d3",
+      "thumb": "assets/books/21/board-thumb.webp?v=6dadcabb49d3",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 22,
+    "cover": {
+      "src": "assets/notebook/22-cover.webp?v=a59fa72defd7",
+      "thumb": "assets/notebook/22-cover-thumb.webp?v=a59fa72defd7",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/22-three-lines.webp?v=121fcd0cfc65",
+      "thumb": "assets/notebook/22-three-lines-thumb.webp?v=121fcd0cfc65",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/22-blackboard.webp?v=73cb26b6c2f4",
+      "thumb": "assets/notebook/22-blackboard-thumb.webp?v=73cb26b6c2f4",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/22-overview.webp?v=a6251f12637d",
+        "thumb": "assets/supplements/22-overview-thumb.webp?v=a6251f12637d",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/22-ideas.webp?v=a773fc8cbcf1",
+        "thumb": "assets/supplements/22-ideas-thumb.webp?v=a773fc8cbcf1",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/22-reflections.webp?v=9b11390ada99",
+        "thumb": "assets/supplements/22-reflections-thumb.webp?v=9b11390ada99",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/books/22/cover.webp?v=4cbae6fcc3d4",
+        "thumb": "assets/books/22/cover-thumb.webp?v=4cbae6fcc3d4",
+        "label": "原素材对照 · 封面印象",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      },
+      {
+        "src": "assets/books/22/cover-2.webp?v=96e799a1324e",
+        "thumb": "assets/books/22/cover-2-thumb.webp?v=96e799a1324e",
+        "label": "原素材对照 · 另一种封面",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "cover": {
+      "src": "assets/books/23/cover-2.webp?v=416dc1931a7f",
+      "thumb": "assets/books/23/cover-2-thumb.webp?v=416dc1931a7f",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/23/cover.webp?v=7b260080f390",
+      "thumb": "assets/books/23/cover-thumb.webp?v=7b260080f390",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/23/board.webp?v=76b35ddff13a",
+      "thumb": "assets/books/23/board-thumb.webp?v=76b35ddff13a",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 24,
+    "cover": {
+      "src": "assets/books/24/cover-2.webp?v=1e5a4e38c511",
+      "thumb": "assets/books/24/cover-2-thumb.webp?v=1e5a4e38c511",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/24/cover.webp?v=a31f74638163",
+      "thumb": "assets/books/24/cover-thumb.webp?v=a31f74638163",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/24/board.webp?v=af907ccfef34",
+      "thumb": "assets/books/24/board-thumb.webp?v=af907ccfef34",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 25,
+    "cover": {
+      "src": "assets/books/25/cover-2.webp?v=7395d225d026",
+      "thumb": "assets/books/25/cover-2-thumb.webp?v=7395d225d026",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/25/cover.webp?v=aecc3c2915ec",
+      "thumb": "assets/books/25/cover-thumb.webp?v=aecc3c2915ec",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/25/board.webp?v=814bd86f7850",
+      "thumb": "assets/books/25/board-thumb.webp?v=814bd86f7850",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 26,
+    "cover": {
+      "src": "assets/books/26/cover.webp?v=dddac571d991",
+      "thumb": "assets/books/26/cover-thumb.webp?v=dddac571d991",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/26/three-lines.webp?v=ac0502219484",
+      "thumb": "assets/books/26/three-lines-thumb.webp?v=ac0502219484",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/26/board.webp?v=1540cd3ff1e1",
+      "thumb": "assets/books/26/board-thumb.webp?v=1540cd3ff1e1",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/26/board-2.webp?v=9593afa1678e",
+        "thumb": "assets/books/26/board-2-thumb.webp?v=9593afa1678e",
+        "label": "黑板图解 · 二",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "cover": {
+      "src": "assets/books/27/cover-2.webp?v=282be47118d0",
+      "thumb": "assets/books/27/cover-2-thumb.webp?v=282be47118d0",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/27/cover.webp?v=d4cac4a6e7b0",
+      "thumb": "assets/books/27/cover-thumb.webp?v=d4cac4a6e7b0",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/27/board.webp?v=7817505dbeb6",
+      "thumb": "assets/books/27/board-thumb.webp?v=7817505dbeb6",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 28,
+    "cover": {
+      "src": "assets/books/28/cover-2.webp?v=8971c326e2f3",
+      "thumb": "assets/books/28/cover-2-thumb.webp?v=8971c326e2f3",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/28-three-lines.webp?v=1286775c6d6c",
+      "thumb": "assets/notebook/28-three-lines-thumb.webp?v=1286775c6d6c",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/28/board.webp?v=bec71077264f",
+      "thumb": "assets/books/28/board-thumb.webp?v=bec71077264f",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/28/cover.webp?v=3b5c16bacb1e",
+        "thumb": "assets/books/28/cover-thumb.webp?v=3b5c16bacb1e",
+        "label": "封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "cover": {
+      "src": "assets/books/29/cover-2.webp?v=7ee85a75800a",
+      "thumb": "assets/books/29/cover-2-thumb.webp?v=7ee85a75800a",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/29/cover.webp?v=77db9b137c41",
+      "thumb": "assets/books/29/cover-thumb.webp?v=77db9b137c41",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/29/board.webp?v=bb2be8b520fd",
+      "thumb": "assets/books/29/board-thumb.webp?v=bb2be8b520fd",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 30,
+    "cover": {
+      "src": "assets/books/30/cover.webp?v=8e5f9b0b8943",
+      "thumb": "assets/books/30/cover-thumb.webp?v=8e5f9b0b8943",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/30/three-lines.webp?v=9c3bd60ce01a",
+      "thumb": "assets/books/30/three-lines-thumb.webp?v=9c3bd60ce01a",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "blackboard": {
+      "src": "assets/books/30/board.webp?v=7cb8d4df2fbc",
+      "thumb": "assets/books/30/board-thumb.webp?v=7cb8d4df2fbc",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "extras": []
+  },
+  {
+    "id": 31,
+    "cover": {
+      "src": "assets/books/31/cover.webp?v=0ffbd4464294",
+      "thumb": "assets/books/31/cover-thumb.webp?v=0ffbd4464294",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/31-three-lines.webp?v=4fc65273e22c",
+      "thumb": "assets/notebook/31-three-lines-thumb.webp?v=4fc65273e22c",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/31/board.webp?v=3539ba173397",
+      "thumb": "assets/books/31/board-thumb.webp?v=3539ba173397",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/31-ideas.webp?v=651ce24cc620",
+        "thumb": "assets/supplements/31-ideas-thumb.webp?v=651ce24cc620",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "cover": {
+      "src": "assets/books/32/cover-2.webp?v=807ef6bd9dbf",
+      "thumb": "assets/books/32/cover-2-thumb.webp?v=807ef6bd9dbf",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/32/cover.webp?v=bd078ac4e36a",
+      "thumb": "assets/books/32/cover-thumb.webp?v=bd078ac4e36a",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/32/board.webp?v=ff28a76d06ec",
+      "thumb": "assets/books/32/board-thumb.webp?v=ff28a76d06ec",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 33,
+    "cover": {
+      "src": "assets/books/33/cover-2.webp?v=d5a861b6e8ec",
+      "thumb": "assets/books/33/cover-2-thumb.webp?v=d5a861b6e8ec",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/33/cover.webp?v=3dc4ec1ed9b7",
+      "thumb": "assets/books/33/cover-thumb.webp?v=3dc4ec1ed9b7",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/33/board.webp?v=f03d6220edbf",
+      "thumb": "assets/books/33/board-thumb.webp?v=f03d6220edbf",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 34,
+    "cover": {
+      "src": "assets/books/34/cover.webp?v=2c47f5eec0a7",
+      "thumb": "assets/books/34/cover-thumb.webp?v=2c47f5eec0a7",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/34/three-lines.webp?v=0a682f50571e",
+      "thumb": "assets/books/34/three-lines-thumb.webp?v=0a682f50571e",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/34/board.webp?v=ff834615d981",
+      "thumb": "assets/books/34/board-thumb.webp?v=ff834615d981",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 35,
+    "cover": {
+      "src": "assets/books/35/cover-2.webp?v=3dae338ac48e",
+      "thumb": "assets/books/35/cover-2-thumb.webp?v=3dae338ac48e",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/35/cover.webp?v=80f56dd7bdd6",
+      "thumb": "assets/books/35/cover-thumb.webp?v=80f56dd7bdd6",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/notebook/35-blackboard.webp?v=a5cf3e313764",
+      "thumb": "assets/notebook/35-blackboard-thumb.webp?v=a5cf3e313764",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/35-ideas.webp?v=a959f4107cfe",
+        "thumb": "assets/supplements/35-ideas-thumb.webp?v=a959f4107cfe",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "cover": {
+      "src": "assets/books/36/cover.webp?v=a63b80fbd576",
+      "thumb": "assets/books/36/cover-thumb.webp?v=a63b80fbd576",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/36-three-lines.webp?v=0c344ac549bb",
+      "thumb": "assets/notebook/36-three-lines-thumb.webp?v=0c344ac549bb",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/36/board.webp?v=a3fb2c0f9dc6",
+      "thumb": "assets/books/36/board-thumb.webp?v=a3fb2c0f9dc6",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/36-ideas.webp?v=641009f2889b",
+        "thumb": "assets/supplements/36-ideas-thumb.webp?v=641009f2889b",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "cover": {
+      "src": "assets/notebook/37-cover.webp?v=bb5cd31501e5",
+      "thumb": "assets/notebook/37-cover-thumb.webp?v=bb5cd31501e5",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/37-three-lines.webp?v=b46559709962",
+      "thumb": "assets/notebook/37-three-lines-thumb.webp?v=b46559709962",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/37-blackboard.webp?v=8b265eda3bda",
+      "thumb": "assets/notebook/37-blackboard-thumb.webp?v=8b265eda3bda",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/37-overview.webp?v=efb6c20c940a",
+        "thumb": "assets/supplements/37-overview-thumb.webp?v=efb6c20c940a",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/37-ideas.webp?v=67b6fc95108b",
+        "thumb": "assets/supplements/37-ideas-thumb.webp?v=67b6fc95108b",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/37-reflections.webp?v=c8035cd4f55f",
+        "thumb": "assets/supplements/37-reflections-thumb.webp?v=c8035cd4f55f",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/books/37/cover.webp?v=acd8e108a4e7",
+        "thumb": "assets/books/37/cover-thumb.webp?v=acd8e108a4e7",
+        "label": "原素材对照 · 封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "src": "assets/books/37/board.webp?v=9dcc43e7ad6a",
+        "thumb": "assets/books/37/board-thumb.webp?v=9dcc43e7ad6a",
+        "label": "原素材对照 · 黑板图解",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "src": "assets/books/37/cover-2.webp?v=49de18141674",
+        "thumb": "assets/books/37/cover-2-thumb.webp?v=49de18141674",
+        "label": "原素材对照 · 另一种封面",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "cover": {
+      "src": "assets/books/38/cover-2.webp?v=73e3c30df285",
+      "thumb": "assets/books/38/cover-2-thumb.webp?v=73e3c30df285",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/38-three-lines.webp?v=4f4d9ec9d3c1",
+      "thumb": "assets/notebook/38-three-lines-thumb.webp?v=4f4d9ec9d3c1",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/38/board.webp?v=1b06fe917c14",
+      "thumb": "assets/books/38/board-thumb.webp?v=1b06fe917c14",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/38/cover.webp?v=8c12450ab332",
+        "thumb": "assets/books/38/cover-thumb.webp?v=8c12450ab332",
+        "label": "封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "cover": {
+      "src": "assets/books/39/cover-2.webp?v=aa55e283608d",
+      "thumb": "assets/books/39/cover-2-thumb.webp?v=aa55e283608d",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/39/cover.webp?v=aca4553aa593",
+      "thumb": "assets/books/39/cover-thumb.webp?v=aca4553aa593",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "blackboard": {
+      "src": "assets/books/39/board.webp?v=83ec1eb36143",
+      "thumb": "assets/books/39/board-thumb.webp?v=83ec1eb36143",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "extras": []
+  },
+  {
+    "id": 40,
+    "cover": {
+      "src": "assets/books/40/cover.webp?v=404b86833570",
+      "thumb": "assets/books/40/cover-thumb.webp?v=404b86833570",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/40/three-lines.webp?v=875c0e24f0a3",
+      "thumb": "assets/books/40/three-lines-thumb.webp?v=875c0e24f0a3",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/notebook/40-blackboard.webp?v=ca5b12ad697f",
+      "thumb": "assets/notebook/40-blackboard-thumb.webp?v=ca5b12ad697f",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/40-ideas.webp?v=509c99704d9d",
+        "thumb": "assets/supplements/40-ideas-thumb.webp?v=509c99704d9d",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "cover": {
+      "src": "assets/books/41/cover-2.webp?v=0b25ade0d9d6",
+      "thumb": "assets/books/41/cover-2-thumb.webp?v=0b25ade0d9d6",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/41/cover.webp?v=7bd20beb4a55",
+      "thumb": "assets/books/41/cover-thumb.webp?v=7bd20beb4a55",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/41/board.webp?v=a7444a810b9b",
+      "thumb": "assets/books/41/board-thumb.webp?v=a7444a810b9b",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 42,
+    "cover": {
+      "src": "assets/books/42/cover.webp?v=58bacf1b40d4",
+      "thumb": "assets/books/42/cover-thumb.webp?v=58bacf1b40d4",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/42-three-lines.webp?v=75ea2a49bb66",
+      "thumb": "assets/notebook/42-three-lines-thumb.webp?v=75ea2a49bb66",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/42-blackboard.webp?v=93fe65f3ad56",
+      "thumb": "assets/notebook/42-blackboard-thumb.webp?v=93fe65f3ad56",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/42-ideas.webp?v=acb99dc2939e",
+        "thumb": "assets/supplements/42-ideas-thumb.webp?v=acb99dc2939e",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/42-questions.webp?v=69d46cc3ae2c",
+        "thumb": "assets/supplements/42-questions-thumb.webp?v=69d46cc3ae2c",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "cover": {
+      "src": "assets/books/43/cover.webp?v=edd074130bcf",
+      "thumb": "assets/books/43/cover-thumb.webp?v=edd074130bcf",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/43-three-lines.webp?v=3ae1ab74cb79",
+      "thumb": "assets/notebook/43-three-lines-thumb.webp?v=3ae1ab74cb79",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/43/board.webp?v=2438dd7439bd",
+      "thumb": "assets/books/43/board-thumb.webp?v=2438dd7439bd",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "extras": [
+      {
+        "src": "assets/books/43/cover-2.webp?v=60d236667994",
+        "thumb": "assets/books/43/cover-2-thumb.webp?v=60d236667994",
+        "label": "另一种封面",
+        "generated": false,
+        "width": 896,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "cover": {
+      "src": "assets/books/44/cover.webp?v=a2ed05f45bfd",
+      "thumb": "assets/books/44/cover-thumb.webp?v=a2ed05f45bfd",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/44/three-lines.webp?v=63aad7a23af8",
+      "thumb": "assets/books/44/three-lines-thumb.webp?v=63aad7a23af8",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/44/board.webp?v=4b30e6f6978e",
+      "thumb": "assets/books/44/board-thumb.webp?v=4b30e6f6978e",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 45,
+    "cover": {
+      "src": "assets/books/45/cover.webp?v=27251a3806e8",
+      "thumb": "assets/books/45/cover-thumb.webp?v=27251a3806e8",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/45-three-lines.webp?v=fc007117d57b",
+      "thumb": "assets/notebook/45-three-lines-thumb.webp?v=fc007117d57b",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/45-blackboard.webp?v=a2ddc2eebcab",
+      "thumb": "assets/notebook/45-blackboard-thumb.webp?v=a2ddc2eebcab",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/45-ideas.webp?v=a7fd8823e55a",
+        "thumb": "assets/supplements/45-ideas-thumb.webp?v=a7fd8823e55a",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/45-questions.webp?v=f7490b54da61",
+        "thumb": "assets/supplements/45-questions-thumb.webp?v=f7490b54da61",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "cover": {
+      "src": "assets/books/46/cover.webp?v=d0d6f732445f",
+      "thumb": "assets/books/46/cover-thumb.webp?v=d0d6f732445f",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/46/three-lines.webp?v=5d2e8ca94cd9",
+      "thumb": "assets/books/46/three-lines-thumb.webp?v=5d2e8ca94cd9",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/46/board.webp?v=d886086d08af",
+      "thumb": "assets/books/46/board-thumb.webp?v=d886086d08af",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 47,
+    "cover": {
+      "src": "assets/books/47/cover.webp?v=79c6e3710e5e",
+      "thumb": "assets/books/47/cover-thumb.webp?v=79c6e3710e5e",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/47/three-lines.webp?v=053686b540cd",
+      "thumb": "assets/books/47/three-lines-thumb.webp?v=053686b540cd",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "blackboard": {
+      "src": "assets/books/47/board.webp?v=59c132cb563a",
+      "thumb": "assets/books/47/board-thumb.webp?v=59c132cb563a",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 48,
+    "cover": {
+      "src": "assets/books/48/cover-2.webp?v=538360b444a7",
+      "thumb": "assets/books/48/cover-2-thumb.webp?v=538360b444a7",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/48/cover.webp?v=ebd39b85702c",
+      "thumb": "assets/books/48/cover-thumb.webp?v=ebd39b85702c",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/48/board.webp?v=2cf1c51a0437",
+      "thumb": "assets/books/48/board-thumb.webp?v=2cf1c51a0437",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 49,
+    "cover": {
+      "src": "assets/books/49/cover-2.webp?v=bb8deaa1df3b",
+      "thumb": "assets/books/49/cover-2-thumb.webp?v=bb8deaa1df3b",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/49/cover.webp?v=f9cabb26d05e",
+      "thumb": "assets/books/49/cover-thumb.webp?v=f9cabb26d05e",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/49/board.webp?v=db2610be0ebb",
+      "thumb": "assets/books/49/board-thumb.webp?v=db2610be0ebb",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 50,
+    "cover": {
+      "src": "assets/notebook/50-cover.webp?v=03f619942c57",
+      "thumb": "assets/notebook/50-cover-thumb.webp?v=03f619942c57",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/books/50/cover.webp?v=5df697faf8c4",
+      "thumb": "assets/books/50/cover-thumb.webp?v=5df697faf8c4",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/50/board.webp?v=72ddc53d6eea",
+      "thumb": "assets/books/50/board-thumb.webp?v=72ddc53d6eea",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/50-ideas.webp?v=eaa667081cab",
+        "thumb": "assets/supplements/50-ideas-thumb.webp?v=eaa667081cab",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "cover": {
+      "src": "assets/books/51/cover-2.webp?v=8dc9aaf3f1be",
+      "thumb": "assets/books/51/cover-2-thumb.webp?v=8dc9aaf3f1be",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/51/cover.webp?v=c7f300f1afbd",
+      "thumb": "assets/books/51/cover-thumb.webp?v=c7f300f1afbd",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "blackboard": {
+      "src": "assets/books/51/board.webp?v=354c86fbb012",
+      "thumb": "assets/books/51/board-thumb.webp?v=354c86fbb012",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 52,
+    "cover": {
+      "src": "assets/books/52/cover-2.webp?v=3d76013e226e",
+      "thumb": "assets/books/52/cover-2-thumb.webp?v=3d76013e226e",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/52/cover.webp?v=dc4502df945b",
+      "thumb": "assets/books/52/cover-thumb.webp?v=dc4502df945b",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "blackboard": {
+      "src": "assets/books/52/board.webp?v=3ae6bfe6090a",
+      "thumb": "assets/books/52/board-thumb.webp?v=3ae6bfe6090a",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "extras": []
+  },
+  {
+    "id": 53,
+    "cover": {
+      "src": "assets/books/53/cover-2.webp?v=35287d668c48",
+      "thumb": "assets/books/53/cover-2-thumb.webp?v=35287d668c48",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/53/cover.webp?v=94c092970bd2",
+      "thumb": "assets/books/53/cover-thumb.webp?v=94c092970bd2",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/53/board.webp?v=3e2b9de312d8",
+      "thumb": "assets/books/53/board-thumb.webp?v=3e2b9de312d8",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 54,
+    "cover": {
+      "src": "assets/notebook/54-cover.webp?v=f1acc69767c4",
+      "thumb": "assets/notebook/54-cover-thumb.webp?v=f1acc69767c4",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/books/54/cover.webp?v=52d3156987e7",
+      "thumb": "assets/books/54/cover-thumb.webp?v=52d3156987e7",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/54/board.webp?v=25a831d89db9",
+      "thumb": "assets/books/54/board-thumb.webp?v=25a831d89db9",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/54-ideas.webp?v=227142e4bccb",
+        "thumb": "assets/supplements/54-ideas-thumb.webp?v=227142e4bccb",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "cover": {
+      "src": "assets/books/55/cover.webp?v=9f8eb5c36fcb",
+      "thumb": "assets/books/55/cover-thumb.webp?v=9f8eb5c36fcb",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/55/three-lines.webp?v=56a95ba1f044",
+      "thumb": "assets/books/55/three-lines-thumb.webp?v=56a95ba1f044",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/55/board.webp?v=a7d84c208e71",
+      "thumb": "assets/books/55/board-thumb.webp?v=a7d84c208e71",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 56,
+    "cover": {
+      "src": "assets/books/56/cover.webp?v=ae338c877d7f",
+      "thumb": "assets/books/56/cover-thumb.webp?v=ae338c877d7f",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/56/board-2.webp?v=aac67a56df18",
+      "thumb": "assets/books/56/board-2-thumb.webp?v=aac67a56df18",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/56/board.webp?v=482c4bd18375",
+      "thumb": "assets/books/56/board-thumb.webp?v=482c4bd18375",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "extras": []
+  },
+  {
+    "id": 57,
+    "cover": {
+      "src": "assets/notebook/57-cover.webp?v=b3f994d44a60",
+      "thumb": "assets/notebook/57-cover-thumb.webp?v=b3f994d44a60",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/57-three-lines.webp?v=07a6141039d5",
+      "thumb": "assets/notebook/57-three-lines-thumb.webp?v=07a6141039d5",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/57/board.webp?v=893058858c2d",
+      "thumb": "assets/books/57/board-thumb.webp?v=893058858c2d",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/57-overview.webp?v=c2facb9ecbda",
+        "thumb": "assets/supplements/57-overview-thumb.webp?v=c2facb9ecbda",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/57-ideas.webp?v=efcf30a24ea1",
+        "thumb": "assets/supplements/57-ideas-thumb.webp?v=efcf30a24ea1",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "cover": {
+      "src": "assets/books/58/cover.webp?v=04be3ec7f46b",
+      "thumb": "assets/books/58/cover-thumb.webp?v=04be3ec7f46b",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/58/three-lines.webp?v=69e6d6d0d9cf",
+      "thumb": "assets/books/58/three-lines-thumb.webp?v=69e6d6d0d9cf",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/58/board.webp?v=0a3cb13bdc8b",
+      "thumb": "assets/books/58/board-thumb.webp?v=0a3cb13bdc8b",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 59,
+    "cover": {
+      "src": "assets/books/59/cover-2.webp?v=8ea41fa0e2b2",
+      "thumb": "assets/books/59/cover-2-thumb.webp?v=8ea41fa0e2b2",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/59-three-lines.webp?v=7cd924f040d5",
+      "thumb": "assets/notebook/59-three-lines-thumb.webp?v=7cd924f040d5",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/59/board.webp?v=72f9fd950506",
+      "thumb": "assets/books/59/board-thumb.webp?v=72f9fd950506",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/59/cover.webp?v=099a935d0778",
+        "thumb": "assets/books/59/cover-thumb.webp?v=099a935d0778",
+        "label": "封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "cover": {
+      "src": "assets/books/60/cover-2.webp?v=cfb751f93432",
+      "thumb": "assets/books/60/cover-2-thumb.webp?v=cfb751f93432",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/60/cover.webp?v=eacd655fd0ba",
+      "thumb": "assets/books/60/cover-thumb.webp?v=eacd655fd0ba",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/60/board.webp?v=8dd5ddd54b2d",
+      "thumb": "assets/books/60/board-thumb.webp?v=8dd5ddd54b2d",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 61,
+    "cover": {
+      "src": "assets/books/61/cover.webp?v=0f78c6b0b4a5",
+      "thumb": "assets/books/61/cover-thumb.webp?v=0f78c6b0b4a5",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/61/three-lines.webp?v=23f97e8dda16",
+      "thumb": "assets/books/61/three-lines-thumb.webp?v=23f97e8dda16",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/61/board.webp?v=050c8649eecd",
+      "thumb": "assets/books/61/board-thumb.webp?v=050c8649eecd",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 62,
+    "cover": {
+      "src": "assets/books/62/cover-2.webp?v=7f62d79a4a25",
+      "thumb": "assets/books/62/cover-2-thumb.webp?v=7f62d79a4a25",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/notebook/62-three-lines.webp?v=2af182349ad6",
+      "thumb": "assets/notebook/62-three-lines-thumb.webp?v=2af182349ad6",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/books/62/board.webp?v=b3864282cf3d",
+      "thumb": "assets/books/62/board-thumb.webp?v=b3864282cf3d",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": [
+      {
+        "src": "assets/books/62/cover.webp?v=c08eea67e141",
+        "thumb": "assets/books/62/cover-thumb.webp?v=c08eea67e141",
+        "label": "封面印象",
+        "generated": false,
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "cover": {
+      "src": "assets/books/63/cover.webp?v=718fc67b6b74",
+      "thumb": "assets/books/63/cover-thumb.webp?v=718fc67b6b74",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/63/three-lines.webp?v=6df4272b2b81",
+      "thumb": "assets/books/63/three-lines-thumb.webp?v=6df4272b2b81",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/63/board.webp?v=7d7f4d053084",
+      "thumb": "assets/books/63/board-thumb.webp?v=7d7f4d053084",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 64,
+    "cover": {
+      "src": "assets/books/64/cover-2.webp?v=f258696c3b1d",
+      "thumb": "assets/books/64/cover-2-thumb.webp?v=f258696c3b1d",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/64/cover.webp?v=540f68e053c6",
+      "thumb": "assets/books/64/cover-thumb.webp?v=540f68e053c6",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/64/board.webp?v=4414d9729984",
+      "thumb": "assets/books/64/board-thumb.webp?v=4414d9729984",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 65,
+    "cover": {
+      "src": "assets/books/65/cover-2.webp?v=eadc789db0e7",
+      "thumb": "assets/books/65/cover-2-thumb.webp?v=eadc789db0e7",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/65/cover.webp?v=5e2611916ef8",
+      "thumb": "assets/books/65/cover-thumb.webp?v=5e2611916ef8",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/65/board.webp?v=5113fcfd8d0d",
+      "thumb": "assets/books/65/board-thumb.webp?v=5113fcfd8d0d",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 66,
+    "cover": {
+      "src": "assets/books/66/cover-2.webp?v=d8c7a8c3ae9b",
+      "thumb": "assets/books/66/cover-2-thumb.webp?v=d8c7a8c3ae9b",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/66/cover.webp?v=288f6e2c8278",
+      "thumb": "assets/books/66/cover-thumb.webp?v=288f6e2c8278",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/66/board.webp?v=a0df93beffd8",
+      "thumb": "assets/books/66/board-thumb.webp?v=a0df93beffd8",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 67,
+    "cover": {
+      "src": "assets/books/67/cover-2.webp?v=7212edff40ea",
+      "thumb": "assets/books/67/cover-2-thumb.webp?v=7212edff40ea",
+      "label": "大标题封面",
+      "generated": false,
+      "width": 896,
+      "height": 1200
+    },
+    "threeLines": {
+      "src": "assets/books/67/cover.webp?v=b15c3e60104b",
+      "thumb": "assets/books/67/cover-thumb.webp?v=b15c3e60104b",
+      "label": "三句话解读",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "blackboard": {
+      "src": "assets/books/67/board.webp?v=cb10d7c72e49",
+      "thumb": "assets/books/67/board-thumb.webp?v=cb10d7c72e49",
+      "label": "黑板图解",
+      "generated": false,
+      "width": 1792,
+      "height": 2400
+    },
+    "extras": []
+  },
+  {
+    "id": 68,
+    "cover": {
+      "src": "assets/notebook/68-cover.webp?v=ad53c22b576a",
+      "thumb": "assets/notebook/68-cover-thumb.webp?v=ad53c22b576a",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/68-three-lines.webp?v=520e34615f6c",
+      "thumb": "assets/notebook/68-three-lines-thumb.webp?v=520e34615f6c",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/68-blackboard.webp?v=abc1b303c9ba",
+      "thumb": "assets/notebook/68-blackboard-thumb.webp?v=abc1b303c9ba",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/68-overview.webp?v=cdf42f3a177c",
+        "thumb": "assets/supplements/68-overview-thumb.webp?v=cdf42f3a177c",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/68-ideas.webp?v=017c49f87846",
+        "thumb": "assets/supplements/68-ideas-thumb.webp?v=017c49f87846",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/68-reflections.webp?v=0b304729b993",
+        "thumb": "assets/supplements/68-reflections-thumb.webp?v=0b304729b993",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "cover": {
+      "src": "assets/notebook/69-cover.webp?v=cf7bba683274",
+      "thumb": "assets/notebook/69-cover-thumb.webp?v=cf7bba683274",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/69-three-lines.webp?v=a74f33d4b09f",
+      "thumb": "assets/notebook/69-three-lines-thumb.webp?v=a74f33d4b09f",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/69-blackboard.webp?v=a5a43f0d18df",
+      "thumb": "assets/notebook/69-blackboard-thumb.webp?v=a5a43f0d18df",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/69-overview.webp?v=6b9efb7611aa",
+        "thumb": "assets/supplements/69-overview-thumb.webp?v=6b9efb7611aa",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/69-ideas.webp?v=c49a7ee51316",
+        "thumb": "assets/supplements/69-ideas-thumb.webp?v=c49a7ee51316",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/69-reflections.webp?v=a145e653dcde",
+        "thumb": "assets/supplements/69-reflections-thumb.webp?v=a145e653dcde",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "cover": {
+      "src": "assets/notebook/70-cover.webp?v=09c3dc70dae3",
+      "thumb": "assets/notebook/70-cover-thumb.webp?v=09c3dc70dae3",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/70-three-lines.webp?v=2bd2c8cb8d05",
+      "thumb": "assets/notebook/70-three-lines-thumb.webp?v=2bd2c8cb8d05",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/70-blackboard.webp?v=ad844d844fb7",
+      "thumb": "assets/notebook/70-blackboard-thumb.webp?v=ad844d844fb7",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/70-overview.webp?v=3946045d328c",
+        "thumb": "assets/supplements/70-overview-thumb.webp?v=3946045d328c",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/70-ideas.webp?v=249f3d7fd511",
+        "thumb": "assets/supplements/70-ideas-thumb.webp?v=249f3d7fd511",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/70-reflections.webp?v=d0b94740f0c4",
+        "thumb": "assets/supplements/70-reflections-thumb.webp?v=d0b94740f0c4",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "cover": {
+      "src": "assets/notebook/71-cover.webp?v=8460e0d8f271",
+      "thumb": "assets/notebook/71-cover-thumb.webp?v=8460e0d8f271",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/71-three-lines.webp?v=34f6a3c023d4",
+      "thumb": "assets/notebook/71-three-lines-thumb.webp?v=34f6a3c023d4",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/71-blackboard.webp?v=da89b0692482",
+      "thumb": "assets/notebook/71-blackboard-thumb.webp?v=da89b0692482",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/71-overview.webp?v=d331bd03617a",
+        "thumb": "assets/supplements/71-overview-thumb.webp?v=d331bd03617a",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/71-ideas.webp?v=35ab049bb97c",
+        "thumb": "assets/supplements/71-ideas-thumb.webp?v=35ab049bb97c",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/71-reflections.webp?v=a1a31be3f394",
+        "thumb": "assets/supplements/71-reflections-thumb.webp?v=a1a31be3f394",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "cover": {
+      "src": "assets/notebook/72-cover.webp?v=b17b52a53a4e",
+      "thumb": "assets/notebook/72-cover-thumb.webp?v=b17b52a53a4e",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/72-three-lines.webp?v=03b27610a220",
+      "thumb": "assets/notebook/72-three-lines-thumb.webp?v=03b27610a220",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/72-blackboard.webp?v=c788b2f2443a",
+      "thumb": "assets/notebook/72-blackboard-thumb.webp?v=c788b2f2443a",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/72-overview.webp?v=b52421d116d0",
+        "thumb": "assets/supplements/72-overview-thumb.webp?v=b52421d116d0",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/72-ideas.webp?v=c5577ee3fbae",
+        "thumb": "assets/supplements/72-ideas-thumb.webp?v=c5577ee3fbae",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/72-reflections.webp?v=8cf061a2bb59",
+        "thumb": "assets/supplements/72-reflections-thumb.webp?v=8cf061a2bb59",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "cover": {
+      "src": "assets/notebook/73-cover.webp?v=ba0bed6c8e6b",
+      "thumb": "assets/notebook/73-cover-thumb.webp?v=ba0bed6c8e6b",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/73-three-lines.webp?v=8b07d8de0181",
+      "thumb": "assets/notebook/73-three-lines-thumb.webp?v=8b07d8de0181",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/73-blackboard.webp?v=3b4f98feec97",
+      "thumb": "assets/notebook/73-blackboard-thumb.webp?v=3b4f98feec97",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/73-overview.webp?v=da5987db117d",
+        "thumb": "assets/supplements/73-overview-thumb.webp?v=da5987db117d",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/73-ideas.webp?v=9d5a73f16e37",
+        "thumb": "assets/supplements/73-ideas-thumb.webp?v=9d5a73f16e37",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/73-reflections.webp?v=23e879ba09ed",
+        "thumb": "assets/supplements/73-reflections-thumb.webp?v=23e879ba09ed",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "cover": {
+      "src": "assets/notebook/74-cover.webp?v=44a143417070",
+      "thumb": "assets/notebook/74-cover-thumb.webp?v=44a143417070",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/74-three-lines.webp?v=72290d280826",
+      "thumb": "assets/notebook/74-three-lines-thumb.webp?v=72290d280826",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/74-blackboard.webp?v=30a5ecc070d8",
+      "thumb": "assets/notebook/74-blackboard-thumb.webp?v=30a5ecc070d8",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/74-overview.webp?v=81d9bbdcde11",
+        "thumb": "assets/supplements/74-overview-thumb.webp?v=81d9bbdcde11",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/74-ideas.webp?v=e5e81719ece0",
+        "thumb": "assets/supplements/74-ideas-thumb.webp?v=e5e81719ece0",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/74-reflections.webp?v=a7d61b0e61e9",
+        "thumb": "assets/supplements/74-reflections-thumb.webp?v=a7d61b0e61e9",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "cover": {
+      "src": "assets/notebook/75-cover.webp?v=fb26492ec3fb",
+      "thumb": "assets/notebook/75-cover-thumb.webp?v=fb26492ec3fb",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/75-three-lines.webp?v=1d9b80456649",
+      "thumb": "assets/notebook/75-three-lines-thumb.webp?v=1d9b80456649",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/75-blackboard.webp?v=c41b85736b41",
+      "thumb": "assets/notebook/75-blackboard-thumb.webp?v=c41b85736b41",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/75-overview.webp?v=1b0e4adf2e80",
+        "thumb": "assets/supplements/75-overview-thumb.webp?v=1b0e4adf2e80",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/75-ideas.webp?v=dacf1a9f3fdc",
+        "thumb": "assets/supplements/75-ideas-thumb.webp?v=dacf1a9f3fdc",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/75-reflections.webp?v=395c16144817",
+        "thumb": "assets/supplements/75-reflections-thumb.webp?v=395c16144817",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "cover": {
+      "src": "assets/notebook/76-cover.webp?v=164b791b5276",
+      "thumb": "assets/notebook/76-cover-thumb.webp?v=164b791b5276",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/76-three-lines.webp?v=ed24718c4c8c",
+      "thumb": "assets/notebook/76-three-lines-thumb.webp?v=ed24718c4c8c",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/76-blackboard.webp?v=41bc1fbadba2",
+      "thumb": "assets/notebook/76-blackboard-thumb.webp?v=41bc1fbadba2",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/76-overview.webp?v=2b9a851e8426",
+        "thumb": "assets/supplements/76-overview-thumb.webp?v=2b9a851e8426",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/76-ideas.webp?v=79da8459f67e",
+        "thumb": "assets/supplements/76-ideas-thumb.webp?v=79da8459f67e",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/76-reflections.webp?v=5370a254800d",
+        "thumb": "assets/supplements/76-reflections-thumb.webp?v=5370a254800d",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "cover": {
+      "src": "assets/notebook/77-cover.webp?v=96729d25ffd6",
+      "thumb": "assets/notebook/77-cover-thumb.webp?v=96729d25ffd6",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/77-three-lines.webp?v=a47607654fb1",
+      "thumb": "assets/notebook/77-three-lines-thumb.webp?v=a47607654fb1",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/77-blackboard.webp?v=389718526671",
+      "thumb": "assets/notebook/77-blackboard-thumb.webp?v=389718526671",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/77-overview.webp?v=766cdc1d3fb4",
+        "thumb": "assets/supplements/77-overview-thumb.webp?v=766cdc1d3fb4",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/77-ideas.webp?v=9e2bb296c962",
+        "thumb": "assets/supplements/77-ideas-thumb.webp?v=9e2bb296c962",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/77-reflections.webp?v=8c73da487dfb",
+        "thumb": "assets/supplements/77-reflections-thumb.webp?v=8c73da487dfb",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "cover": {
+      "src": "assets/notebook/78-cover.webp?v=7ce60b577d51",
+      "thumb": "assets/notebook/78-cover-thumb.webp?v=7ce60b577d51",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/78-three-lines.webp?v=6473a997c2ec",
+      "thumb": "assets/notebook/78-three-lines-thumb.webp?v=6473a997c2ec",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/78-blackboard.webp?v=7fb8e42d98cb",
+      "thumb": "assets/notebook/78-blackboard-thumb.webp?v=7fb8e42d98cb",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/78-overview.webp?v=dc441f1a916f",
+        "thumb": "assets/supplements/78-overview-thumb.webp?v=dc441f1a916f",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/78-ideas.webp?v=39159bce8120",
+        "thumb": "assets/supplements/78-ideas-thumb.webp?v=39159bce8120",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/78-reflections.webp?v=2a9cf4fad4c1",
+        "thumb": "assets/supplements/78-reflections-thumb.webp?v=2a9cf4fad4c1",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "cover": {
+      "src": "assets/notebook/79-cover.webp?v=c24c3bfb7fbd",
+      "thumb": "assets/notebook/79-cover-thumb.webp?v=c24c3bfb7fbd",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/79-three-lines.webp?v=368f4673fd54",
+      "thumb": "assets/notebook/79-three-lines-thumb.webp?v=368f4673fd54",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/79-blackboard.webp?v=895bb6a49110",
+      "thumb": "assets/notebook/79-blackboard-thumb.webp?v=895bb6a49110",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/79-overview.webp?v=c8882370aed2",
+        "thumb": "assets/supplements/79-overview-thumb.webp?v=c8882370aed2",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/79-ideas.webp?v=232b15c61722",
+        "thumb": "assets/supplements/79-ideas-thumb.webp?v=232b15c61722",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/79-reflections.webp?v=a5cb84035b59",
+        "thumb": "assets/supplements/79-reflections-thumb.webp?v=a5cb84035b59",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "cover": {
+      "src": "assets/notebook/80-cover.webp?v=47baaec50ba4",
+      "thumb": "assets/notebook/80-cover-thumb.webp?v=47baaec50ba4",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/80-three-lines.webp?v=a9eac664aa98",
+      "thumb": "assets/notebook/80-three-lines-thumb.webp?v=a9eac664aa98",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/80-blackboard.webp?v=9fde2b72688c",
+      "thumb": "assets/notebook/80-blackboard-thumb.webp?v=9fde2b72688c",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/80-overview.webp?v=ef7ba30cf03e",
+        "thumb": "assets/supplements/80-overview-thumb.webp?v=ef7ba30cf03e",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/80-ideas.webp?v=009c03a2fae4",
+        "thumb": "assets/supplements/80-ideas-thumb.webp?v=009c03a2fae4",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/80-reflections.webp?v=1f2ae1a1c488",
+        "thumb": "assets/supplements/80-reflections-thumb.webp?v=1f2ae1a1c488",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "cover": {
+      "src": "assets/notebook/81-cover.webp?v=a6a6e6c7baaa",
+      "thumb": "assets/notebook/81-cover-thumb.webp?v=a6a6e6c7baaa",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/81-three-lines.webp?v=b176445f2fb4",
+      "thumb": "assets/notebook/81-three-lines-thumb.webp?v=b176445f2fb4",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/81-blackboard.webp?v=c9b975cc8d09",
+      "thumb": "assets/notebook/81-blackboard-thumb.webp?v=c9b975cc8d09",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/81-overview.webp?v=79a70d85dd43",
+        "thumb": "assets/supplements/81-overview-thumb.webp?v=79a70d85dd43",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/81-ideas.webp?v=d90d94d3d332",
+        "thumb": "assets/supplements/81-ideas-thumb.webp?v=d90d94d3d332",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/81-reflections.webp?v=ad103a22dd66",
+        "thumb": "assets/supplements/81-reflections-thumb.webp?v=ad103a22dd66",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "cover": {
+      "src": "assets/notebook/82-cover.webp?v=9b8c6b749bf5",
+      "thumb": "assets/notebook/82-cover-thumb.webp?v=9b8c6b749bf5",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/82-three-lines.webp?v=2a3fb3a7268b",
+      "thumb": "assets/notebook/82-three-lines-thumb.webp?v=2a3fb3a7268b",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/82-blackboard.webp?v=d599b0af2dfa",
+      "thumb": "assets/notebook/82-blackboard-thumb.webp?v=d599b0af2dfa",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/82-overview.webp?v=264e21ff2ab4",
+        "thumb": "assets/supplements/82-overview-thumb.webp?v=264e21ff2ab4",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/82-ideas.webp?v=359e9db40d4a",
+        "thumb": "assets/supplements/82-ideas-thumb.webp?v=359e9db40d4a",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/82-reflections.webp?v=b8263f33bd2b",
+        "thumb": "assets/supplements/82-reflections-thumb.webp?v=b8263f33bd2b",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "cover": {
+      "src": "assets/notebook/83-cover.webp?v=d8be3288fc2c",
+      "thumb": "assets/notebook/83-cover-thumb.webp?v=d8be3288fc2c",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/83-three-lines.webp?v=ac5f563ab036",
+      "thumb": "assets/notebook/83-three-lines-thumb.webp?v=ac5f563ab036",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/83-blackboard.webp?v=5e41511e5b3b",
+      "thumb": "assets/notebook/83-blackboard-thumb.webp?v=5e41511e5b3b",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/83-overview.webp?v=c12b5b1418e0",
+        "thumb": "assets/supplements/83-overview-thumb.webp?v=c12b5b1418e0",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/83-ideas.webp?v=45c663e9deaa",
+        "thumb": "assets/supplements/83-ideas-thumb.webp?v=45c663e9deaa",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/83-reflections.webp?v=ebd43acc344b",
+        "thumb": "assets/supplements/83-reflections-thumb.webp?v=ebd43acc344b",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "cover": {
+      "src": "assets/notebook/84-cover.webp?v=238784ca493d",
+      "thumb": "assets/notebook/84-cover-thumb.webp?v=238784ca493d",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/84-three-lines.webp?v=a3550ab66c87",
+      "thumb": "assets/notebook/84-three-lines-thumb.webp?v=a3550ab66c87",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/84-blackboard.webp?v=3adff73ff42d",
+      "thumb": "assets/notebook/84-blackboard-thumb.webp?v=3adff73ff42d",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/84-overview.webp?v=5945bb4038ae",
+        "thumb": "assets/supplements/84-overview-thumb.webp?v=5945bb4038ae",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/84-ideas.webp?v=8a3a2fe89c0a",
+        "thumb": "assets/supplements/84-ideas-thumb.webp?v=8a3a2fe89c0a",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/84-reflections.webp?v=27266dc5e889",
+        "thumb": "assets/supplements/84-reflections-thumb.webp?v=27266dc5e889",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "cover": {
+      "src": "assets/notebook/85-cover.webp?v=3430d6edf44b",
+      "thumb": "assets/notebook/85-cover-thumb.webp?v=3430d6edf44b",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/85-three-lines.webp?v=c399b7a401ae",
+      "thumb": "assets/notebook/85-three-lines-thumb.webp?v=c399b7a401ae",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/85-blackboard.webp?v=4e0e467c50d1",
+      "thumb": "assets/notebook/85-blackboard-thumb.webp?v=4e0e467c50d1",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/85-overview.webp?v=45e6e4b4f003",
+        "thumb": "assets/supplements/85-overview-thumb.webp?v=45e6e4b4f003",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/85-ideas.webp?v=dba2a268b595",
+        "thumb": "assets/supplements/85-ideas-thumb.webp?v=dba2a268b595",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/85-reflections.webp?v=1e22a26c1a56",
+        "thumb": "assets/supplements/85-reflections-thumb.webp?v=1e22a26c1a56",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "cover": {
+      "src": "assets/notebook/86-cover.webp?v=a5aa497f4b10",
+      "thumb": "assets/notebook/86-cover-thumb.webp?v=a5aa497f4b10",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/86-three-lines.webp?v=cf286ff14934",
+      "thumb": "assets/notebook/86-three-lines-thumb.webp?v=cf286ff14934",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/86-blackboard.webp?v=e6a380c5af66",
+      "thumb": "assets/notebook/86-blackboard-thumb.webp?v=e6a380c5af66",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/86-overview.webp?v=426d7c6a03b2",
+        "thumb": "assets/supplements/86-overview-thumb.webp?v=426d7c6a03b2",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/86-ideas.webp?v=63e39e19f214",
+        "thumb": "assets/supplements/86-ideas-thumb.webp?v=63e39e19f214",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/86-reflections.webp?v=84336af6a7f6",
+        "thumb": "assets/supplements/86-reflections-thumb.webp?v=84336af6a7f6",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "cover": {
+      "src": "assets/notebook/87-cover.webp?v=812def9afcde",
+      "thumb": "assets/notebook/87-cover-thumb.webp?v=812def9afcde",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/87-three-lines.webp?v=5e9e422e2f98",
+      "thumb": "assets/notebook/87-three-lines-thumb.webp?v=5e9e422e2f98",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/87-blackboard.webp?v=ab8943879780",
+      "thumb": "assets/notebook/87-blackboard-thumb.webp?v=ab8943879780",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/87-overview.webp?v=fd7245dbe1d9",
+        "thumb": "assets/supplements/87-overview-thumb.webp?v=fd7245dbe1d9",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/87-ideas.webp?v=f2a320f07750",
+        "thumb": "assets/supplements/87-ideas-thumb.webp?v=f2a320f07750",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/87-reflections.webp?v=1c31c3ae8972",
+        "thumb": "assets/supplements/87-reflections-thumb.webp?v=1c31c3ae8972",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "cover": {
+      "src": "assets/notebook/88-cover.webp?v=81f9757b5d73",
+      "thumb": "assets/notebook/88-cover-thumb.webp?v=81f9757b5d73",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/88-three-lines.webp?v=883d9c2ea10e",
+      "thumb": "assets/notebook/88-three-lines-thumb.webp?v=883d9c2ea10e",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/88-blackboard.webp?v=9b90b7c6177e",
+      "thumb": "assets/notebook/88-blackboard-thumb.webp?v=9b90b7c6177e",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/88-overview.webp?v=720e86c44b34",
+        "thumb": "assets/supplements/88-overview-thumb.webp?v=720e86c44b34",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/88-ideas.webp?v=6b388d72f6d0",
+        "thumb": "assets/supplements/88-ideas-thumb.webp?v=6b388d72f6d0",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/88-reflections.webp?v=c32c944a4b98",
+        "thumb": "assets/supplements/88-reflections-thumb.webp?v=c32c944a4b98",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "cover": {
+      "src": "assets/notebook/89-cover.webp?v=554480ad1d79",
+      "thumb": "assets/notebook/89-cover-thumb.webp?v=554480ad1d79",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/89-three-lines.webp?v=40be8794ef04",
+      "thumb": "assets/notebook/89-three-lines-thumb.webp?v=40be8794ef04",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/89-blackboard.webp?v=3d3191453750",
+      "thumb": "assets/notebook/89-blackboard-thumb.webp?v=3d3191453750",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/89-overview.webp?v=d8edef4f4270",
+        "thumb": "assets/supplements/89-overview-thumb.webp?v=d8edef4f4270",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/89-ideas.webp?v=f32c19db3dc4",
+        "thumb": "assets/supplements/89-ideas-thumb.webp?v=f32c19db3dc4",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/89-reflections.webp?v=6f1eec4e2120",
+        "thumb": "assets/supplements/89-reflections-thumb.webp?v=6f1eec4e2120",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "cover": {
+      "src": "assets/notebook/90-cover.webp?v=78c947f62f1a",
+      "thumb": "assets/notebook/90-cover-thumb.webp?v=78c947f62f1a",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/90-three-lines.webp?v=2a191cfc9af9",
+      "thumb": "assets/notebook/90-three-lines-thumb.webp?v=2a191cfc9af9",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/90-blackboard.webp?v=18322a05d1af",
+      "thumb": "assets/notebook/90-blackboard-thumb.webp?v=18322a05d1af",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/90-overview.webp?v=c0daaae78902",
+        "thumb": "assets/supplements/90-overview-thumb.webp?v=c0daaae78902",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/90-ideas.webp?v=ecb6f60f4acc",
+        "thumb": "assets/supplements/90-ideas-thumb.webp?v=ecb6f60f4acc",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/90-reflections.webp?v=4f3d9b4cfa03",
+        "thumb": "assets/supplements/90-reflections-thumb.webp?v=4f3d9b4cfa03",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "cover": {
+      "src": "assets/notebook/91-cover.webp?v=870d19a11c37",
+      "thumb": "assets/notebook/91-cover-thumb.webp?v=870d19a11c37",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/91-three-lines.webp?v=21b778312931",
+      "thumb": "assets/notebook/91-three-lines-thumb.webp?v=21b778312931",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/91-blackboard.webp?v=6ef6981abee5",
+      "thumb": "assets/notebook/91-blackboard-thumb.webp?v=6ef6981abee5",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/91-overview.webp?v=e3c5ff489948",
+        "thumb": "assets/supplements/91-overview-thumb.webp?v=e3c5ff489948",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/91-ideas.webp?v=2bf2e4629b62",
+        "thumb": "assets/supplements/91-ideas-thumb.webp?v=2bf2e4629b62",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/91-reflections.webp?v=270d41d302dd",
+        "thumb": "assets/supplements/91-reflections-thumb.webp?v=270d41d302dd",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "cover": {
+      "src": "assets/notebook/92-cover.webp?v=d13a7717ace5",
+      "thumb": "assets/notebook/92-cover-thumb.webp?v=d13a7717ace5",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/92-three-lines.webp?v=6fe695642963",
+      "thumb": "assets/notebook/92-three-lines-thumb.webp?v=6fe695642963",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/92-blackboard.webp?v=513cc7b4a796",
+      "thumb": "assets/notebook/92-blackboard-thumb.webp?v=513cc7b4a796",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/92-overview.webp?v=4fea8f721e18",
+        "thumb": "assets/supplements/92-overview-thumb.webp?v=4fea8f721e18",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/92-ideas.webp?v=14c6e4402b38",
+        "thumb": "assets/supplements/92-ideas-thumb.webp?v=14c6e4402b38",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/92-reflections.webp?v=3cc1b1826893",
+        "thumb": "assets/supplements/92-reflections-thumb.webp?v=3cc1b1826893",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "cover": {
+      "src": "assets/notebook/93-cover.webp?v=f49e149a4d23",
+      "thumb": "assets/notebook/93-cover-thumb.webp?v=f49e149a4d23",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/93-three-lines.webp?v=deebb4cbd049",
+      "thumb": "assets/notebook/93-three-lines-thumb.webp?v=deebb4cbd049",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/93-blackboard.webp?v=2d2d5adc53ee",
+      "thumb": "assets/notebook/93-blackboard-thumb.webp?v=2d2d5adc53ee",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/93-overview.webp?v=361559481efd",
+        "thumb": "assets/supplements/93-overview-thumb.webp?v=361559481efd",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/93-ideas.webp?v=5d57b317caf2",
+        "thumb": "assets/supplements/93-ideas-thumb.webp?v=5d57b317caf2",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/93-reflections.webp?v=94d763aee8dd",
+        "thumb": "assets/supplements/93-reflections-thumb.webp?v=94d763aee8dd",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "cover": {
+      "src": "assets/notebook/94-cover.webp?v=37f463875557",
+      "thumb": "assets/notebook/94-cover-thumb.webp?v=37f463875557",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/94-three-lines.webp?v=500a28a78ae1",
+      "thumb": "assets/notebook/94-three-lines-thumb.webp?v=500a28a78ae1",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/94-blackboard.webp?v=07ec85ceeb3f",
+      "thumb": "assets/notebook/94-blackboard-thumb.webp?v=07ec85ceeb3f",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/94-overview.webp?v=c29dc60b067d",
+        "thumb": "assets/supplements/94-overview-thumb.webp?v=c29dc60b067d",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/94-ideas.webp?v=b9f95c2c8e0e",
+        "thumb": "assets/supplements/94-ideas-thumb.webp?v=b9f95c2c8e0e",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/94-reflections.webp?v=6828c854afd4",
+        "thumb": "assets/supplements/94-reflections-thumb.webp?v=6828c854afd4",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "cover": {
+      "src": "assets/notebook/95-cover.webp?v=f49ea44e26fe",
+      "thumb": "assets/notebook/95-cover-thumb.webp?v=f49ea44e26fe",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/95-three-lines.webp?v=35fb22e8832c",
+      "thumb": "assets/notebook/95-three-lines-thumb.webp?v=35fb22e8832c",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/95-blackboard.webp?v=fafaf6b30179",
+      "thumb": "assets/notebook/95-blackboard-thumb.webp?v=fafaf6b30179",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/95-overview.webp?v=87d30553b564",
+        "thumb": "assets/supplements/95-overview-thumb.webp?v=87d30553b564",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/95-ideas.webp?v=e6129b9a158e",
+        "thumb": "assets/supplements/95-ideas-thumb.webp?v=e6129b9a158e",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/95-reflections.webp?v=ca64b9597227",
+        "thumb": "assets/supplements/95-reflections-thumb.webp?v=ca64b9597227",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "cover": {
+      "src": "assets/notebook/96-cover.webp?v=b576a6fd1a0e",
+      "thumb": "assets/notebook/96-cover-thumb.webp?v=b576a6fd1a0e",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/96-three-lines.webp?v=3340014fd120",
+      "thumb": "assets/notebook/96-three-lines-thumb.webp?v=3340014fd120",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/96-blackboard.webp?v=38dbe2f9b868",
+      "thumb": "assets/notebook/96-blackboard-thumb.webp?v=38dbe2f9b868",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/96-overview.webp?v=766b8e95294f",
+        "thumb": "assets/supplements/96-overview-thumb.webp?v=766b8e95294f",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/96-ideas.webp?v=656e4b2823d3",
+        "thumb": "assets/supplements/96-ideas-thumb.webp?v=656e4b2823d3",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/96-reflections.webp?v=c2c6118f12b7",
+        "thumb": "assets/supplements/96-reflections-thumb.webp?v=c2c6118f12b7",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "cover": {
+      "src": "assets/notebook/97-cover.webp?v=029aa4807d9a",
+      "thumb": "assets/notebook/97-cover-thumb.webp?v=029aa4807d9a",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/97-three-lines.webp?v=afb863712f4c",
+      "thumb": "assets/notebook/97-three-lines-thumb.webp?v=afb863712f4c",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/97-blackboard.webp?v=368632cb525c",
+      "thumb": "assets/notebook/97-blackboard-thumb.webp?v=368632cb525c",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/97-overview.webp?v=6de3647dbc9c",
+        "thumb": "assets/supplements/97-overview-thumb.webp?v=6de3647dbc9c",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/97-ideas.webp?v=4939f67c1017",
+        "thumb": "assets/supplements/97-ideas-thumb.webp?v=4939f67c1017",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/97-reflections.webp?v=55e4f26bd507",
+        "thumb": "assets/supplements/97-reflections-thumb.webp?v=55e4f26bd507",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "cover": {
+      "src": "assets/notebook/98-cover.webp?v=492d303b6592",
+      "thumb": "assets/notebook/98-cover-thumb.webp?v=492d303b6592",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/98-three-lines.webp?v=d1356ad40a1b",
+      "thumb": "assets/notebook/98-three-lines-thumb.webp?v=d1356ad40a1b",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/98-blackboard.webp?v=9f452a2d3639",
+      "thumb": "assets/notebook/98-blackboard-thumb.webp?v=9f452a2d3639",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/98-overview.webp?v=7b936a1d009f",
+        "thumb": "assets/supplements/98-overview-thumb.webp?v=7b936a1d009f",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/98-ideas.webp?v=2eefce4926f5",
+        "thumb": "assets/supplements/98-ideas-thumb.webp?v=2eefce4926f5",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/98-reflections.webp?v=4385caa8ac3d",
+        "thumb": "assets/supplements/98-reflections-thumb.webp?v=4385caa8ac3d",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "cover": {
+      "src": "assets/notebook/99-cover.webp?v=ae3b4c044296",
+      "thumb": "assets/notebook/99-cover-thumb.webp?v=ae3b4c044296",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/99-three-lines.webp?v=c6442c8e1370",
+      "thumb": "assets/notebook/99-three-lines-thumb.webp?v=c6442c8e1370",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/99-blackboard.webp?v=26d17cad4c0b",
+      "thumb": "assets/notebook/99-blackboard-thumb.webp?v=26d17cad4c0b",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/99-overview.webp?v=6e68dee75293",
+        "thumb": "assets/supplements/99-overview-thumb.webp?v=6e68dee75293",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/99-ideas.webp?v=4452846fdab8",
+        "thumb": "assets/supplements/99-ideas-thumb.webp?v=4452846fdab8",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/99-reflections.webp?v=28ce788170c1",
+        "thumb": "assets/supplements/99-reflections-thumb.webp?v=28ce788170c1",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "cover": {
+      "src": "assets/notebook/100-cover.webp?v=dd48eab1fe75",
+      "thumb": "assets/notebook/100-cover-thumb.webp?v=dd48eab1fe75",
+      "label": "大标题封面",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "threeLines": {
+      "src": "assets/notebook/100-three-lines.webp?v=cbb241a622ac",
+      "thumb": "assets/notebook/100-three-lines-thumb.webp?v=cbb241a622ac",
+      "label": "三句话解读",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "blackboard": {
+      "src": "assets/notebook/100-blackboard.webp?v=6a0e3f3a2541",
+      "thumb": "assets/notebook/100-blackboard-thumb.webp?v=6a0e3f3a2541",
+      "label": "黑板图解",
+      "generated": true,
+      "width": 1200,
+      "height": 1600
+    },
+    "extras": [
+      {
+        "src": "assets/supplements/100-overview.webp?v=36496ba16257",
+        "thumb": "assets/supplements/100-overview-thumb.webp?v=36496ba16257",
+        "label": "旧版原创导读 · 从这里读起",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/100-ideas.webp?v=669468570d2c",
+        "thumb": "assets/supplements/100-ideas-thumb.webp?v=669468570d2c",
+        "label": "旧版原创导读 · 三个阅读线索",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "assets/supplements/100-reflections.webp?v=1a1eb2c4770e",
+        "thumb": "assets/supplements/100-reflections-thumb.webp?v=1a1eb2c4770e",
+        "label": "旧版原创导读 · 把问题带进书里",
+        "generated": true,
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  }
+]

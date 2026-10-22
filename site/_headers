@@ -5,9 +5,19 @@
   Content-Type: image/svg+xml; charset=utf-8
 /assets/icon.svg
   Content-Type: image/svg+xml; charset=utf-8
+/assets/notebook/*.svg
+  Content-Type: image/svg+xml; charset=utf-8
 /sw.js
   Cache-Control: no-cache, max-age=0, must-revalidate
 /index.html
   Cache-Control: no-cache, max-age=0, must-revalidate
 /index.htm
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/books.js
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/app.js
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/style.css
+  Cache-Control: no-cache, max-age=0, must-revalidate
+/manifest.webmanifest
   Cache-Control: no-cache, max-age=0, must-revalidate

@@ -1,1 +1,26 @@
-{"id":"/","name":"一书三图 · 私人阅读室","short_name":"一书三图","description":"100本书的简介、图解与阅读笔记，一起翻开。","lang":"zh-CN","start_url":"/","scope":"/","display":"standalone","background_color":"#f5f5fa","theme_color":"#6554a4","icons":[{"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "/",
+  "name": "一书三图 · 翻页阅读本",
+  "short_name": "一书三图",
+  "description": "100本好书，大封面、三句话、黑板图解。按综合阅读榜翻阅，从目录直达每一本。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f0f6",
+  "theme_color": "#6554a4",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

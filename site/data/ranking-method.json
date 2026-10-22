@@ -1,0 +1,521 @@
+{
+  "method": "在本站既有100本书内进行的编辑排序。先按0—5分、每0.5分一档分别判断长期影响、读者热度与传播范围，再按50%、35%、15%加权降序。分数是可解释的粗粒度编辑判断，并非从完整统计资料估计出的客观测量；不新增、删去或合并书目，不设学科配额。",
+  "weights": {
+    "impact": 0.5,
+    "popularity": 0.35,
+    "reach": 0.15
+  },
+  "scoreScale": {
+    "min": 0,
+    "max": 5,
+    "step": 0.5,
+    "meaning": "5表示在本站书目中属该维度最强档，并非完美、真理或世界第一。相邻0.5分仅用于说明大致档位；不展示三位小数或把微小差距解释为显著优势。"
+  },
+  "dimensions": {
+    "impact": "长期文学、思想或学科影响：综合经典地位、概念和叙事影响、教学与公共讨论中的持久性。重要性与观点正确性分开判断；新书没有长期记录时不借作者声名补满。",
+    "popularity": "读者热度：重点考察中文大众读者的持续可见度，同时参考可核实的国际大众传播。豆瓣Top250的收录及当前可见榜单是参考之一；未收录不等于不热门，评分高低不直接等于热门程度。它不是实时周销榜。",
+    "reach": "跨地区和跨领域传播：综合跨语种、跨年龄、跨专业公共讨论与馆藏参考。中文世界内部的跨代传播也有价值，不把英文世界可见度视为唯一标准。"
+  },
+  "anchors": {
+    "impact": {
+      "5": "核心经典、奠基性或非常持久的学科文化影响",
+      "4—4.5": "明确的跨代或领域影响",
+      "3—3.5": "可辨认的类型、实践或近年公共讨论影响",
+      "2—2.5": "较新或影响主要局限于细分读者，长期记录有限"
+    },
+    "popularity": {
+      "5": "长期非常广泛的大众读者可见度",
+      "4—4.5": "强且持续的大众或类别读者关注",
+      "3—3.5": "明确的细分或近期读者关注",
+      "2—2.5": "相对有限的公共可见度"
+    },
+    "reach": {
+      "5": "非常广泛的跨语种或跨领域传播",
+      "4—4.5": "明确的国际或多领域传播",
+      "3—3.5": "主要在一个语言地区内有广泛传播",
+      "2—2.5": "传播较集中于细分语境"
+    }
+  },
+  "tieBreak": "加权值相同时依次比较impact、popularity、reach；三项完全相同时视为同一档位，仅按原始id升序稳定展示。连续序号是浏览顺序，不宣称同档相邻作品存在可证明的优劣。",
+  "formula": "impact × 0.50 + popularity × 0.35 + reach × 0.15；程序使用整数半分单位计算，避免浮点误差造成虚假先后。",
+  "asOf": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "sources": [
+    {
+      "label": "豆瓣读书 Top250（2026-10-22实时读取10页）",
+      "url": "https://book.douban.com/top250",
+      "whatSupports": "中文读者平台中可见的长期阅读与评价关注；已保存250条快照。该榜综合人数与评价，不是销量、完整读者人口或本网站综合排名。"
+    },
+    {
+      "label": "OCLC The Library 100／The Complete 500",
+      "url": "https://www.oclc.org/en/worldcat/library100/top500.html",
+      "whatSupports": "已发表的小说图书馆馆藏榜，为跨地区持续馆藏和经典传播提供历史参考；不当作2026实时热度榜，也不覆盖所有学科。"
+    },
+    {
+      "label": "OCLC Library100 FAQ",
+      "url": "https://www.oclc.org/en/worldcat/library100/faq.html",
+      "whatSupports": "说明以WorldCat登记的印刷本馆藏计数，作品聚类与文化覆盖存在局限；馆藏不等于借阅或销量。"
+    },
+    {
+      "label": "UNESCO：马尔克斯访谈背景",
+      "url": "https://www.unesco.org/en/articles/interview-gabriel-garcia-marquez-0",
+      "whatSupports": "《百年孤独》与现代小说和马尔克斯国际文学地位的背景，不把作家奖项直接换算为本书分数。"
+    },
+    {
+      "label": "诺贝尔奖官网：加缪传略",
+      "url": "https://www.nobelprize.org/prizes/literature/1957/camus/biographical/",
+      "whatSupports": "加缪作品与思想语境的历史参考；作者奖项不代表对某一本书的定量排名。"
+    },
+    {
+      "label": "雨果奖官网：2015年奖项",
+      "url": "https://www.thehugoawards.org/hugo-history/2015-hugo-awards/",
+      "whatSupports": "核实刘慈欣《三体》首部英文版获最佳长篇小说奖，避免借用三体全集的豆瓣数据。"
+    },
+    {
+      "label": "Tor Books／Macmillan：《三体》首部",
+      "url": "https://us.macmillan.com/books/9780765377067/thethreebodyproblem/",
+      "whatSupports": "区分首部与系列，核实首部国际出版与科幻传播背景。"
+    },
+    {
+      "label": "James Clear：作者书目",
+      "url": "https://jamesclear.com/books",
+      "whatSupports": "《原子习惯》的作者归属、方法主题与国际大众传播背景；不引用未经独立核对的即时销量。"
+    },
+    {
+      "label": "Penguin Random House：《时间简史》",
+      "url": "https://www.penguinrandomhouse.com/books/77010/a-brief-history-of-time-by-stephen-hawking/",
+      "whatSupports": "大众科普出版与持续传播的参考，未把图书内容当作2026宇宙学的完整现状。"
+    }
+  ],
+  "editorialDisclaimer": "这是本站为阅读浏览编排的编辑评分与排序，不是权威统一榜单、科学测量、2026销量榜或豆瓣/OCLC官方综合排名。来源提供不同范围的参考，100本并无口径一致的全量销量、借阅量或当前热度资料；维度评分及其权重仍包含明确的编辑判断。高影响不代表所有观点可靠，排名靠后也不代表作品没有阅读价值。",
+  "evidenceUseRules": [
+    "不将作者奖项直接计作具体书籍的获奖。",
+    "不把豆瓣评分当销量，也不叠加不同译本、版次或套装的评价人数。",
+    "《三体》按首部处理，不匹配豆瓣Top250的《三体全集》；《亲密关系》按克里斯多福·孟版本处理，不借用罗兰·米勒教材数据。",
+    "OCLC列表是历史馆藏方法产生的小说名单，不宣称其数据在2026重新计数，不将未入榜的非虚构作品扣为零分。",
+    "马尔克斯、加缪等来源用于理解历史语境，评分仍明确标为编辑判断。",
+    "页面未取得的销量、即时评分与排行榜位置不填写，不对未核实数值做推算。"
+  ],
+  "doubanSnapshot": {
+    "path": "content/ranking-evidence/douban-top250-snapshot.json",
+    "fetchedPages": 10,
+    "fetchedItems": 250,
+    "matchedBooks": 44,
+    "matches": [
+      {
+        "id": 1,
+        "title": "一间自己的房间",
+        "listedTitle": "一间只属于自己的房间",
+        "listedRank": 63,
+        "sourceUrl": "https://book.douban.com/subject/34835082/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 2,
+        "title": "万历十五年",
+        "listedTitle": "万历十五年",
+        "listedRank": 47,
+        "sourceUrl": "https://book.douban.com/subject/1041482/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 4,
+        "title": "中国历代政治得失",
+        "listedTitle": "中国历代政治得失",
+        "listedRank": 26,
+        "sourceUrl": "https://book.douban.com/subject/1003479/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 6,
+        "title": "也许你该找个人聊聊",
+        "listedTitle": "也许你该找个人聊聊",
+        "listedRank": 102,
+        "sourceUrl": "https://book.douban.com/subject/35481512/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 7,
+        "title": "乡土中国",
+        "listedTitle": "乡土中国",
+        "listedRank": 34,
+        "sourceUrl": "https://book.douban.com/subject/1795079/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 9,
+        "title": "人类简史",
+        "listedTitle": "人类简史",
+        "listedRank": 36,
+        "sourceUrl": "https://book.douban.com/subject/25985021/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 10,
+        "title": "刀锋",
+        "listedTitle": "刀锋",
+        "listedRank": 58,
+        "sourceUrl": "https://book.douban.com/subject/2035162/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 11,
+        "title": "卡拉马佐夫兄弟",
+        "listedTitle": "卡拉马佐夫兄弟",
+        "listedRank": 17,
+        "sourceUrl": "https://book.douban.com/subject/25887924/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 12,
+        "title": "厌女",
+        "listedTitle": "厌女",
+        "listedRank": 51,
+        "sourceUrl": "https://book.douban.com/subject/25836270/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 15,
+        "title": "叫魂：1768年中国妖术大恐慌",
+        "listedTitle": "叫魂",
+        "listedRank": 104,
+        "sourceUrl": "https://book.douban.com/subject/25912076/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 21,
+        "title": "太白金星有点烦",
+        "listedTitle": "太白金星有点烦",
+        "listedRank": 66,
+        "sourceUrl": "https://book.douban.com/subject/36328704/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 23,
+        "title": "始于极限",
+        "listedTitle": "始于极限",
+        "listedRank": 87,
+        "sourceUrl": "https://book.douban.com/subject/35966120/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 26,
+        "title": "局外人",
+        "listedTitle": "局外人",
+        "listedRank": 30,
+        "sourceUrl": "https://book.douban.com/subject/4908885/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 30,
+        "title": "悉达多",
+        "listedTitle": "悉达多",
+        "listedRank": 33,
+        "sourceUrl": "https://book.douban.com/subject/26980487/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 38,
+        "title": "明朝那些事儿",
+        "listedTitle": "明朝那些事儿（1-9）",
+        "listedRank": 23,
+        "sourceUrl": "https://book.douban.com/subject/3674537/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 39,
+        "title": "月亮与六便士",
+        "listedTitle": "月亮和六便士",
+        "listedRank": 53,
+        "sourceUrl": "https://book.douban.com/subject/1858513/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 42,
+        "title": "爱的艺术",
+        "listedTitle": "爱的艺术",
+        "listedRank": 174,
+        "sourceUrl": "https://book.douban.com/subject/3026879/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 43,
+        "title": "父权制与资本主义",
+        "listedTitle": "父权制与资本主义",
+        "listedRank": 195,
+        "sourceUrl": "https://book.douban.com/subject/34896921/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 46,
+        "title": "社会心理学",
+        "listedTitle": "社会心理学",
+        "listedRank": 191,
+        "sourceUrl": "https://book.douban.com/subject/1476651/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 47,
+        "title": "秋园",
+        "listedTitle": "秋园",
+        "listedRank": 59,
+        "sourceUrl": "https://book.douban.com/subject/34998019/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 51,
+        "title": "绝叫",
+        "listedTitle": "绝叫",
+        "listedRank": 84,
+        "sourceUrl": "https://book.douban.com/subject/35031587/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 52,
+        "title": "置身事内",
+        "listedTitle": "置身事内",
+        "listedRank": 50,
+        "sourceUrl": "https://book.douban.com/subject/35546622/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 53,
+        "title": "翦商",
+        "listedTitle": "翦商",
+        "listedRank": 215,
+        "sourceUrl": "https://book.douban.com/subject/36096304/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 62,
+        "title": "邓小平时代",
+        "listedTitle": "邓小平时代",
+        "listedRank": 13,
+        "sourceUrl": "https://book.douban.com/subject/20424526/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 68,
+        "title": "活着",
+        "listedTitle": "活着",
+        "listedRank": 2,
+        "sourceUrl": "https://book.douban.com/subject/4913064/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 69,
+        "title": "许三观卖血记",
+        "listedTitle": "许三观卖血记",
+        "listedRank": 29,
+        "sourceUrl": "https://book.douban.com/subject/4760224/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 70,
+        "title": "平凡的世界",
+        "listedTitle": "平凡的世界（全三部）",
+        "listedRank": 35,
+        "sourceUrl": "https://book.douban.com/subject/1200840/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 71,
+        "title": "围城",
+        "listedTitle": "围城",
+        "listedRank": 37,
+        "sourceUrl": "https://book.douban.com/subject/1008145/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 72,
+        "title": "百年孤独",
+        "listedTitle": "百年孤独",
+        "listedRank": 6,
+        "sourceUrl": "https://book.douban.com/subject/6082808/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 73,
+        "title": "霍乱时期的爱情",
+        "listedTitle": "霍乱时期的爱情",
+        "listedRank": 48,
+        "sourceUrl": "https://book.douban.com/subject/10594787/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 74,
+        "title": "追风筝的人",
+        "listedTitle": "追风筝的人",
+        "listedRank": 56,
+        "sourceUrl": "https://book.douban.com/subject/1770782/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 75,
+        "title": "小王子",
+        "listedTitle": "小王子",
+        "listedRank": 15,
+        "sourceUrl": "https://book.douban.com/subject/1084336/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 78,
+        "title": "一九八四",
+        "listedTitle": "1984",
+        "listedRank": 4,
+        "sourceUrl": "https://book.douban.com/subject/4820710/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 79,
+        "title": "动物农场",
+        "listedTitle": "动物农场",
+        "listedRank": 8,
+        "sourceUrl": "https://book.douban.com/subject/2035179/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 80,
+        "title": "杀死一只知更鸟",
+        "listedTitle": "杀死一只知更鸟",
+        "listedRank": 22,
+        "sourceUrl": "https://book.douban.com/subject/6781808/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 81,
+        "title": "傲慢与偏见",
+        "listedTitle": "傲慢与偏见",
+        "listedRank": 70,
+        "sourceUrl": "https://book.douban.com/subject/1083428/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 82,
+        "title": "红楼梦",
+        "listedTitle": "红楼梦",
+        "listedRank": 1,
+        "sourceUrl": "https://book.douban.com/subject/1007305/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 83,
+        "title": "你当像鸟飞往你的山",
+        "listedTitle": "你当像鸟飞往你的山",
+        "listedRank": 155,
+        "sourceUrl": "https://book.douban.com/subject/33440205/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 85,
+        "title": "额尔古纳河右岸",
+        "listedTitle": "额尔古纳河右岸",
+        "listedRank": 140,
+        "sourceUrl": "https://book.douban.com/subject/34432750/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 86,
+        "title": "沉默的大多数",
+        "listedTitle": "沉默的大多数",
+        "listedRank": 27,
+        "sourceUrl": "https://book.douban.com/subject/1054685/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 89,
+        "title": "时间简史",
+        "listedTitle": "时间简史",
+        "listedRank": 143,
+        "sourceUrl": "https://book.douban.com/subject/1034282/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 98,
+        "title": "解忧杂货店",
+        "listedTitle": "解忧杂货店",
+        "listedRank": 250,
+        "sourceUrl": "https://book.douban.com/subject/25862578/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 99,
+        "title": "白夜行",
+        "listedTitle": "白夜行",
+        "listedRank": 12,
+        "sourceUrl": "https://book.douban.com/subject/10554308/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      },
+      {
+        "id": 100,
+        "title": "撒哈拉的故事",
+        "listedTitle": "撒哈拉的故事",
+        "listedRank": 18,
+        "sourceUrl": "https://book.douban.com/subject/1060068/",
+        "matchNote": "同一作品的可见榜单版本；仅作阅读可见度参考，不将不同版本评价人数相加。"
+      }
+    ]
+  },
+  "top10": [
+    {
+      "rank": 1,
+      "id": 72,
+      "title": "百年孤独",
+      "reason": "魔幻现实主义经典把家族与历史重新组织，文学影响、跨语种传播和中文阅读热度兼具。"
+    },
+    {
+      "rank": 2,
+      "id": 75,
+      "title": "小王子",
+      "reason": "跨年龄与跨语言的文学寓言，关系与责任主题持久，图书馆传播和中文读者基础都突出。"
+    },
+    {
+      "rank": 3,
+      "id": 78,
+      "title": "一九八四",
+      "reason": "语言、记忆与权力的政治寓言持续进入公共讨论，国际经典影响与中文高热度相互支撑。"
+    },
+    {
+      "rank": 4,
+      "id": 68,
+      "title": "活着",
+      "reason": "当代中文文学的广泛阅读入口，人物与生命主题具有跨代影响，中文读者热度持续突出。"
+    },
+    {
+      "rank": 5,
+      "id": 82,
+      "title": "红楼梦",
+      "reason": "中国古典小说的核心经典，语言、人物与文化影响深厚，中文读者热度与跨代传播突出。"
+    },
+    {
+      "rank": 6,
+      "id": 11,
+      "title": "卡拉马佐夫兄弟",
+      "reason": "信仰、自由与责任的文学经典，跨文化思想影响深厚，仍有稳定而投入的当代读者。"
+    },
+    {
+      "rank": 7,
+      "id": 26,
+      "title": "局外人",
+      "reason": "现代文学与荒诞讨论的核心入口，国际经典地位与中文读者热度保持连接。"
+    },
+    {
+      "rank": 8,
+      "id": 49,
+      "title": "第二性",
+      "reason": "现代女性主义的重要经典，理论与社会讨论的长期影响深厚，持续跨语种进入新读者。"
+    },
+    {
+      "rank": 9,
+      "id": 79,
+      "title": "动物农场",
+      "reason": "政治寓言的表达进入跨文化公共语言，图书馆传播广，中文长期阅读基础稳固。"
+    },
+    {
+      "rank": 10,
+      "id": 80,
+      "title": "杀死一只知更鸟",
+      "reason": "关于偏见、正义与成长的长期文学课堂入口，跨地区馆藏传播和读者生命都很强。"
+    }
+  ]
+}

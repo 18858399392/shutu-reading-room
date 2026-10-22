@@ -8,3 +8,4 @@ tools/supplement-render/
 tools/qa/
 tools/*report.json
 content/build-report.json
+.notebook-build/
