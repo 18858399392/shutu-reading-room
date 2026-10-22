@@ -7,7 +7,7 @@ self.addEventListener('fetch',event=>{
   if(url.origin!==location.origin||event.request.method!=='GET')return;
   if(/\.(webp|svg|png)$/.test(url.pathname)){
     event.respondWith(caches.open(IMAGES).then(async cache=>{
-      const cached=await cache.match(event.request);if(cached)return cached;
+      const cached=await cache.match(event.request)||await caches.match(event.request);if(cached)return cached;
       const response=await fetch(event.request);
       if(response.ok){await cache.put(event.request,response.clone());const keys=await cache.keys();if(keys.length>300)await cache.delete(keys[0]);}
       return response;

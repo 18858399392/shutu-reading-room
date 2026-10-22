@@ -61,7 +61,7 @@ def main():
         (out / name).write_text(source, encoding='utf-8', newline='\n')
     html = (out / 'index.html').read_text(encoding='utf-8')
     versioned_assets = []
-    for name in ('style.css', 'app.js', 'books.js'):
+    for name in ('style.css', 'app.js', 'books.js', 'assets/icon.svg', 'assets/icon-192.png', 'assets/icon-512.png'):
         fingerprint = hashlib.sha256((out / name).read_bytes()).hexdigest()[:12]
         versioned = name + '?v=' + fingerprint
         html = html.replace('"' + name + '"', '"' + versioned + '"')
@@ -69,9 +69,12 @@ def main():
     (out / 'index.html').write_text(html, encoding='utf-8', newline='\n')
     shutil.copyfile(out / 'index.html', out / 'index.htm')
     manifest = read(out / 'manifest.webmanifest')
-    manifest.update(name='一书三图 · 翻页阅读本', description='100本好书，大封面、三句话、黑板图解。按综合阅读榜翻阅，从目录直达每一本。', background_color='#f3f0f6')
+    manifest.update(name='一书三图 · 翻页阅读本', description='100本好书，大封面、三句话、黑板图解。按综合阅读榜翻阅，从目录直达每一本。', background_color='#f2eee5', theme_color='#294536')
+    for icon in manifest['icons']:
+        relative = icon['src'].split('?')[0]
+        icon['src'] = relative + '?v=' + hashlib.sha256((out / relative).read_bytes()).hexdigest()[:12]
     write(out / 'manifest.webmanifest', manifest)
-    write(out / 'release.json', dict(name='一书三图', version='2.0.0', books=100, primaryImages=300, generatedNotebookCards=generated, canonicalUrl='https://shutu.kanglimin.com/', productionBranch='main', rankingDate=method.get('asOf', '2026-10-22')))
+    write(out / 'release.json', dict(name='一书三图', version='2.1.0', theme='reading-journal', books=100, primaryImages=300, generatedNotebookCards=generated, canonicalUrl='https://shutu.kanglimin.com/', productionBranch='main', rankingDate=method.get('asOf', '2026-10-22')))
     digest = hashlib.sha256()
     for name in ('index.html', 'style.css', 'app.js', 'books.js', 'manifest.webmanifest'):
         digest.update((out / name).read_bytes())
