@@ -1,10 +1,11 @@
 {
   "name": "一书三图",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "theme": "reading-journal",
   "books": 100,
   "primaryImages": 300,
-  "generatedNotebookCards": 132,
+  "generatedNotebookCards": 0,
+  "aiGeneratedImages": 132,
   "canonicalUrl": "https://shutu.kanglimin.com/",
   "productionBranch": "main",
   "rankingDate": "2026-10-22"

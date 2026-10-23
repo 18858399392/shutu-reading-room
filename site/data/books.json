@@ -24,28 +24,37 @@
     "sourceLabel": "Penguin Random House｜作品书目",
     "images": [
       {
-        "src": "assets/notebook/72-cover.webp?v=26c670648cf7",
-        "thumb": "assets/notebook/72-cover-thumb.webp?v=f6fb6cf03319",
-        "label": "大标题封面",
+        "src": "assets/ai-books/072-cover-57e27e21d85e.webp?v=d03c3afbaa83",
+        "thumb": "assets/ai-books/072-cover-57e27e21d85e-thumb.webp?v=ca45887774ea",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "57e27e21d85e57db7bc44c42043f6aec62ae3fd520a14ab1bd34ec388450ea83",
+        "assetSha256": "d03c3afbaa83db2c3d12fd81f7f39060096610ee10fef09df4e1c618f5e34952"
       },
       {
-        "src": "assets/notebook/72-three-lines.webp?v=beec8e01d2a1",
-        "thumb": "assets/notebook/72-three-lines-thumb.webp?v=bbeeb6a34be5",
+        "src": "assets/ai-books/072-three-lines-ff96431f3e7e.webp?v=6a7c95962cc8",
+        "thumb": "assets/ai-books/072-three-lines-ff96431f3e7e-thumb.webp?v=d2b8394f506e",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "ff96431f3e7e882474df0c922dcd72f1463f49934770a5b20e78d1cd1c6df853",
+        "assetSha256": "6a7c95962cc8119f6b24daa29e7b02ec168320fa32d3271bea20e412ba4aef3f"
       },
       {
-        "src": "assets/notebook/72-blackboard.webp?v=8a0d78bd796a",
-        "thumb": "assets/notebook/72-blackboard-thumb.webp?v=7d15026ff2ea",
+        "src": "assets/ai-books/072-blackboard-6b29f10a8616.webp?v=e1298b09512d",
+        "thumb": "assets/ai-books/072-blackboard-6b29f10a8616-thumb.webp?v=04c2bb204fde",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6b29f10a86168129ec81f0514fd0d139fb232a8452d1a67aa36ca415daf1608e",
+        "assetSha256": "e1298b09512d0bcad196159c3f17fbcbcde93dc09e7637d3780f1da25149ae5f"
       }
     ],
     "rank": 1,
@@ -107,28 +116,37 @@
     "sourceLabel": "香港中文大学出版社｜阅读节选",
     "images": [
       {
-        "src": "assets/notebook/75-cover.webp?v=10450d79a890",
-        "thumb": "assets/notebook/75-cover-thumb.webp?v=76090627d0fa",
-        "label": "大标题封面",
+        "src": "assets/ai-books/075-cover-471571a5315c.webp?v=0edb0d04d459",
+        "thumb": "assets/ai-books/075-cover-471571a5315c-thumb.webp?v=b6c31314ece1",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "471571a5315ce976503612464ae27ee77e602cc9519863899d17b3dedfe34e26",
+        "assetSha256": "0edb0d04d459b0eef595306f33f890e327c3ae5b4522c32a42cc07dfcb011cc8"
       },
       {
-        "src": "assets/notebook/75-three-lines.webp?v=bae0eb76d561",
-        "thumb": "assets/notebook/75-three-lines-thumb.webp?v=54c21431e624",
+        "src": "assets/ai-books/075-three-lines-cd38c65c4d27.webp?v=58e91bb5bc4c",
+        "thumb": "assets/ai-books/075-three-lines-cd38c65c4d27-thumb.webp?v=79d5a629bfe4",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "cd38c65c4d27078b7ce9b77c1e3fa37a064e9ea530424b8b7b1d6449d0c9f563",
+        "assetSha256": "58e91bb5bc4cc1b1941a6f695c16e0ef6bed77d9262508db2d878b155269d076"
       },
       {
-        "src": "assets/notebook/75-blackboard.webp?v=1b88cebb94a7",
-        "thumb": "assets/notebook/75-blackboard-thumb.webp?v=b73046cf19b3",
+        "src": "assets/ai-books/075-blackboard-5e6714a99acf.webp?v=5431190bae6a",
+        "thumb": "assets/ai-books/075-blackboard-5e6714a99acf-thumb.webp?v=191501e2fbb0",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "5e6714a99acf21f46c295afcd6239d3f622235d519b1d9fb419c23de0f934a72",
+        "assetSha256": "5431190bae6ae6ea2b3d8c3f9b5725a261dde38269bf7721776a77349044a1f6"
       }
     ],
     "rank": 2,
@@ -190,28 +208,37 @@
     "sourceLabel": "Penguin Random House｜作品简介",
     "images": [
       {
-        "src": "assets/notebook/78-cover.webp?v=19976e6d99f7",
-        "thumb": "assets/notebook/78-cover-thumb.webp?v=2e03fad97075",
-        "label": "大标题封面",
+        "src": "assets/ai-books/078-cover-e69bd0a99762.webp?v=c0f030c079fe",
+        "thumb": "assets/ai-books/078-cover-e69bd0a99762-thumb.webp?v=3ae80a29fd30",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "e69bd0a9976219a9190b5440b533582f62e0f050ded84d4330d0ef65bbd625dd",
+        "assetSha256": "c0f030c079fe3f2ece5648755d46aeed92165641e9b9bb61aa1f3545fcf13df6"
       },
       {
-        "src": "assets/notebook/78-three-lines.webp?v=416d8a2e5bfd",
-        "thumb": "assets/notebook/78-three-lines-thumb.webp?v=24813df24065",
+        "src": "assets/ai-books/078-three-lines-6ae680123a79.webp?v=df2daf410d48",
+        "thumb": "assets/ai-books/078-three-lines-6ae680123a79-thumb.webp?v=ac590157fd15",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6ae680123a799a9271bd73c29642bd0366b04c3d29126e2942c1780c2e38ce12",
+        "assetSha256": "df2daf410d481abe121c432d11a0cf4ebd5e42150e27a94d81c2a361fc94c124"
       },
       {
-        "src": "assets/notebook/78-blackboard.webp?v=d800cdc5a4de",
-        "thumb": "assets/notebook/78-blackboard-thumb.webp?v=608528cb4ce6",
+        "src": "assets/ai-books/078-blackboard-006ff5b34fdb.webp?v=49cfa28680bf",
+        "thumb": "assets/ai-books/078-blackboard-006ff5b34fdb-thumb.webp?v=4e794eb3ee0f",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "006ff5b34fdbe2c638e68f6f827c57c1b421feeba3ee716b1cc951980720777d",
+        "assetSha256": "49cfa28680bf496edfc761faad27725feb0b4a2ae19f0a16ef9c8c18476fff9d"
       }
     ],
     "rank": 3,
@@ -273,28 +300,37 @@
     "sourceLabel": "余华访谈｜俄亥俄州立大学MCLC",
     "images": [
       {
-        "src": "assets/notebook/68-cover.webp?v=cccf74d0dccc",
-        "thumb": "assets/notebook/68-cover-thumb.webp?v=2020f15383b4",
-        "label": "大标题封面",
+        "src": "assets/ai-books/068-cover-662104991854.webp?v=ce148e9deee4",
+        "thumb": "assets/ai-books/068-cover-662104991854-thumb.webp?v=4f9c306278e0",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6621049918542b1f04445e0e68b616bbcef705a0ddf7ac919b72908bada6c489",
+        "assetSha256": "ce148e9deee4ee71e3cbef3870401fba7fcc6655e3c442892a5179fc3b96f8b7"
       },
       {
-        "src": "assets/notebook/68-three-lines.webp?v=b685a07851d2",
-        "thumb": "assets/notebook/68-three-lines-thumb.webp?v=6948726301ef",
+        "src": "assets/ai-books/068-three-lines-7da8c9e0e022.webp?v=0adf10861499",
+        "thumb": "assets/ai-books/068-three-lines-7da8c9e0e022-thumb.webp?v=6036bae60e07",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "7da8c9e0e0227f901bec30573a2387f3585a99a1864aa40c7f9e9e525c66b7f0",
+        "assetSha256": "0adf1086149932b165a711ca615d723e821c74e8fea0a9aa267793967c763e0b"
       },
       {
-        "src": "assets/notebook/68-blackboard.webp?v=33e82f0fc7d6",
-        "thumb": "assets/notebook/68-blackboard-thumb.webp?v=402ee2127253",
+        "src": "assets/ai-books/068-blackboard-e6556d560ef5.webp?v=b4535d960dff",
+        "thumb": "assets/ai-books/068-blackboard-e6556d560ef5-thumb.webp?v=ae854d7fb88d",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "e6556d560ef5b11f713cb6e0a7ce8814546a82fa3df537753e637b1956a2037e",
+        "assetSha256": "b4535d960dff3f0ef69296dc5dedc7473e9d9340a30e014f42454845699f73d7"
       }
     ],
     "rank": 4,
@@ -357,28 +393,37 @@
     "correctionNote": "《红楼梦》存在不同版本。这里以通行程高本的完整故事作概括，后四十回续作者存在学术争议。",
     "images": [
       {
-        "src": "assets/notebook/82-cover.webp?v=0863edbdd8e3",
-        "thumb": "assets/notebook/82-cover-thumb.webp?v=7217e663af8a",
-        "label": "大标题封面",
+        "src": "assets/ai-books/082-cover-204c91f5ffb2.webp?v=92dc215a29f3",
+        "thumb": "assets/ai-books/082-cover-204c91f5ffb2-thumb.webp?v=17c8561c7247",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "204c91f5ffb2f6489c8ca029cf80445d6c026814aa36d038236019b5b019900e",
+        "assetSha256": "92dc215a29f3737a6d823b19adf5e688fd9fe6260e0ccbb1431d03c40a231e3e"
       },
       {
-        "src": "assets/notebook/82-three-lines.webp?v=726a13dd9caf",
-        "thumb": "assets/notebook/82-three-lines-thumb.webp?v=d747a9aca675",
+        "src": "assets/ai-books/082-three-lines-bd20d9f604c3.webp?v=640003106423",
+        "thumb": "assets/ai-books/082-three-lines-bd20d9f604c3-thumb.webp?v=34a8805695eb",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "bd20d9f604c3e436f967db7c9cd48fc3ab6ed2141121aa96e8359eca4952ccb0",
+        "assetSha256": "640003106423fbd10e2e2df08394830fb3153b07b19ef72874228175a0136573"
       },
       {
-        "src": "assets/notebook/82-blackboard.webp?v=300f86a43125",
-        "thumb": "assets/notebook/82-blackboard-thumb.webp?v=c591dd7809d8",
+        "src": "assets/ai-books/082-blackboard-8bea262f82ba.webp?v=6861df59b814",
+        "thumb": "assets/ai-books/082-blackboard-8bea262f82ba-thumb.webp?v=674de0f9f6bf",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "8bea262f82ba58fbeeddf5d46b398ddb32390eb829be9c814cb47213fbfe7733",
+        "assetSha256": "6861df59b8140a2dd97ab9691c0540cc73f3197d18864a3f4835ddf50ac376ff"
       }
     ],
     "rank": 5,
@@ -626,28 +671,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/79-cover.webp?v=02425d9d0e54",
-        "thumb": "assets/notebook/79-cover-thumb.webp?v=0a9381e1a2ee",
-        "label": "大标题封面",
+        "src": "assets/ai-books/079-cover-27adef2d058a.webp?v=8349146e5fa9",
+        "thumb": "assets/ai-books/079-cover-27adef2d058a-thumb.webp?v=9b6fafa2cc9e",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "27adef2d058a504e6b1f70cce0eae56939e74a69b72ebc5debb4dc9f06a82d87",
+        "assetSha256": "8349146e5fa9cd4e80a520c04ce3f4b78d7a168f2b8dc3164e27f97021cd950f"
       },
       {
-        "src": "assets/notebook/79-three-lines.webp?v=1c06190d487f",
-        "thumb": "assets/notebook/79-three-lines-thumb.webp?v=6e8831169af1",
+        "src": "assets/ai-books/079-three-lines-c2dd68a120f4.webp?v=e602987fbd26",
+        "thumb": "assets/ai-books/079-three-lines-c2dd68a120f4-thumb.webp?v=a5473f9892c6",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c2dd68a120f451fd641a86d89d3538d2bcf3c1acac9205552d346470c095ec34",
+        "assetSha256": "e602987fbd26eccf72267b42aafdd84a94dde3a85ce6605d455c4d03b051728e"
       },
       {
-        "src": "assets/notebook/79-blackboard.webp?v=e5c0c57c021e",
-        "thumb": "assets/notebook/79-blackboard-thumb.webp?v=419216e39065",
+        "src": "assets/ai-books/079-blackboard-023eb22b2d47.webp?v=9c87c6e25dac",
+        "thumb": "assets/ai-books/079-blackboard-023eb22b2d47-thumb.webp?v=409bed84b69b",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "023eb22b2d47da2af4328cb8ebf6dfe1541ffde162d0ba685400315312838d8e",
+        "assetSha256": "9c87c6e25dacde00a16fd0a987662687fe5feb308d381f1e378342c89a82101d"
       }
     ],
     "rank": 9,
@@ -709,28 +763,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/80-cover.webp?v=3a8b593b9f6d",
-        "thumb": "assets/notebook/80-cover-thumb.webp?v=8c33aef23bfe",
-        "label": "大标题封面",
+        "src": "assets/ai-books/080-cover-527a9c280d3e.webp?v=5d8409eb373a",
+        "thumb": "assets/ai-books/080-cover-527a9c280d3e-thumb.webp?v=4c283f649236",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "527a9c280d3e18870b420771ec228618329dd4c50bff90d4fea68d312ff4087c",
+        "assetSha256": "5d8409eb373ad2f8b91dcef9bd4654a5b8a3affbba799098f832152ee07c90dd"
       },
       {
-        "src": "assets/notebook/80-three-lines.webp?v=91b68bdfd754",
-        "thumb": "assets/notebook/80-three-lines-thumb.webp?v=8a706150dba7",
+        "src": "assets/ai-books/080-three-lines-31769e102835.webp?v=ac650a1effa3",
+        "thumb": "assets/ai-books/080-three-lines-31769e102835-thumb.webp?v=1b5d8bf36157",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "31769e102835a95325832d51f23f1656229148ee34dddc822045bc2d4d0b414b",
+        "assetSha256": "ac650a1effa38efe4ec77de7ba65986466f76535e891bbcf7c6618047356dd30"
       },
       {
-        "src": "assets/notebook/80-blackboard.webp?v=39f526299b89",
-        "thumb": "assets/notebook/80-blackboard-thumb.webp?v=666e706b9ae5",
+        "src": "assets/ai-books/080-blackboard-d5e58ee3f383.webp?v=5a4dc2f05a37",
+        "thumb": "assets/ai-books/080-blackboard-d5e58ee3f383-thumb.webp?v=171c38a48d12",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "d5e58ee3f38312336a8759c10640957e818deecb1d6d87b0c7143ba400d714f4",
+        "assetSha256": "5a4dc2f05a37cd995570b355b4e4e901adf56f549b2bd2ad82f5644519616d99"
       }
     ],
     "rank": 10,
@@ -792,28 +855,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/81-cover.webp?v=9110282a4038",
-        "thumb": "assets/notebook/81-cover-thumb.webp?v=528b890abe70",
-        "label": "大标题封面",
+        "src": "assets/ai-books/081-cover-91858a7732ad.webp?v=1e772c1c04e3",
+        "thumb": "assets/ai-books/081-cover-91858a7732ad-thumb.webp?v=fa43ae590e7a",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "91858a7732ad712363fcaa8019db624deaf5bd15366ecb0e93b476bec50dc861",
+        "assetSha256": "1e772c1c04e38c13c030a7bad905fc904acb5b650f3de56f854372190d3828e6"
       },
       {
-        "src": "assets/notebook/81-three-lines.webp?v=339e94758f9a",
-        "thumb": "assets/notebook/81-three-lines-thumb.webp?v=f9272d202bb4",
+        "src": "assets/ai-books/081-three-lines-e905358c0f38.webp?v=6570e2b54b36",
+        "thumb": "assets/ai-books/081-three-lines-e905358c0f38-thumb.webp?v=f645cc6780c1",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "e905358c0f383518b2f034f2d9ba0b02d78d8f0dfa79b09111e689ded613dafd",
+        "assetSha256": "6570e2b54b36d26c6e9509a572eda5f82585c9953f5e5caa497ca3b272a60da9"
       },
       {
-        "src": "assets/notebook/81-blackboard.webp?v=bd6b6a8d3e6d",
-        "thumb": "assets/notebook/81-blackboard-thumb.webp?v=b1d0fdeca974",
+        "src": "assets/ai-books/081-blackboard-462b9d426af4.webp?v=3a24803bf403",
+        "thumb": "assets/ai-books/081-blackboard-462b9d426af4-thumb.webp?v=f9bbd99e3d4f",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "462b9d426af4a7e20308d1feac7fbdab440dcd35edc1d6724fd856bd28e353da",
+        "assetSha256": "3a24803bf403c2f98c1f89495bc800c003456a8e102795d8ba9ca5e7329cc621"
       }
     ],
     "rank": 11,
@@ -875,28 +947,37 @@
     "sourceLabel": "商务印书馆｜书目与内容介绍",
     "images": [
       {
-        "src": "assets/notebook/70-cover.webp?v=e799fcb23fdb",
-        "thumb": "assets/notebook/70-cover-thumb.webp?v=e429b98267c1",
-        "label": "大标题封面",
+        "src": "assets/ai-books/070-cover-77f3b8419fd3.webp?v=0b2387b43ab3",
+        "thumb": "assets/ai-books/070-cover-77f3b8419fd3-thumb.webp?v=813643ae71f5",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "77f3b8419fd31149d1528a6c7ce1b8ea0c98628c9225cd4ad4d3c282567e2bb4",
+        "assetSha256": "0b2387b43ab3e90f56766a8ab12791f5346ad22d46c8579e46d507cb3474ef66"
       },
       {
-        "src": "assets/notebook/70-three-lines.webp?v=4f9b1a6b2ad9",
-        "thumb": "assets/notebook/70-three-lines-thumb.webp?v=908fd1336925",
+        "src": "assets/ai-books/070-three-lines-7fa4266a7e03.webp?v=99042aa1a343",
+        "thumb": "assets/ai-books/070-three-lines-7fa4266a7e03-thumb.webp?v=0edb5a81ef85",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "7fa4266a7e03ebd4e6e15e3adf196b0db76e2c80c574b8f9e701ffd31f4e8627",
+        "assetSha256": "99042aa1a3436024fd5ea373b2bfb2073d69d74c42f9486a87ec549014a3d7cf"
       },
       {
-        "src": "assets/notebook/70-blackboard.webp?v=82c96893aae1",
-        "thumb": "assets/notebook/70-blackboard-thumb.webp?v=22aa11c76832",
+        "src": "assets/ai-books/070-blackboard-f2f7f8e2045f.webp?v=ac845886d53c",
+        "thumb": "assets/ai-books/070-blackboard-f2f7f8e2045f-thumb.webp?v=3632932b9225",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f2f7f8e2045f1c9cdb6f9bfdeb0f1102b851726199c0177518ced90bc32509ba",
+        "assetSha256": "ac845886d53cc463a7db248a04f6297be160909aa766796d3e3bf1fdf2f4b353"
       }
     ],
     "rank": 12,
@@ -1026,28 +1107,37 @@
     "sourceLabel": "Tor Books／Macmillan｜作品与系列介绍",
     "images": [
       {
-        "src": "assets/notebook/77-cover.webp?v=d6d21de2373b",
-        "thumb": "assets/notebook/77-cover-thumb.webp?v=d5e6b9cf8778",
-        "label": "大标题封面",
+        "src": "assets/ai-books/077-cover-b9afa3963e0c.webp?v=9665ee72c5e7",
+        "thumb": "assets/ai-books/077-cover-b9afa3963e0c-thumb.webp?v=115c7a2d43a2",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "b9afa3963e0c669ffb665ebf25d067b4abd65d8e8f0ce8711bd324b68a2412a8",
+        "assetSha256": "9665ee72c5e7fb15bb42448630624ddd1f7c8f06211bd814ca06cb211aa99bc7"
       },
       {
-        "src": "assets/notebook/77-three-lines.webp?v=361400f1797f",
-        "thumb": "assets/notebook/77-three-lines-thumb.webp?v=02eca82b1694",
+        "src": "assets/ai-books/077-three-lines-57a1290f7235.webp?v=edb59b35f259",
+        "thumb": "assets/ai-books/077-three-lines-57a1290f7235-thumb.webp?v=be426d2863b4",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "57a1290f723551ae3f9aed767c9ac14277791aff85aad43b8757d4e5a037bd0d",
+        "assetSha256": "edb59b35f2592fdca75253970666eb6806859b99b42270ef75ac4d020e8fc61e"
       },
       {
-        "src": "assets/notebook/77-blackboard.webp?v=651ec9c2e18c",
-        "thumb": "assets/notebook/77-blackboard-thumb.webp?v=e47b328e4e26",
+        "src": "assets/ai-books/077-blackboard-2f280f7d32dd.webp?v=97b10e5b7721",
+        "thumb": "assets/ai-books/077-blackboard-2f280f7d32dd-thumb.webp?v=f83c22ddb04e",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "2f280f7d32ddaeca2fc3843941de5ad7a6cfb89424bfd96a66a1da219f38cbd7",
+        "assetSha256": "97b10e5b7721deaa459afebadddda85c7cb1d106b1287fd28b0f1a33e716aa8c"
       }
     ],
     "rank": 14,
@@ -1109,28 +1199,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/97-cover.webp?v=846d2f1a6729",
-        "thumb": "assets/notebook/97-cover-thumb.webp?v=d56e7e33db2a",
-        "label": "大标题封面",
+        "src": "assets/ai-books/097-cover-65417a68238f.webp?v=f40b51b3598d",
+        "thumb": "assets/ai-books/097-cover-65417a68238f-thumb.webp?v=aa023b9fc865",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "65417a68238f601e29ce0caa94ac1298283c2e902cb84cdb7f350d691fab0902",
+        "assetSha256": "f40b51b3598df35bdb15e75d5a13bbbad425557e75cd3033ee99724be67aee0d"
       },
       {
-        "src": "assets/notebook/97-three-lines.webp?v=c158e5ab96ad",
-        "thumb": "assets/notebook/97-three-lines-thumb.webp?v=07f0facec0f6",
+        "src": "assets/ai-books/097-three-lines-4e799d4fd8b8.webp?v=cf92e9760273",
+        "thumb": "assets/ai-books/097-three-lines-4e799d4fd8b8-thumb.webp?v=0a1aad13f3a9",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "4e799d4fd8b89fa734b0901d382273a564def0f60941519343bb469cddd0e273",
+        "assetSha256": "cf92e9760273e7678d626319406d41e371a4ef63ce434e2635050f1271b93c2e"
       },
       {
-        "src": "assets/notebook/97-blackboard.webp?v=3143752be1b7",
-        "thumb": "assets/notebook/97-blackboard-thumb.webp?v=88e3911c422c",
+        "src": "assets/ai-books/097-blackboard-9d619e3c83d8.webp?v=b82e88482808",
+        "thumb": "assets/ai-books/097-blackboard-9d619e3c83d8-thumb.webp?v=4a40cbf10201",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "9d619e3c83d8160f53e16b99ca4a29f239a629288031a9a814faa07d6d30260d",
+        "assetSha256": "b82e8848280813a960cb580c3a04b46c747a4a40e6dcd23d46012207a728ae18"
       }
     ],
     "rank": 15,
@@ -1192,28 +1291,37 @@
     "sourceLabel": "WorldCat｜馆藏书目",
     "images": [
       {
-        "src": "assets/notebook/71-cover.webp?v=6c418c980141",
-        "thumb": "assets/notebook/71-cover-thumb.webp?v=c24976cfaea3",
-        "label": "大标题封面",
+        "src": "assets/ai-books/071-cover-c2d333188e3c.webp?v=634c1a8f6b3b",
+        "thumb": "assets/ai-books/071-cover-c2d333188e3c-thumb.webp?v=dc50467c0649",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c2d333188e3cc7bc305d48c658d7efa6aa25eb1b26dd1c1c4e3151f01e379f83",
+        "assetSha256": "634c1a8f6b3be6c571fb6e4211b3b17270be95e4f4dcec286d9cbc764562088b"
       },
       {
-        "src": "assets/notebook/71-three-lines.webp?v=cf2c6dd9f110",
-        "thumb": "assets/notebook/71-three-lines-thumb.webp?v=01b94c89074f",
+        "src": "assets/ai-books/071-three-lines-d310e60a5def.webp?v=37a4ba11baea",
+        "thumb": "assets/ai-books/071-three-lines-d310e60a5def-thumb.webp?v=496443bece26",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "d310e60a5deffe25eda9a375bc5a3f1746b85cadca273df1ebb7c1301dad2a62",
+        "assetSha256": "37a4ba11baeaa24e07720631f2a500c8fd302cf9e357aa384d9ea32dce188ec4"
       },
       {
-        "src": "assets/notebook/71-blackboard.webp?v=98807fd62d5d",
-        "thumb": "assets/notebook/71-blackboard-thumb.webp?v=ef3a6b290bfc",
+        "src": "assets/ai-books/071-blackboard-bb390bd2c0de.webp?v=f6fc4ab5cf42",
+        "thumb": "assets/ai-books/071-blackboard-bb390bd2c0de-thumb.webp?v=166adc8ed894",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "bb390bd2c0deae563f9d283bbcde83140ac553c8c688ed2ad80b20eebf72f1a1",
+        "assetSha256": "f6fc4ab5cf423490c1e7d097880a6038184b46416ce0dd26040a18ed3fa33d13"
       }
     ],
     "rank": 16,
@@ -1334,28 +1442,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/99-cover.webp?v=261d2d83fb15",
-        "thumb": "assets/notebook/99-cover-thumb.webp?v=b691b4fb69b5",
-        "label": "大标题封面",
+        "src": "assets/ai-books/099-cover-15ba01dd0a63.webp?v=306c04461c48",
+        "thumb": "assets/ai-books/099-cover-15ba01dd0a63-thumb.webp?v=d00c9cf7aa4c",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "15ba01dd0a63a04036230505b0bfbfbebefff79cebc1bf690d095e1c21bbbcb5",
+        "assetSha256": "306c04461c48e235be509fb42159b22a78ce4b4e956395b8ddea52e6de31b741"
       },
       {
-        "src": "assets/notebook/99-three-lines.webp?v=86aef2264e4e",
-        "thumb": "assets/notebook/99-three-lines-thumb.webp?v=1b2f45c000c2",
+        "src": "assets/ai-books/099-three-lines-fe758e8c0ad5.webp?v=c0ac93ea9307",
+        "thumb": "assets/ai-books/099-three-lines-fe758e8c0ad5-thumb.webp?v=73f6f3382b8e",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "fe758e8c0ad5b23678edbf2843f92470be343d18ff878a8449990dcd0d20f2f8",
+        "assetSha256": "c0ac93ea9307a3eb6a94522fdaf29b23e3fd88cb697b2452f17db85fedeb8d4f"
       },
       {
-        "src": "assets/notebook/99-blackboard.webp?v=25fe43c58a10",
-        "thumb": "assets/notebook/99-blackboard-thumb.webp?v=0ea216e43bae",
+        "src": "assets/ai-books/099-blackboard-c1ab2c8e61a8.webp?v=8b3e11d87e79",
+        "thumb": "assets/ai-books/099-blackboard-c1ab2c8e61a8-thumb.webp?v=1dd6481dff4f",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c1ab2c8e61a8d9e3f66078523483e75cef05dc1ad5d681dcedc2e303ee1b0ef4",
+        "assetSha256": "8b3e11d87e793514053f7c67f5a3cfa0b86a0476b816c3e4fbefaffcce9e6bb4"
       }
     ],
     "rank": 18,
@@ -1417,28 +1534,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/88-cover.webp?v=1faae7950a75",
-        "thumb": "assets/notebook/88-cover-thumb.webp?v=32c97b1309b8",
-        "label": "大标题封面",
+        "src": "assets/ai-books/088-cover-b5cb5ff04d2a.webp?v=34ad90c97d11",
+        "thumb": "assets/ai-books/088-cover-b5cb5ff04d2a-thumb.webp?v=eddea8d1d28a",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "b5cb5ff04d2a906c0f5a9dd1de09074ac9763890e0e6cc5a323404698a12b77a",
+        "assetSha256": "34ad90c97d11b7e1b2bd1959825e6e886ffd3b240a7a1ced1cdb592f920a251a"
       },
       {
-        "src": "assets/notebook/88-three-lines.webp?v=69cc644fbde9",
-        "thumb": "assets/notebook/88-three-lines-thumb.webp?v=e8199c21553c",
+        "src": "assets/ai-books/088-three-lines-8002acd0fc2b.webp?v=1ed8ad92ed62",
+        "thumb": "assets/ai-books/088-three-lines-8002acd0fc2b-thumb.webp?v=b7d4950d2a5d",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "8002acd0fc2b78918c9d1ecae70d2606e9a9006f73c47c48920e63c46beb9521",
+        "assetSha256": "1ed8ad92ed62c2620336ff58ae5ddf384dac54eb06e69b4ff65098971cf67d14"
       },
       {
-        "src": "assets/notebook/88-blackboard.webp?v=969f33167fd2",
-        "thumb": "assets/notebook/88-blackboard-thumb.webp?v=d8f862395668",
+        "src": "assets/ai-books/088-blackboard-32d69d91f32d.webp?v=6a0a17a91354",
+        "thumb": "assets/ai-books/088-blackboard-32d69d91f32d-thumb.webp?v=094605fea00f",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "32d69d91f32dcff1c25188a17a9d4f2c3cc039df53a7bcb4bf53b7a69a196c06",
+        "assetSha256": "6a0a17a9135440cc4e10babce0f5e81befea414f04415bae52c06772e41b99f3"
       }
     ],
     "rank": 19,
@@ -1509,12 +1635,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/07-three-lines.webp?v=81960de4595e",
-        "thumb": "assets/notebook/07-three-lines-thumb.webp?v=c6ed57fee34f",
+        "src": "assets/ai-books/007-three-lines-7088025f5795.webp?v=da5f28571a5f",
+        "thumb": "assets/ai-books/007-three-lines-7088025f5795-thumb.webp?v=03a067cb2131",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "7088025f5795246e3bd3da637cf3748096036855280fa45c407051f515216ca6",
+        "assetSha256": "da5f28571a5f9707f2bd9eee846eb61dd4b40cee931e24147067cedb8bd92192"
       },
       {
         "src": "assets/books/07/board.webp?v=23e439ba7704",
@@ -1636,12 +1765,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/28-three-lines.webp?v=fdfc8c9e9dfd",
-        "thumb": "assets/notebook/28-three-lines-thumb.webp?v=5a3b47f5c070",
+        "src": "assets/ai-books/028-three-lines-44a7d1d5c3c2.webp?v=aca811bfd306",
+        "thumb": "assets/ai-books/028-three-lines-44a7d1d5c3c2-thumb.webp?v=5c34b339415d",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "44a7d1d5c3c2179ffa14f8787870ffb0a908d1c47af714c97d2ce50d6189ff40",
+        "assetSha256": "aca811bfd306c9a59ced410051173b1b33bda2fe8456ec67262171bad0fc7849"
       },
       {
         "src": "assets/books/28/board.webp?v=0e793e87bacd",
@@ -1830,12 +1962,15 @@
         "height": 2400
       },
       {
-        "src": "assets/notebook/40-blackboard.webp?v=96438e5797a0",
-        "thumb": "assets/notebook/40-blackboard-thumb.webp?v=229a84696f37",
+        "src": "assets/ai-books/040-blackboard-af7010e0e97b.webp?v=46af69dc188f",
+        "thumb": "assets/ai-books/040-blackboard-af7010e0e97b-thumb.webp?v=e3b9fab41f57",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "af7010e0e97b76593331be88f1a4950c8f6fdb04eaa9be73071eae02ef2f4c02",
+        "assetSha256": "46af69dc188f197d0d249cd0e25873a9acddb92b4a967394ac1e7f6c2926eb0e"
       }
     ],
     "rank": 25,
@@ -1890,20 +2025,26 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/42-three-lines.webp?v=e1791c3c7325",
-        "thumb": "assets/notebook/42-three-lines-thumb.webp?v=63581edc5498",
+        "src": "assets/ai-books/042-three-lines-1b6e8cc0a23d.webp?v=1f1db8d24183",
+        "thumb": "assets/ai-books/042-three-lines-1b6e8cc0a23d-thumb.webp?v=3da1809b5eb1",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "1b6e8cc0a23d9956a02c7e6bc63926a64b28f04a93300d81fad32a6182df3c05",
+        "assetSha256": "1f1db8d24183631b6ca29919ba3b2d3b75fe307f4a7bb5c4720713f41a29dbb3"
       },
       {
-        "src": "assets/notebook/42-blackboard.webp?v=c74f0bef244a",
-        "thumb": "assets/notebook/42-blackboard-thumb.webp?v=4d6f0db7c7ed",
+        "src": "assets/ai-books/042-blackboard-94abd9f2f761.webp?v=0aa106d09123",
+        "thumb": "assets/ai-books/042-blackboard-94abd9f2f761-thumb.webp?v=353f65550c8d",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "94abd9f2f76107a24d8795c61bf13f9243ceb407bbc77d2d839e426931c7610d",
+        "assetSha256": "0aa106d0912345c912814468e01256cc9ff71f2936fed4db07d0e02f8f2b0f3e"
       }
     ],
     "rank": 26,
@@ -1957,28 +2098,37 @@
     "sourceLabel": "Penguin Random House｜阅读指南",
     "images": [
       {
-        "src": "assets/notebook/73-cover.webp?v=ba686acb04b7",
-        "thumb": "assets/notebook/73-cover-thumb.webp?v=8e773e2e47a6",
-        "label": "大标题封面",
+        "src": "assets/ai-books/073-cover-e4baa3f3e127.webp?v=0d9ae4927634",
+        "thumb": "assets/ai-books/073-cover-e4baa3f3e127-thumb.webp?v=4c9bbdbf26fc",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "e4baa3f3e1278282380e14047228f51483780472803c26cf9eea41746867e574",
+        "assetSha256": "0d9ae49276340726f762a37c04a8c7c25a5cdf499c73f46696c2c0b8de7be9a6"
       },
       {
-        "src": "assets/notebook/73-three-lines.webp?v=71f6efe1832a",
-        "thumb": "assets/notebook/73-three-lines-thumb.webp?v=0581c8793831",
+        "src": "assets/ai-books/073-three-lines-dff6160ad09b.webp?v=19be0d9232ea",
+        "thumb": "assets/ai-books/073-three-lines-dff6160ad09b-thumb.webp?v=03da8c32e501",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "dff6160ad09bab38c85b3a98f012ffff648bf3b730dbd21f4117e18df7b4a326",
+        "assetSha256": "19be0d9232eaf818b96c3c7028dfc4445b8c4f2055287f623ce49a578c9ca698"
       },
       {
-        "src": "assets/notebook/73-blackboard.webp?v=387e90339bbf",
-        "thumb": "assets/notebook/73-blackboard-thumb.webp?v=284775263636",
+        "src": "assets/ai-books/073-blackboard-f1e246ace030.webp?v=bd36be6e852c",
+        "thumb": "assets/ai-books/073-blackboard-f1e246ace030-thumb.webp?v=005ae55815da",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f1e246ace030b6daa2d9c21bda91424371d3f99c0436b5ea0b7586e7258293d9",
+        "assetSha256": "bd36be6e852c47e1988d5d74dbe8f7c6e17212d0e70b907bcd42340643cb7b80"
       }
     ],
     "rank": 27,
@@ -2040,28 +2190,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/89-cover.webp?v=37c01c93cf4b",
-        "thumb": "assets/notebook/89-cover-thumb.webp?v=67e2b411b4bc",
-        "label": "大标题封面",
+        "src": "assets/ai-books/089-cover-52bb6f7bc89a.webp?v=ecd218fbb4e0",
+        "thumb": "assets/ai-books/089-cover-52bb6f7bc89a-thumb.webp?v=5d6c08e2c0ab",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "52bb6f7bc89afeafbe6545fcf407627916592e26ce984ce892980d6361fbfcd2",
+        "assetSha256": "ecd218fbb4e0f7e16c1015ebe3568553726cc789670c0ad46dfdd86e902300a6"
       },
       {
-        "src": "assets/notebook/89-three-lines.webp?v=ff1b52c58697",
-        "thumb": "assets/notebook/89-three-lines-thumb.webp?v=cf3aa0275a9f",
+        "src": "assets/ai-books/089-three-lines-93e7a8df16d1.webp?v=53c8e6dd00a0",
+        "thumb": "assets/ai-books/089-three-lines-93e7a8df16d1-thumb.webp?v=2b94dbb1791c",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "93e7a8df16d1f2ba12152c78702f94d00167510f7ca5815b2d9ee71c9da52467",
+        "assetSha256": "53c8e6dd00a0874fa488334170b12ece2f7f276c708d3224158180d6e04c4195"
       },
       {
-        "src": "assets/notebook/89-blackboard.webp?v=d66c29e0ad4a",
-        "thumb": "assets/notebook/89-blackboard-thumb.webp?v=c884c9d174a0",
+        "src": "assets/ai-books/089-blackboard-8249c1ae9071.webp?v=39e1b6d4c80f",
+        "thumb": "assets/ai-books/089-blackboard-8249c1ae9071-thumb.webp?v=9261aeb3f0ab",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "8249c1ae90716c80806d47ec3633ff29309f85a10254e87f209f7176839bb48c",
+        "assetSha256": "39e1b6d4c80f1e5f9068b5d247f2db47df3e297df76116d5f8f17a4922443132"
       }
     ],
     "rank": 28,
@@ -2182,28 +2341,37 @@
     "sourceLabel": "Penguin Random House｜作品简介",
     "images": [
       {
-        "src": "assets/notebook/74-cover.webp?v=eba036d1e9ec",
-        "thumb": "assets/notebook/74-cover-thumb.webp?v=8f7beb846407",
-        "label": "大标题封面",
+        "src": "assets/ai-books/074-cover-aefa9cec72be.webp?v=ec18f136b0ab",
+        "thumb": "assets/ai-books/074-cover-aefa9cec72be-thumb.webp?v=0cd048009cfc",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "aefa9cec72bea11e0a9d281879c166df952ce33f334719100b20207425ce4388",
+        "assetSha256": "ec18f136b0abd1cf02d2c0d6a0c20862cadaf84e0e2e4594745b2da8bdc4ef5a"
       },
       {
-        "src": "assets/notebook/74-three-lines.webp?v=dbb966206e03",
-        "thumb": "assets/notebook/74-three-lines-thumb.webp?v=f292241a09ec",
+        "src": "assets/ai-books/074-three-lines-27a47db2fef2.webp?v=57d3ecd329d0",
+        "thumb": "assets/ai-books/074-three-lines-27a47db2fef2-thumb.webp?v=d2193cd80ada",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "27a47db2fef269a93ec37355a3b80a890846be949ba66d0c9bfaf552a2a506b9",
+        "assetSha256": "57d3ecd329d07a94ec5b8ffe3aae503c757e416b57627c9204f0519169248f45"
       },
       {
-        "src": "assets/notebook/74-blackboard.webp?v=c4960f688543",
-        "thumb": "assets/notebook/74-blackboard-thumb.webp?v=d81d012dacdf",
+        "src": "assets/ai-books/074-blackboard-c0fb9e42235b.webp?v=c041abeebc66",
+        "thumb": "assets/ai-books/074-blackboard-c0fb9e42235b-thumb.webp?v=8180f6e60993",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c0fb9e42235b1cef335d343ffe3fc232e1aba947a01498f8e1a55b9f9b15cd55",
+        "assetSha256": "c041abeebc6600cf60f4cc00578d4ab666a998427767e5a460a1011b251171f1"
       }
     ],
     "rank": 30,
@@ -2333,28 +2501,37 @@
     "sourceLabel": "Penguin Random House｜作品简介",
     "images": [
       {
-        "src": "assets/notebook/69-cover.webp?v=1f9aae8d3709",
-        "thumb": "assets/notebook/69-cover-thumb.webp?v=dfb6c442267a",
-        "label": "大标题封面",
+        "src": "assets/ai-books/069-cover-68cf222a255e.webp?v=eade837e63ce",
+        "thumb": "assets/ai-books/069-cover-68cf222a255e-thumb.webp?v=1a8a498e0a1c",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "68cf222a255e3d0e82650830de19962a7cfdf36d14ea8a7e3730d996f7483695",
+        "assetSha256": "eade837e63cea4b643205e2294acb7408b2a82826b5cbcef38a5cff15e7a2125"
       },
       {
-        "src": "assets/notebook/69-three-lines.webp?v=6c59ba194dca",
-        "thumb": "assets/notebook/69-three-lines-thumb.webp?v=aad9430b6a0c",
+        "src": "assets/ai-books/069-three-lines-0b6858ab9256.webp?v=960b721df69e",
+        "thumb": "assets/ai-books/069-three-lines-0b6858ab9256-thumb.webp?v=16251a7a3667",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "0b6858ab92569da612aa82e88ae03161e483e7388d6dfb56f783f7a93f675272",
+        "assetSha256": "960b721df69ef05e452c3f7efdc37acaf06aa25642041670e8c52a0ffbc85b73"
       },
       {
-        "src": "assets/notebook/69-blackboard.webp?v=1b820ce2b0f5",
-        "thumb": "assets/notebook/69-blackboard-thumb.webp?v=339191446407",
+        "src": "assets/ai-books/069-blackboard-f1db19ab7b1a.webp?v=a3f7a7ea912e",
+        "thumb": "assets/ai-books/069-blackboard-f1db19ab7b1a-thumb.webp?v=606f5973d528",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f1db19ab7b1a5edf766f75a045d480d4229d7e0566d0c002e63aa0c5dbf91c6a",
+        "assetSha256": "a3f7a7ea912e81e647979a40a6ae383e045dee9835c0e4fbfb4a52f2c3904bfd"
       }
     ],
     "rank": 32,
@@ -2475,28 +2652,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/91-cover.webp?v=58052b7f83a4",
-        "thumb": "assets/notebook/91-cover-thumb.webp?v=68d3fd3cabd0",
-        "label": "大标题封面",
+        "src": "assets/ai-books/091-cover-06b6d35d73eb.webp?v=20c0af7174d6",
+        "thumb": "assets/ai-books/091-cover-06b6d35d73eb-thumb.webp?v=523cb0dab158",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "06b6d35d73eb34f751d1cc120f3086b2edd1b3ded32d60359fe48c8f386fb600",
+        "assetSha256": "20c0af7174d6b2eebf32c1fba4c4d777e24a76795cee3b3aa089b990919ea19f"
       },
       {
-        "src": "assets/notebook/91-three-lines.webp?v=c73c15ca0436",
-        "thumb": "assets/notebook/91-three-lines-thumb.webp?v=4d31da90f947",
+        "src": "assets/ai-books/091-three-lines-8e6459873964.webp?v=c34045353c94",
+        "thumb": "assets/ai-books/091-three-lines-8e6459873964-thumb.webp?v=c91e4b9e92f2",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "8e6459873964ff9aaa3d8cce5cf02c01d09b2de7e3b60462a9f8352f3a16d9a8",
+        "assetSha256": "c34045353c9418f940d25d6252de1e812eddbf0e6e1b19fe543a32401d68796f"
       },
       {
-        "src": "assets/notebook/91-blackboard.webp?v=1d54519f2641",
-        "thumb": "assets/notebook/91-blackboard-thumb.webp?v=cd43da2d4a48",
+        "src": "assets/ai-books/091-blackboard-6a2056d3b0fa.webp?v=4f1ae32acad9",
+        "thumb": "assets/ai-books/091-blackboard-6a2056d3b0fa-thumb.webp?v=3a3444c40c01",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6a2056d3b0fa3282d1794e1a755eaa3028266f1bd7a3aa447a9ec1daea5fb893",
+        "assetSha256": "4f1ae32acad9fde36395c8a19a9139c485c8ba7600e44b7167a1116062759d1c"
       }
     ],
     "rank": 34,
@@ -2575,12 +2761,15 @@
         "height": 2400
       },
       {
-        "src": "assets/notebook/02-blackboard.webp?v=85e906b2b540",
-        "thumb": "assets/notebook/02-blackboard-thumb.webp?v=8ec7df29112c",
+        "src": "assets/ai-books/002-blackboard-9c81e4111f4d.webp?v=df0aaf647133",
+        "thumb": "assets/ai-books/002-blackboard-9c81e4111f4d-thumb.webp?v=eed6829cffd0",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "9c81e4111f4d21fa992331058b85a89a230fcccc5f74cf7c55194b3448e851b5",
+        "assetSha256": "df0aaf647133fc15e21956ec62c16b90f8b12e2377a97ffb78c0271cf7b7dec1"
       }
     ],
     "rank": 35,
@@ -2626,28 +2815,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/85-cover.webp?v=22e525f72e6e",
-        "thumb": "assets/notebook/85-cover-thumb.webp?v=67452e172bba",
-        "label": "大标题封面",
+        "src": "assets/ai-books/085-cover-5979911671cc.webp?v=52ffe9b982ee",
+        "thumb": "assets/ai-books/085-cover-5979911671cc-thumb.webp?v=9e4584899898",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "5979911671cc9fa45252744fb1ca173a7ff0fd7fc7789c355ce0aca4bf8b9152",
+        "assetSha256": "52ffe9b982ee823a085bef954b02546b87de4524f5fa159006980dff572b6a62"
       },
       {
-        "src": "assets/notebook/85-three-lines.webp?v=efd897b1d21a",
-        "thumb": "assets/notebook/85-three-lines-thumb.webp?v=96284a922929",
+        "src": "assets/ai-books/085-three-lines-6c21c9c43948.webp?v=22571436e0de",
+        "thumb": "assets/ai-books/085-three-lines-6c21c9c43948-thumb.webp?v=9a0ac1280c7c",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6c21c9c43948adfbdd4ebaae28d69d3c531bed5669f3b7e9c58c13d6c92d5d91",
+        "assetSha256": "22571436e0deb74a56204406043f5c35f241322dad82dbc3e223ea5a9df3dd8f"
       },
       {
-        "src": "assets/notebook/85-blackboard.webp?v=37fdf927ef26",
-        "thumb": "assets/notebook/85-blackboard-thumb.webp?v=805715facf9c",
+        "src": "assets/ai-books/085-blackboard-aa8384463d15.webp?v=e29baa88ccf9",
+        "thumb": "assets/ai-books/085-blackboard-aa8384463d15-thumb.webp?v=840809a6d61d",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "aa8384463d15cc107f6e6099192cde39c2ebaaba8cfbd8d40744df13ca8faaeb",
+        "assetSha256": "e29baa88ccf9134bced8341c6d2f103694eb08a35e46812abc4cc88d25f43e4a"
       }
     ],
     "rank": 36,
@@ -2709,28 +2907,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/86-cover.webp?v=4709bde79437",
-        "thumb": "assets/notebook/86-cover-thumb.webp?v=8c0224b1bc60",
-        "label": "大标题封面",
+        "src": "assets/ai-books/086-cover-5cacd5efe088.webp?v=2d0d5e8b2394",
+        "thumb": "assets/ai-books/086-cover-5cacd5efe088-thumb.webp?v=57680e705eaf",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "5cacd5efe0880359a8b320aefdf440e5e3f9b9ed48dd2fa5fbf6a4635c6afa86",
+        "assetSha256": "2d0d5e8b239454ce5c9d8e1af737baa325c7eebb2b634b19895a441244366506"
       },
       {
-        "src": "assets/notebook/86-three-lines.webp?v=ea7a608c31a9",
-        "thumb": "assets/notebook/86-three-lines-thumb.webp?v=9ef23b45dfa1",
+        "src": "assets/ai-books/086-three-lines-edca498e12a7.webp?v=1c0ad6bead64",
+        "thumb": "assets/ai-books/086-three-lines-edca498e12a7-thumb.webp?v=8ec087b38d86",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "edca498e12a7da59cc9b91ba5043cc9e5efb30beac786bcc60e47535298355e4",
+        "assetSha256": "1c0ad6bead64078fe1849995ae10dce21b27925409f53991108250918e2a5f93"
       },
       {
-        "src": "assets/notebook/86-blackboard.webp?v=23d34f1838b2",
-        "thumb": "assets/notebook/86-blackboard-thumb.webp?v=074a2f064a21",
+        "src": "assets/ai-books/086-blackboard-f0240b87a59c.webp?v=b1e516c09f1d",
+        "thumb": "assets/ai-books/086-blackboard-f0240b87a59c-thumb.webp?v=593718dbc681",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f0240b87a59c88b55e8213b4ef6eb615f94109a310ee3455a4b493eccd2f62b9",
+        "assetSha256": "b1e516c09f1d945b1b4b7320b9097e011243b54fa11f84a48815b9dd8d23b737"
       }
     ],
     "rank": 37,
@@ -2919,12 +3126,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/62-three-lines.webp?v=cea332a9fdc6",
-        "thumb": "assets/notebook/62-three-lines-thumb.webp?v=d895c1070363",
+        "src": "assets/ai-books/062-three-lines-60562b92e425.webp?v=954f8d78b4c1",
+        "thumb": "assets/ai-books/062-three-lines-60562b92e425-thumb.webp?v=4adede6ece8e",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "60562b92e4250f24a8522405eac2952a8a22a7cbad2f3335acf499d417db6d88",
+        "assetSha256": "954f8d78b4c1a8309e73975b445bc290880b4ce6709e57861e681e5f3e5d2ada"
       },
       {
         "src": "assets/books/62/board.webp?v=a2380ab4e802",
@@ -2978,28 +3188,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/94-cover.webp?v=785c9722825b",
-        "thumb": "assets/notebook/94-cover-thumb.webp?v=e4ceaeca5e68",
-        "label": "大标题封面",
+        "src": "assets/ai-books/094-cover-21cfdb8cc055.webp?v=2242245b561f",
+        "thumb": "assets/ai-books/094-cover-21cfdb8cc055-thumb.webp?v=fdcd15985488",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "21cfdb8cc05544493c3c182fb51661bb60fbd2211077653def66032e042844d3",
+        "assetSha256": "2242245b561fb474dd6442df292e0e11695496d4e722d3a08c73910ebac86f0b"
       },
       {
-        "src": "assets/notebook/94-three-lines.webp?v=01ecb08301d2",
-        "thumb": "assets/notebook/94-three-lines-thumb.webp?v=74f780274dfa",
+        "src": "assets/ai-books/094-three-lines-262d6a226b5d.webp?v=94235b1662ae",
+        "thumb": "assets/ai-books/094-three-lines-262d6a226b5d-thumb.webp?v=03b54d0989ca",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "262d6a226b5da53d9249356a035bd932847aba8cea75c67d2d816cca6c3a06e5",
+        "assetSha256": "94235b1662ae380db7a70ed2c0f17f345aa9548d9db94851d1509172fca939ca"
       },
       {
-        "src": "assets/notebook/94-blackboard.webp?v=8d81717349fc",
-        "thumb": "assets/notebook/94-blackboard-thumb.webp?v=0fce4da2a0c1",
+        "src": "assets/ai-books/094-blackboard-b44113efbcd2.webp?v=6c103083822a",
+        "thumb": "assets/ai-books/094-blackboard-b44113efbcd2-thumb.webp?v=af2c3b4dc6b3",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "b44113efbcd24d077ac9712768a6ca2968618792ddd28e5848b6ab9aad10ead2",
+        "assetSha256": "6c103083822a87678919f4d5a83b79ed39352e34d969decde5acb1d386565cab"
       }
     ],
     "rank": 41,
@@ -3061,28 +3280,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/95-cover.webp?v=410b6703b8db",
-        "thumb": "assets/notebook/95-cover-thumb.webp?v=169cbd5416f0",
-        "label": "大标题封面",
+        "src": "assets/ai-books/095-cover-076c907a14f5.webp?v=f2b8adc34518",
+        "thumb": "assets/ai-books/095-cover-076c907a14f5-thumb.webp?v=a41f7b9e87eb",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "076c907a14f50c22d04ebf177fd0d94a8f32f382c721b4ab377f96fce2ec6f95",
+        "assetSha256": "f2b8adc345188e0f6f37b1217d8d7655a1c0a498c4ba2ad8a1eb34e5c2f87b9c"
       },
       {
-        "src": "assets/notebook/95-three-lines.webp?v=de683dab6fc3",
-        "thumb": "assets/notebook/95-three-lines-thumb.webp?v=4477fd0903d5",
+        "src": "assets/ai-books/095-three-lines-d76af2b88039.webp?v=f3233a9e8df6",
+        "thumb": "assets/ai-books/095-three-lines-d76af2b88039-thumb.webp?v=bbbdf6465705",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "d76af2b88039d880df26b41a9a258fa960519c4bf90dfb8d915ccb9a50df4502",
+        "assetSha256": "f3233a9e8df60b2b31efd581f51b60a07d374f738d1342f9aa596399dccc1ff5"
       },
       {
-        "src": "assets/notebook/95-blackboard.webp?v=2dbab35473d7",
-        "thumb": "assets/notebook/95-blackboard-thumb.webp?v=8f471f8cf550",
+        "src": "assets/ai-books/095-blackboard-90aa309dd8ba.webp?v=380083795ef8",
+        "thumb": "assets/ai-books/095-blackboard-90aa309dd8ba-thumb.webp?v=ee7606b32b3a",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "90aa309dd8ba30b06b970f2cd3af313e5c34e9e9878c4f8b4258f4416fe56e4a",
+        "assetSha256": "380083795ef849b586105419230b2a61db2bf05d9fa70938b1cfa7ac64b15a6d"
       }
     ],
     "rank": 42,
@@ -3145,20 +3373,26 @@
     "originalTitle": "叫魂",
     "images": [
       {
-        "src": "assets/notebook/15-cover.webp?v=28baa31098b0",
-        "thumb": "assets/notebook/15-cover-thumb.webp?v=c76046a84246",
-        "label": "大标题封面",
+        "src": "assets/ai-books/015-cover-0b4450c2a648.webp?v=2df37dfb6c8a",
+        "thumb": "assets/ai-books/015-cover-0b4450c2a648-thumb.webp?v=0e45264de2b1",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "0b4450c2a6488dfc70c38f54d0a9b6d78dfdf54a232f8e3fedc0a9905a30dc07",
+        "assetSha256": "2df37dfb6c8a5b1f23810f8fc8ed7f80382511efcc326882db1894717eb5e814"
       },
       {
-        "src": "assets/notebook/15-three-lines.webp?v=1517303329ee",
-        "thumb": "assets/notebook/15-three-lines-thumb.webp?v=5b0f67f58633",
+        "src": "assets/ai-books/015-three-lines-773b73f0ad6d.webp?v=632403bcc152",
+        "thumb": "assets/ai-books/015-three-lines-773b73f0ad6d-thumb.webp?v=dedb7f47badb",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "773b73f0ad6d6a26e773787f6bc794eac781dbfa20e4e06da135d125c5edd9c2",
+        "assetSha256": "632403bcc15206404f91b93dde5d37ef61897b73a81e5ccac63d6ac3d3b6322b"
       },
       {
         "src": "assets/books/15/board.webp?v=5cf493d2ef51",
@@ -3465,20 +3699,26 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/14-three-lines.webp?v=fc0058228edf",
-        "thumb": "assets/notebook/14-three-lines-thumb.webp?v=5b5dcfc76030",
+        "src": "assets/ai-books/014-three-lines-dd1506a6dca8.webp?v=6ee1700084cd",
+        "thumb": "assets/ai-books/014-three-lines-dd1506a6dca8-thumb.webp?v=5f16ea41289d",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "dd1506a6dca8f65cc7268e5ad9f5ddc0c2e344da9395b194d9c2041caeaa16d5",
+        "assetSha256": "6ee1700084cd961e3925c1584490ca6c8995bd6c7f7ede585eed5ed8bc66d15b"
       },
       {
-        "src": "assets/notebook/14-blackboard.webp?v=bd9852aee0b1",
-        "thumb": "assets/notebook/14-blackboard-thumb.webp?v=2385bc0f1bf8",
+        "src": "assets/ai-books/014-blackboard-c339090c1480.webp?v=f0b432d7376a",
+        "thumb": "assets/ai-books/014-blackboard-c339090c1480-thumb.webp?v=32d76c57e97b",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c339090c148000a66f5f0cf5d2d0feba3c798ef784ba7361c3e69a96eb39b9ec",
+        "assetSha256": "f0b432d7376af0a258d7cc8d930947b100a704541c24a6395644c20640ed64ee"
       }
     ],
     "rank": 48,
@@ -3541,12 +3781,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/38-three-lines.webp?v=bc3ddc885b7e",
-        "thumb": "assets/notebook/38-three-lines-thumb.webp?v=bacc9987576a",
+        "src": "assets/ai-books/038-three-lines-dfaf0501ffd5.webp?v=609f8409cfad",
+        "thumb": "assets/ai-books/038-three-lines-dfaf0501ffd5-thumb.webp?v=46f2a24e64d3",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "dfaf0501ffd5e48aa53901034f1e72a846b4b70926b0091a4f378b32a8aa4ad8",
+        "assetSha256": "609f8409cfad39b83e0203f5a62b806ff00c1cf703a9c43adaefbcdb79a9d9a1"
       },
       {
         "src": "assets/books/38/board.webp?v=696bba2b2949",
@@ -3601,20 +3844,26 @@
     "originalTitle": "被讨厌的勇气",
     "images": [
       {
-        "src": "assets/notebook/57-cover.webp?v=14a9994baf3a",
-        "thumb": "assets/notebook/57-cover-thumb.webp?v=ba9faadd0bd8",
-        "label": "大标题封面",
+        "src": "assets/ai-books/057-cover-dde37a9c8cfa.webp?v=528d2d2c02b5",
+        "thumb": "assets/ai-books/057-cover-dde37a9c8cfa-thumb.webp?v=d8cf5d30d135",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "dde37a9c8cfa9216c67d51d79dea6f8a5bef1dc481e513ed1aa90a97915907c6",
+        "assetSha256": "528d2d2c02b5ece65ebc4ebe318664f0138d7391076e6496e07ee579c1dfef42"
       },
       {
-        "src": "assets/notebook/57-three-lines.webp?v=ad35caa848e0",
-        "thumb": "assets/notebook/57-three-lines-thumb.webp?v=9b16bc6eeb53",
+        "src": "assets/ai-books/057-three-lines-0c7cd13f454f.webp?v=e55f91fee010",
+        "thumb": "assets/ai-books/057-three-lines-0c7cd13f454f-thumb.webp?v=3cd5a8ce57d5",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "0c7cd13f454f457292775a41375a20a4cc2ba2535a4bb96c15bc75565b4ee2da",
+        "assetSha256": "e55f91fee010f3e29e84e193e32ff6f7d9cb2419316afbfb3c047fcfc6228f22"
       },
       {
         "src": "assets/books/57/board.webp?v=bc30a67b4a18",
@@ -3676,28 +3925,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/98-cover.webp?v=8368f4a8dce1",
-        "thumb": "assets/notebook/98-cover-thumb.webp?v=e53bf4d3ee0e",
-        "label": "大标题封面",
+        "src": "assets/ai-books/098-cover-388073f0a2db.webp?v=2e3bb4c4d3ca",
+        "thumb": "assets/ai-books/098-cover-388073f0a2db-thumb.webp?v=a331732f0cbf",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "388073f0a2dbfd4da5fd4adcc1c06d0fe5ba6520c8f2557e522bb2ae659d54a4",
+        "assetSha256": "2e3bb4c4d3cae4a560630107b7d8209e78ae7d1e84e4ea01f8f664eec9ef4919"
       },
       {
-        "src": "assets/notebook/98-three-lines.webp?v=97353d5a0cee",
-        "thumb": "assets/notebook/98-three-lines-thumb.webp?v=0297af5724a4",
+        "src": "assets/ai-books/098-three-lines-dcce8d8d1844.webp?v=6217ae0418f5",
+        "thumb": "assets/ai-books/098-three-lines-dcce8d8d1844-thumb.webp?v=331dca0b7f4e",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "dcce8d8d18441ea0c909507dbe3d3b2686062e0916083d31a6fa5b6fb1932099",
+        "assetSha256": "6217ae0418f52a2ee3d12e9950a603a170cbe06fb034052c703c26924b2e167e"
       },
       {
-        "src": "assets/notebook/98-blackboard.webp?v=140f8b0e81ac",
-        "thumb": "assets/notebook/98-blackboard-thumb.webp?v=260b6552132a",
+        "src": "assets/ai-books/098-blackboard-ceb7e168a759.webp?v=7e1e758352d8",
+        "thumb": "assets/ai-books/098-blackboard-ceb7e168a759-thumb.webp?v=ae76f374b4fc",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "ceb7e168a75908a2e4e329926a702c9b0eb1425c51389cbb644956ba350cefd4",
+        "assetSha256": "7e1e758352d8fe2c137a1c6105232a1d6b1bb6005baab727f5b867a01ad3cdff"
       }
     ],
     "rank": 51,
@@ -3762,28 +4020,37 @@
     "archiveOriginals": true,
     "images": [
       {
-        "src": "assets/notebook/22-cover.webp?v=ce2d1de5d98a",
-        "thumb": "assets/notebook/22-cover-thumb.webp?v=92a1ecd78edb",
-        "label": "大标题封面",
+        "src": "assets/ai-books/022-cover-ce4dec83bb7d.webp?v=49213a60b0c6",
+        "thumb": "assets/ai-books/022-cover-ce4dec83bb7d-thumb.webp?v=a4377ba0fc87",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "ce4dec83bb7de6f10496d3d4db52d2064fbb53929ac145cdbe1f1bb37d608edc",
+        "assetSha256": "49213a60b0c64ccd09db8bbff2a81fc04a27f0c81694b4959096d4d99275f68b"
       },
       {
-        "src": "assets/notebook/22-three-lines.webp?v=14194d827e8b",
-        "thumb": "assets/notebook/22-three-lines-thumb.webp?v=caaaa207394a",
+        "src": "assets/ai-books/022-three-lines-16e94f904733.webp?v=12b96d8a393f",
+        "thumb": "assets/ai-books/022-three-lines-16e94f904733-thumb.webp?v=c5ca5b9beab1",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "16e94f904733d4c0198c319d39088a3d12aafe45a80bdea2faa87c83000b451a",
+        "assetSha256": "12b96d8a393f12e6eb84507abed7e2ec70f1b7049f045d8c812da78c9ee77ec6"
       },
       {
-        "src": "assets/notebook/22-blackboard.webp?v=3d1b378d8e5f",
-        "thumb": "assets/notebook/22-blackboard-thumb.webp?v=2d22aaf9285a",
+        "src": "assets/ai-books/022-blackboard-72741fd205e5.webp?v=03fd89a99e3c",
+        "thumb": "assets/ai-books/022-blackboard-72741fd205e5-thumb.webp?v=c5aff87fdaec",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "72741fd205e5c0df4f4f0135d506191359bdab7e08ce480e9d9dc25bddc2400c",
+        "assetSha256": "03fd89a99e3cf5fa2a61141d71479410803b24f775b239d3d8e1f7e8018c9a5c"
       }
     ],
     "rank": 52,
@@ -3861,28 +4128,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/93-cover.webp?v=45acd28e83d0",
-        "thumb": "assets/notebook/93-cover-thumb.webp?v=c6ab5e462aec",
-        "label": "大标题封面",
+        "src": "assets/ai-books/093-cover-17bcd9c574c9.webp?v=f56817ba73ea",
+        "thumb": "assets/ai-books/093-cover-17bcd9c574c9-thumb.webp?v=6f114ae420e4",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "17bcd9c574c9af4252bc27e95d3dae38a7f4be8d8d587442e85810ab90d323cd",
+        "assetSha256": "f56817ba73eaa358d383036928a5a476f24cd7f8a1ee753121305d0b788e8658"
       },
       {
-        "src": "assets/notebook/93-three-lines.webp?v=8a9600485796",
-        "thumb": "assets/notebook/93-three-lines-thumb.webp?v=8b8ac9f8d2e8",
+        "src": "assets/ai-books/093-three-lines-cca6b6837686.webp?v=a44ba644851a",
+        "thumb": "assets/ai-books/093-three-lines-cca6b6837686-thumb.webp?v=d22b01d7b5e3",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "cca6b6837686efd3a61368465e0237509583c802b2055e88fb2762658519a0de",
+        "assetSha256": "a44ba644851a55096c0fa25e344dfca4b3ee41a029ce99fdad9c4b5a73075d4b"
       },
       {
-        "src": "assets/notebook/93-blackboard.webp?v=e99033f529a5",
-        "thumb": "assets/notebook/93-blackboard-thumb.webp?v=0d2a7b78d3a2",
+        "src": "assets/ai-books/093-blackboard-b4407f9a9505.webp?v=3b021360bf4c",
+        "thumb": "assets/ai-books/093-blackboard-b4407f9a9505-thumb.webp?v=c9f726422bcc",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "b4407f9a9505f542db78f4897bb2c3cbd1bbe9be37ba43a08935d86e4c42645e",
+        "assetSha256": "3b021360bf4cc3643a9961d9ed48d89279d009329e5bac0c97f8a0976acc0b27"
       }
     ],
     "rank": 53,
@@ -4062,28 +4338,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/100-cover.webp?v=9bc04e5486b0",
-        "thumb": "assets/notebook/100-cover-thumb.webp?v=a8f5f4000eb4",
-        "label": "大标题封面",
+        "src": "assets/ai-books/100-cover-271a68df403d.webp?v=40f3d61c03f7",
+        "thumb": "assets/ai-books/100-cover-271a68df403d-thumb.webp?v=7b3640347a2f",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "271a68df403d649253c8db7bf3349af656c5126284f7ef2420a5169e7292b249",
+        "assetSha256": "40f3d61c03f71c644e22ea31dde280edbc413f5873ad9689e7fecfac57f90cf8"
       },
       {
-        "src": "assets/notebook/100-three-lines.webp?v=bf1475422d33",
-        "thumb": "assets/notebook/100-three-lines-thumb.webp?v=002a3a26b308",
+        "src": "assets/ai-books/100-three-lines-6dab597a6586.webp?v=5b0461252532",
+        "thumb": "assets/ai-books/100-three-lines-6dab597a6586-thumb.webp?v=a01b9760e745",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6dab597a65861c528cd39df87cb7dbca8e94a0423f745983a08f0f838cfd9b7d",
+        "assetSha256": "5b04612525329eb768db4d6c8537c549995b7d49288faaf1b2f03940ccb87405"
       },
       {
-        "src": "assets/notebook/100-blackboard.webp?v=11fd2ed531ea",
-        "thumb": "assets/notebook/100-blackboard-thumb.webp?v=e5faed2c66c7",
+        "src": "assets/ai-books/100-blackboard-6e5611d22038.webp?v=dcb7875f3f3b",
+        "thumb": "assets/ai-books/100-blackboard-6e5611d22038-thumb.webp?v=53cf21d8c3de",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6e5611d22038e65cb18c94954147f5133bc18a538b715d8d6a343c94809e11c4",
+        "assetSha256": "dcb7875f3f3b96b4768cee032c6908f9b60ce075ce60a1604f28183009b7a74f"
       }
     ],
     "rank": 56,
@@ -4204,28 +4489,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/96-cover.webp?v=47c4bbc5226a",
-        "thumb": "assets/notebook/96-cover-thumb.webp?v=846a8fa54aee",
-        "label": "大标题封面",
+        "src": "assets/ai-books/096-cover-fd6dc944cb72.webp?v=b3d51d49f148",
+        "thumb": "assets/ai-books/096-cover-fd6dc944cb72-thumb.webp?v=14a948d5e804",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "fd6dc944cb72a3ee3455a40fff635a70f2ce0cfb0bf48466fd291da23f28922d",
+        "assetSha256": "b3d51d49f1483168c67d885da5cd329e21299cdf1fb739151e13066ad8e68557"
       },
       {
-        "src": "assets/notebook/96-three-lines.webp?v=61def1e06b5e",
-        "thumb": "assets/notebook/96-three-lines-thumb.webp?v=5b2a44b20b9e",
+        "src": "assets/ai-books/096-three-lines-f00949bc06dd.webp?v=a4769b62b235",
+        "thumb": "assets/ai-books/096-three-lines-f00949bc06dd-thumb.webp?v=a1f28540f2ae",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f00949bc06dd7437fed88f6529085901d65970ddbba296a9efad7074f5384eab",
+        "assetSha256": "a4769b62b23545ac44f8c063b7c00e6842f7771e2cf8ba79754b1c5a6faea41c"
       },
       {
-        "src": "assets/notebook/96-blackboard.webp?v=4d6a67122f50",
-        "thumb": "assets/notebook/96-blackboard-thumb.webp?v=739729d1b036",
+        "src": "assets/ai-books/096-blackboard-ba1d3c593267.webp?v=c86e12a75f88",
+        "thumb": "assets/ai-books/096-blackboard-ba1d3c593267-thumb.webp?v=be146b687094",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "ba1d3c593267b7912a62ddb982f5f7545d9ae3fccfdceb7badd4af9755dd4fa8",
+        "assetSha256": "c86e12a75f88eabc99a37c673e08f954a90c5788338586e4609a68b624d5f076"
       }
     ],
     "rank": 58,
@@ -4414,12 +4708,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/31-three-lines.webp?v=ec88808095fb",
-        "thumb": "assets/notebook/31-three-lines-thumb.webp?v=9f3c4598182a",
+        "src": "assets/ai-books/031-three-lines-6feb046268bb.webp?v=cbb78006456d",
+        "thumb": "assets/ai-books/031-three-lines-6feb046268bb-thumb.webp?v=9989dec61c42",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6feb046268bb13d8dd44024eefe005c19e94089c7342026c39e298ee82b606c6",
+        "assetSha256": "cbb78006456d0be8c2adda0e0a69adf6002ad2d85650d6f3125c4c3e91f6ec6b"
       },
       {
         "src": "assets/books/31/board.webp?v=0cb6266c59fd",
@@ -4473,28 +4770,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/83-cover.webp?v=019ac3943f89",
-        "thumb": "assets/notebook/83-cover-thumb.webp?v=340f022f527a",
-        "label": "大标题封面",
+        "src": "assets/ai-books/083-cover-9e7071b9b006.webp?v=9027a1569fa2",
+        "thumb": "assets/ai-books/083-cover-9e7071b9b006-thumb.webp?v=7d48de8e1268",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "9e7071b9b0060f034494af7808a4151bf38cec9280918e6ed20a9470bc97e7ea",
+        "assetSha256": "9027a1569fa253e6873fd742af23a7bb1c8ac498d3ad5420ca5066efc417abac"
       },
       {
-        "src": "assets/notebook/83-three-lines.webp?v=678226cde212",
-        "thumb": "assets/notebook/83-three-lines-thumb.webp?v=c3a2fc9c42a1",
+        "src": "assets/ai-books/083-three-lines-530484ffa5b3.webp?v=35d368fa2126",
+        "thumb": "assets/ai-books/083-three-lines-530484ffa5b3-thumb.webp?v=30765dc49103",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "530484ffa5b3f413df8d31b734c3bc297a97de3bf302bbece0ee16c283e617cf",
+        "assetSha256": "35d368fa2126e9378b9bfead30d4c178fa89902332b1a611aecfc95955ec39e1"
       },
       {
-        "src": "assets/notebook/83-blackboard.webp?v=55eab29d6d1f",
-        "thumb": "assets/notebook/83-blackboard-thumb.webp?v=04bc8cc0930b",
+        "src": "assets/ai-books/083-blackboard-f87bcf4f4750.webp?v=38a3b60b028f",
+        "thumb": "assets/ai-books/083-blackboard-f87bcf4f4750-thumb.webp?v=72466db756c8",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f87bcf4f47509fdf239f7202a4d947437981623543046cc193255e35a386e960",
+        "assetSha256": "38a3b60b028f146cae2b1ac3aed29553ad1f392c34f82efcebfb61adf78f3d58"
       }
     ],
     "rank": 62,
@@ -4683,12 +4989,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/43-three-lines.webp?v=1b856cdf97a1",
-        "thumb": "assets/notebook/43-three-lines-thumb.webp?v=f9b890e4e105",
+        "src": "assets/ai-books/043-three-lines-fd6cd323ff2f.webp?v=4790780cfec4",
+        "thumb": "assets/ai-books/043-three-lines-fd6cd323ff2f-thumb.webp?v=bf61871e550f",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "fd6cd323ff2f435cb65ec8d23633c270f7c6573bdb56cb1ff19c188d79c17f52",
+        "assetSha256": "4790780cfec46d197461f2127af718c8109adc8de90d1af95953a156cdafa24d"
       },
       {
         "src": "assets/books/43/board.webp?v=d18ed8eae024",
@@ -4742,28 +5051,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/87-cover.webp?v=a4eb27d3b735",
-        "thumb": "assets/notebook/87-cover-thumb.webp?v=4e02590febaf",
-        "label": "大标题封面",
+        "src": "assets/ai-books/087-cover-9d7fdfd58f93.webp?v=3d9c1b59949c",
+        "thumb": "assets/ai-books/087-cover-9d7fdfd58f93-thumb.webp?v=cecac78e8d7d",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "9d7fdfd58f937f67f362a9a01477ff45b5b89058954bc02ff08edf392f2a4245",
+        "assetSha256": "3d9c1b59949cd0f17805ab74721d60472b0f41c1e23f68866d8d968bb8721554"
       },
       {
-        "src": "assets/notebook/87-three-lines.webp?v=0005d1ee7186",
-        "thumb": "assets/notebook/87-three-lines-thumb.webp?v=9074542fdea4",
+        "src": "assets/ai-books/087-three-lines-5a568a4286fe.webp?v=18651fdd19ea",
+        "thumb": "assets/ai-books/087-three-lines-5a568a4286fe-thumb.webp?v=73ea3823dd35",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "5a568a4286fe73ee11f9f1d521f5f39af43000e57e62d6ccd554fff5de77cdde",
+        "assetSha256": "18651fdd19ea3728a7cb3187b9e0601b7cc1acb5c34cbb93e4a1189706cb6129"
       },
       {
-        "src": "assets/notebook/87-blackboard.webp?v=e18ea1d7c357",
-        "thumb": "assets/notebook/87-blackboard-thumb.webp?v=f988238caab7",
+        "src": "assets/ai-books/087-blackboard-70b3def0c39f.webp?v=435dea34be6e",
+        "thumb": "assets/ai-books/087-blackboard-70b3def0c39f-thumb.webp?v=8db3c86cb8da",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "70b3def0c39f4bca14b356fc9769e8d8ef86b024230ea4b5b00164b0a1fc3557",
+        "assetSha256": "435dea34be6e506609e6cd95ab45ba331d9ef712a7a2ecbb6f66af42bcbd27ca"
       }
     ],
     "rank": 66,
@@ -5198,28 +5516,37 @@
     "sourceLabel": "中国作家网｜作品评论",
     "images": [
       {
-        "src": "assets/notebook/76-cover.webp?v=9ec36e317577",
-        "thumb": "assets/notebook/76-cover-thumb.webp?v=9fb82363fddf",
-        "label": "大标题封面",
+        "src": "assets/ai-books/076-cover-6062d44e254d.webp?v=262253638511",
+        "thumb": "assets/ai-books/076-cover-6062d44e254d-thumb.webp?v=5f1d1775ee9f",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "6062d44e254df6647b279590efc6c13bd66a2f8afb11985ff0edf8740f2544b9",
+        "assetSha256": "262253638511ce0c49bf283ab2f9b21fb76d3bb4f84d984511923a2d215fca90"
       },
       {
-        "src": "assets/notebook/76-three-lines.webp?v=c544aed542e2",
-        "thumb": "assets/notebook/76-three-lines-thumb.webp?v=cd2a36d96186",
+        "src": "assets/ai-books/076-three-lines-a0e4d8302e0f.webp?v=343bd1e27f51",
+        "thumb": "assets/ai-books/076-three-lines-a0e4d8302e0f-thumb.webp?v=ced557260526",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "a0e4d8302e0f6632a69346008e323e4dcbaa7cd7679fceda0d714a3b3e8de26c",
+        "assetSha256": "343bd1e27f513879a4e380bf76aac15f3e00a2ea394486ea06e0470ed21a2652"
       },
       {
-        "src": "assets/notebook/76-blackboard.webp?v=c96c62ad8556",
-        "thumb": "assets/notebook/76-blackboard-thumb.webp?v=bba68b47d66c",
+        "src": "assets/ai-books/076-blackboard-651aaa5cd249.webp?v=7ef078f6e04f",
+        "thumb": "assets/ai-books/076-blackboard-651aaa5cd249-thumb.webp?v=68ca50218a29",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "651aaa5cd2493eae7531f5e37563117ac0d856af68f420f0f2fab786df458618",
+        "assetSha256": "7ef078f6e04f5c8de4ff28250dd67de9b46a28e35aa47c159e2eed5d3b980511"
       }
     ],
     "rank": 73,
@@ -5281,28 +5608,37 @@
     "sourceLabel": "原创导读",
     "images": [
       {
-        "src": "assets/notebook/84-cover.webp?v=c1ef837bf823",
-        "thumb": "assets/notebook/84-cover-thumb.webp?v=c2ffc95b4fd5",
-        "label": "大标题封面",
+        "src": "assets/ai-books/084-cover-7ef88ac07370.webp?v=49e3bc8983ef",
+        "thumb": "assets/ai-books/084-cover-7ef88ac07370-thumb.webp?v=c6a231220b0f",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "7ef88ac0737048e10e33b8e65e806bdec308b318c5cfd81ccab401b21a8f9f9f",
+        "assetSha256": "49e3bc8983ef6dbe4c67c9fd0b55347424622018314537f3e710ae54474136e0"
       },
       {
-        "src": "assets/notebook/84-three-lines.webp?v=0acab5431596",
-        "thumb": "assets/notebook/84-three-lines-thumb.webp?v=0e4af498c580",
+        "src": "assets/ai-books/084-three-lines-b9c7f9c491dd.webp?v=88f63248dfa7",
+        "thumb": "assets/ai-books/084-three-lines-b9c7f9c491dd-thumb.webp?v=4b88b1a950e9",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "b9c7f9c491ddb6b934608b260849a08b86ae5b1caedc3b5b14bd623c110bed0f",
+        "assetSha256": "88f63248dfa7a2943f15f39fc57322e25dc8778cdb128c4e300b41935dfbf93d"
       },
       {
-        "src": "assets/notebook/84-blackboard.webp?v=b2a988cdf312",
-        "thumb": "assets/notebook/84-blackboard-thumb.webp?v=52ec75000fc0",
+        "src": "assets/ai-books/084-blackboard-c8dc0e529a0a.webp?v=8e4fea2ef676",
+        "thumb": "assets/ai-books/084-blackboard-c8dc0e529a0a-thumb.webp?v=ac8d5f7b1eb7",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c8dc0e529a0a0cb9784cd312ccffd51362b9d433cef591f30003625ece187ebe",
+        "assetSha256": "8e4fea2ef6767eb6aa71ae82ad79ef816bca221b61ae17cf82695790bacd25b7"
       }
     ],
     "rank": 74,
@@ -5373,12 +5709,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/17-three-lines.webp?v=81fd1ad248b3",
-        "thumb": "assets/notebook/17-three-lines-thumb.webp?v=0181b045bf35",
+        "src": "assets/ai-books/017-three-lines-a3ceedbacbfd.webp?v=972fe27eb89c",
+        "thumb": "assets/ai-books/017-three-lines-a3ceedbacbfd-thumb.webp?v=8fcc81bd552b",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "a3ceedbacbfd39c5f3d7fdb3384c6c928afc5a7c3dbbed21fec5a38214e1240d",
+        "assetSha256": "972fe27eb89c1d14293b1a1e90387fd7ab49ab6972b3d080c79a9ed1bf5ea56b"
       },
       {
         "src": "assets/books/17/board.webp?v=0f784d0c1516",
@@ -5432,28 +5771,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/90-cover.webp?v=7e071611705d",
-        "thumb": "assets/notebook/90-cover-thumb.webp?v=ea8551f145e6",
-        "label": "大标题封面",
+        "src": "assets/ai-books/090-cover-606b49b027ac.webp?v=8c994a8e5407",
+        "thumb": "assets/ai-books/090-cover-606b49b027ac-thumb.webp?v=3e596c6e2ab1",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "606b49b027acff6647032cd6c29dc9f53b9c06674d8ff01f3bf9b63366f1f280",
+        "assetSha256": "8c994a8e54070bb61edd5410b6348125a0f3b0f79cca685a1938c0e4fdf51d34"
       },
       {
-        "src": "assets/notebook/90-three-lines.webp?v=35377cdd2862",
-        "thumb": "assets/notebook/90-three-lines-thumb.webp?v=3e98416174a4",
+        "src": "assets/ai-books/090-three-lines-47eff79454d7.webp?v=00845f15c764",
+        "thumb": "assets/ai-books/090-three-lines-47eff79454d7-thumb.webp?v=1705aa483a33",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "47eff79454d76658648d4b754ff6006e69b79816a74374190b258ebe0ae550d9",
+        "assetSha256": "00845f15c764d3e97b0c68b4f36e0208a928a3b994f25d7d74636eba84feae1c"
       },
       {
-        "src": "assets/notebook/90-blackboard.webp?v=48e3fd785573",
-        "thumb": "assets/notebook/90-blackboard-thumb.webp?v=9d92bccbd289",
+        "src": "assets/ai-books/090-blackboard-0db34178e609.webp?v=e699f5d6ea32",
+        "thumb": "assets/ai-books/090-blackboard-0db34178e609-thumb.webp?v=54e63dd1be5e",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "0db34178e6092bd1b118a8fb55201ac83ceca0ab1d048d22b77637e0af9e007b",
+        "assetSha256": "e699f5d6ea3234ed95f190529009df7983343ee006d1617d0630d272baf5d44d"
       }
     ],
     "rank": 76,
@@ -5515,28 +5863,37 @@
     "sourceLabel": "原创导读整理",
     "images": [
       {
-        "src": "assets/notebook/92-cover.webp?v=003dc221d6d2",
-        "thumb": "assets/notebook/92-cover-thumb.webp?v=abf70c7117fb",
-        "label": "大标题封面",
+        "src": "assets/ai-books/092-cover-a49ef8ea236e.webp?v=eed945be48ec",
+        "thumb": "assets/ai-books/092-cover-a49ef8ea236e-thumb.webp?v=4f26d6655299",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "a49ef8ea236e5a4c057919e14e9f589b370637b93b2aacfbb07959c6f2059d67",
+        "assetSha256": "eed945be48ecd581d5b3e1c6dcd3e8f1aed1d217f6fb450784bdbefd4033ea38"
       },
       {
-        "src": "assets/notebook/92-three-lines.webp?v=634b0efa01f3",
-        "thumb": "assets/notebook/92-three-lines-thumb.webp?v=21b8a4e53f89",
+        "src": "assets/ai-books/092-three-lines-a10272b713ab.webp?v=b8672e105e06",
+        "thumb": "assets/ai-books/092-three-lines-a10272b713ab-thumb.webp?v=0efa189f5122",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "a10272b713ab0ab437f94529dc633dbfb9b88bdc215f8329f1d041db09c9302c",
+        "assetSha256": "b8672e105e0646852f8ea623346ac6d3d559815c2feceac6175fff93a5453abe"
       },
       {
-        "src": "assets/notebook/92-blackboard.webp?v=e927148243eb",
-        "thumb": "assets/notebook/92-blackboard-thumb.webp?v=7be53a8e6f2e",
+        "src": "assets/ai-books/092-blackboard-79472492e2e8.webp?v=e6e1ceed7146",
+        "thumb": "assets/ai-books/092-blackboard-79472492e2e8-thumb.webp?v=69807aa99bd2",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "79472492e2e8aa45b8522ff94e227ae1c5da2c826bea97e4533edbe5d43489d8",
+        "assetSha256": "e6e1ceed714662d10c50d15f902bccdee3bf28205642ec28e3c670376cd97b04"
       }
     ],
     "rank": 77,
@@ -5599,12 +5956,15 @@
     "originalTitle": "纳瓦尔宝典",
     "images": [
       {
-        "src": "assets/notebook/50-cover.webp?v=0e7ba9614a74",
-        "thumb": "assets/notebook/50-cover-thumb.webp?v=97c4267f4c16",
-        "label": "大标题封面",
+        "src": "assets/ai-books/050-cover-d92cca701bb2.webp?v=e4117e0653cd",
+        "thumb": "assets/ai-books/050-cover-d92cca701bb2-thumb.webp?v=313434118a9b",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "d92cca701bb2decb4006f80d1f4334af5b99be0a5afaf7aee6df2f6965dd5b36",
+        "assetSha256": "e4117e0653cdc65f7695bb30bc82784701d44155db1a6c206b750e74f8c298c1"
       },
       {
         "src": "assets/books/50/cover.webp?v=b24b1b0142bc",
@@ -5788,28 +6148,37 @@
     "archiveOriginals": true,
     "images": [
       {
-        "src": "assets/notebook/37-cover.webp?v=27c941349e78",
-        "thumb": "assets/notebook/37-cover-thumb.webp?v=7a9832460a2a",
-        "label": "大标题封面",
+        "src": "assets/ai-books/037-cover-8fbeadf2a104.webp?v=be219d861158",
+        "thumb": "assets/ai-books/037-cover-8fbeadf2a104-thumb.webp?v=04291e1d3a15",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "8fbeadf2a1047dc2e4cd4fa10c5216de4b9d1133a4b31d70c7bcec67f6dfeaa9",
+        "assetSha256": "be219d861158ad4b10aa5181934957e16571f40a2d596431165f8801b479bdc7"
       },
       {
-        "src": "assets/notebook/37-three-lines.webp?v=1012e2b55460",
-        "thumb": "assets/notebook/37-three-lines-thumb.webp?v=0e84ee481da2",
+        "src": "assets/ai-books/037-three-lines-7a5763959ee3.webp?v=ebf7deca218b",
+        "thumb": "assets/ai-books/037-three-lines-7a5763959ee3-thumb.webp?v=5aa32cd7bba9",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "7a5763959ee3b5394e24c13c17b1619ac2911b25de3401e0c841a49953d9cfef",
+        "assetSha256": "ebf7deca218b15b13aad1154b387a850707d60d2c906320becd97c75c6f85322"
       },
       {
-        "src": "assets/notebook/37-blackboard.webp?v=1ff038aaf234",
-        "thumb": "assets/notebook/37-blackboard-thumb.webp?v=417c8e40765a",
+        "src": "assets/ai-books/037-blackboard-960291491c9e.webp?v=87f9673c5398",
+        "thumb": "assets/ai-books/037-blackboard-960291491c9e-thumb.webp?v=b2665a212e3e",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "960291491c9e334637e0acbb474698aa4a981f2719d956f74c869b16ac8e579b",
+        "assetSha256": "87f9673c5398d8b914593de1cbe736de0f592f5f18ea2bcf81cac059907b403f"
       }
     ],
     "rank": 81,
@@ -5898,28 +6267,37 @@
     "archiveOriginals": true,
     "images": [
       {
-        "src": "assets/notebook/16-cover.webp?v=7b10b347f10e",
-        "thumb": "assets/notebook/16-cover-thumb.webp?v=2a9b8f382fa9",
-        "label": "大标题封面",
+        "src": "assets/ai-books/016-cover-592b787454e2.webp?v=a2c01ba4292d",
+        "thumb": "assets/ai-books/016-cover-592b787454e2-thumb.webp?v=ee1cc3cf69b6",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "592b787454e2da059657b1a05a24c71932b2dc2f9143ad3798c1a49028ebe4ef",
+        "assetSha256": "a2c01ba4292d1a7e074eb06c0b3433fdde3ca443d06ef04a0412d48fea58fef0"
       },
       {
-        "src": "assets/notebook/16-three-lines.webp?v=d17da6d01f87",
-        "thumb": "assets/notebook/16-three-lines-thumb.webp?v=39a7abe59ad4",
+        "src": "assets/ai-books/016-three-lines-cb574f42cfe1.webp?v=fe719222cfc7",
+        "thumb": "assets/ai-books/016-three-lines-cb574f42cfe1-thumb.webp?v=d90478c2fac5",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "cb574f42cfe1c8d710dc31e7104a1a6a256c9fab0617107555465bc0e7d9ba09",
+        "assetSha256": "fe719222cfc72b32e8e8f7d271ccb0abe4063c23daed3cbd1d166fdb46adaf82"
       },
       {
-        "src": "assets/notebook/16-blackboard.webp?v=79a6231417f7",
-        "thumb": "assets/notebook/16-blackboard-thumb.webp?v=28d4690c1ebe",
+        "src": "assets/ai-books/016-blackboard-f63c3df05b10.webp?v=5ac3ae61340e",
+        "thumb": "assets/ai-books/016-blackboard-f63c3df05b10-thumb.webp?v=b9f336bfbb28",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "f63c3df05b106077557167dc3ae3084bee354f7a517b7c6a08319f5c20155fb7",
+        "assetSha256": "5ac3ae61340ef6a732bf9f7b09b20e36dad51a9d1a47c896d48ac3cb3d94d4dd"
       }
     ],
     "rank": 82,
@@ -6073,20 +6451,26 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/45-three-lines.webp?v=634aa753518e",
-        "thumb": "assets/notebook/45-three-lines-thumb.webp?v=2d86735424f5",
+        "src": "assets/ai-books/045-three-lines-b2618ef513a9.webp?v=0985a2e4c604",
+        "thumb": "assets/ai-books/045-three-lines-b2618ef513a9-thumb.webp?v=314c63b2a232",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "b2618ef513a97cbc28de53d1df92bf81f1a0504ef562e47f9688106abc260ffe",
+        "assetSha256": "0985a2e4c604ed1e6d8714acfd47404c317edb06fb75a5d2a54d825c4a8d912a"
       },
       {
-        "src": "assets/notebook/45-blackboard.webp?v=3680365d2235",
-        "thumb": "assets/notebook/45-blackboard-thumb.webp?v=010e9184acaf",
+        "src": "assets/ai-books/045-blackboard-64681d934485.webp?v=a8f7415c6944",
+        "thumb": "assets/ai-books/045-blackboard-64681d934485-thumb.webp?v=4d0cb47f0070",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "64681d93448533c938af97c34f921b10b95dc0c39924d9568e3eb3336507f678",
+        "assetSha256": "a8f7415c694425472899209449f573b37001a27b1382b30a0728f26ba83f61eb"
       }
     ],
     "rank": 84,
@@ -6511,12 +6895,15 @@
         "height": 2400
       },
       {
-        "src": "assets/notebook/35-blackboard.webp?v=25bb79996181",
-        "thumb": "assets/notebook/35-blackboard-thumb.webp?v=6f343ae9d86d",
+        "src": "assets/ai-books/035-blackboard-c029d2f062a7.webp?v=66bc000bdb85",
+        "thumb": "assets/ai-books/035-blackboard-c029d2f062a7-thumb.webp?v=6f8e5e067a8f",
         "label": "黑板图解",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "c029d2f062a7c00445ad845ed46ab47c74684d8c062c50cf20d4b372c247de9f",
+        "assetSha256": "66bc000bdb853c0fa1106e345f8e6aaa996eb55af14b2403d3a06b9873802762"
       }
     ],
     "rank": 91,
@@ -6563,12 +6950,15 @@
     "originalTitle": "老派少女购物路线",
     "images": [
       {
-        "src": "assets/notebook/54-cover.webp?v=f038173a63eb",
-        "thumb": "assets/notebook/54-cover-thumb.webp?v=c4f749da26da",
-        "label": "大标题封面",
+        "src": "assets/ai-books/054-cover-ca0d08872f58.webp?v=67e78c1e29fd",
+        "thumb": "assets/ai-books/054-cover-ca0d08872f58-thumb.webp?v=4bb7bb7c59ca",
+        "label": "视觉封面",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "ca0d08872f58783ae8a96adcfda07f4ed156ece6470b4a43d56181f2a0925874",
+        "assetSha256": "67e78c1e29fdc154f209b4526cba442a0446c2ef033c0fc26a4f9f17211fdca2"
       },
       {
         "src": "assets/books/54/cover.webp?v=961c5310c30b",
@@ -6994,12 +7384,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/59-three-lines.webp?v=6fee80dab183",
-        "thumb": "assets/notebook/59-three-lines-thumb.webp?v=8738fc00b409",
+        "src": "assets/ai-books/059-three-lines-2f4228833880.webp?v=db4a00c44fd3",
+        "thumb": "assets/ai-books/059-three-lines-2f4228833880-thumb.webp?v=790e55023865",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "2f4228833880ca0a7a4d366e77b2a542926455a4751ff128bcf5085654140a54",
+        "assetSha256": "db4a00c44fd37187fb58a480fbaba935f70b0f4810b9e865e7a9a7109afc61b7"
       },
       {
         "src": "assets/books/59/board.webp?v=1a1eed6d86be",
@@ -7062,12 +7455,15 @@
         "height": 1200
       },
       {
-        "src": "assets/notebook/36-three-lines.webp?v=a9c869d3b995",
-        "thumb": "assets/notebook/36-three-lines-thumb.webp?v=aa3494914806",
+        "src": "assets/ai-books/036-three-lines-46405717865e.webp?v=bc51a8b9a8bb",
+        "thumb": "assets/ai-books/036-three-lines-46405717865e-thumb.webp?v=4a3c23f6e9ed",
         "label": "三句话解读",
         "generated": true,
-        "width": 1200,
-        "height": 1600
+        "aiGenerated": true,
+        "width": 1086,
+        "height": 1448,
+        "sourceSha256": "46405717865e45b638dfd074f9e10404155ab1398e5b6d38fc6f14617d897636",
+        "assetSha256": "bc51a8b9a8bb0644382944265d825f036dcdc0ebd4552c07ad605db73ca07cd2"
       },
       {
         "src": "assets/books/36/board.webp?v=fcf70a4bb36a",

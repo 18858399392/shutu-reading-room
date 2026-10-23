@@ -1,0 +1,1564 @@
+{
+  "2": {
+    "blackboard": {
+      "src": "assets/ai-books/002-blackboard-9c81e4111f4d.webp",
+      "thumb": "assets/ai-books/002-blackboard-9c81e4111f4d-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "9c81e4111f4d21fa992331058b85a89a230fcccc5f74cf7c55194b3448e851b5",
+      "assetSha256": "df0aaf647133fc15e21956ec62c16b90f8b12e2377a97ffb78c0271cf7b7dec1"
+    }
+  },
+  "7": {
+    "threeLines": {
+      "src": "assets/ai-books/007-three-lines-7088025f5795.webp",
+      "thumb": "assets/ai-books/007-three-lines-7088025f5795-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "7088025f5795246e3bd3da637cf3748096036855280fa45c407051f515216ca6",
+      "assetSha256": "da5f28571a5f9707f2bd9eee846eb61dd4b40cee931e24147067cedb8bd92192"
+    }
+  },
+  "14": {
+    "threeLines": {
+      "src": "assets/ai-books/014-three-lines-dd1506a6dca8.webp",
+      "thumb": "assets/ai-books/014-three-lines-dd1506a6dca8-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "dd1506a6dca8f65cc7268e5ad9f5ddc0c2e344da9395b194d9c2041caeaa16d5",
+      "assetSha256": "6ee1700084cd961e3925c1584490ca6c8995bd6c7f7ede585eed5ed8bc66d15b"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/014-blackboard-c339090c1480.webp",
+      "thumb": "assets/ai-books/014-blackboard-c339090c1480-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c339090c148000a66f5f0cf5d2d0feba3c798ef784ba7361c3e69a96eb39b9ec",
+      "assetSha256": "f0b432d7376af0a258d7cc8d930947b100a704541c24a6395644c20640ed64ee"
+    }
+  },
+  "15": {
+    "cover": {
+      "src": "assets/ai-books/015-cover-0b4450c2a648.webp",
+      "thumb": "assets/ai-books/015-cover-0b4450c2a648-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "0b4450c2a6488dfc70c38f54d0a9b6d78dfdf54a232f8e3fedc0a9905a30dc07",
+      "assetSha256": "2df37dfb6c8a5b1f23810f8fc8ed7f80382511efcc326882db1894717eb5e814"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/015-three-lines-773b73f0ad6d.webp",
+      "thumb": "assets/ai-books/015-three-lines-773b73f0ad6d-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "773b73f0ad6d6a26e773787f6bc794eac781dbfa20e4e06da135d125c5edd9c2",
+      "assetSha256": "632403bcc15206404f91b93dde5d37ef61897b73a81e5ccac63d6ac3d3b6322b"
+    }
+  },
+  "16": {
+    "cover": {
+      "src": "assets/ai-books/016-cover-592b787454e2.webp",
+      "thumb": "assets/ai-books/016-cover-592b787454e2-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "592b787454e2da059657b1a05a24c71932b2dc2f9143ad3798c1a49028ebe4ef",
+      "assetSha256": "a2c01ba4292d1a7e074eb06c0b3433fdde3ca443d06ef04a0412d48fea58fef0"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/016-three-lines-cb574f42cfe1.webp",
+      "thumb": "assets/ai-books/016-three-lines-cb574f42cfe1-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "cb574f42cfe1c8d710dc31e7104a1a6a256c9fab0617107555465bc0e7d9ba09",
+      "assetSha256": "fe719222cfc72b32e8e8f7d271ccb0abe4063c23daed3cbd1d166fdb46adaf82"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/016-blackboard-f63c3df05b10.webp",
+      "thumb": "assets/ai-books/016-blackboard-f63c3df05b10-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f63c3df05b106077557167dc3ae3084bee354f7a517b7c6a08319f5c20155fb7",
+      "assetSha256": "5ac3ae61340ef6a732bf9f7b09b20e36dad51a9d1a47c896d48ac3cb3d94d4dd"
+    }
+  },
+  "17": {
+    "threeLines": {
+      "src": "assets/ai-books/017-three-lines-a3ceedbacbfd.webp",
+      "thumb": "assets/ai-books/017-three-lines-a3ceedbacbfd-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "a3ceedbacbfd39c5f3d7fdb3384c6c928afc5a7c3dbbed21fec5a38214e1240d",
+      "assetSha256": "972fe27eb89c1d14293b1a1e90387fd7ab49ab6972b3d080c79a9ed1bf5ea56b"
+    }
+  },
+  "22": {
+    "cover": {
+      "src": "assets/ai-books/022-cover-ce4dec83bb7d.webp",
+      "thumb": "assets/ai-books/022-cover-ce4dec83bb7d-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "ce4dec83bb7de6f10496d3d4db52d2064fbb53929ac145cdbe1f1bb37d608edc",
+      "assetSha256": "49213a60b0c64ccd09db8bbff2a81fc04a27f0c81694b4959096d4d99275f68b"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/022-three-lines-16e94f904733.webp",
+      "thumb": "assets/ai-books/022-three-lines-16e94f904733-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "16e94f904733d4c0198c319d39088a3d12aafe45a80bdea2faa87c83000b451a",
+      "assetSha256": "12b96d8a393f12e6eb84507abed7e2ec70f1b7049f045d8c812da78c9ee77ec6"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/022-blackboard-72741fd205e5.webp",
+      "thumb": "assets/ai-books/022-blackboard-72741fd205e5-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "72741fd205e5c0df4f4f0135d506191359bdab7e08ce480e9d9dc25bddc2400c",
+      "assetSha256": "03fd89a99e3cf5fa2a61141d71479410803b24f775b239d3d8e1f7e8018c9a5c"
+    }
+  },
+  "28": {
+    "threeLines": {
+      "src": "assets/ai-books/028-three-lines-44a7d1d5c3c2.webp",
+      "thumb": "assets/ai-books/028-three-lines-44a7d1d5c3c2-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "44a7d1d5c3c2179ffa14f8787870ffb0a908d1c47af714c97d2ce50d6189ff40",
+      "assetSha256": "aca811bfd306c9a59ced410051173b1b33bda2fe8456ec67262171bad0fc7849"
+    }
+  },
+  "31": {
+    "threeLines": {
+      "src": "assets/ai-books/031-three-lines-6feb046268bb.webp",
+      "thumb": "assets/ai-books/031-three-lines-6feb046268bb-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6feb046268bb13d8dd44024eefe005c19e94089c7342026c39e298ee82b606c6",
+      "assetSha256": "cbb78006456d0be8c2adda0e0a69adf6002ad2d85650d6f3125c4c3e91f6ec6b"
+    }
+  },
+  "35": {
+    "blackboard": {
+      "src": "assets/ai-books/035-blackboard-c029d2f062a7.webp",
+      "thumb": "assets/ai-books/035-blackboard-c029d2f062a7-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c029d2f062a7c00445ad845ed46ab47c74684d8c062c50cf20d4b372c247de9f",
+      "assetSha256": "66bc000bdb853c0fa1106e345f8e6aaa996eb55af14b2403d3a06b9873802762"
+    }
+  },
+  "36": {
+    "threeLines": {
+      "src": "assets/ai-books/036-three-lines-46405717865e.webp",
+      "thumb": "assets/ai-books/036-three-lines-46405717865e-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "46405717865e45b638dfd074f9e10404155ab1398e5b6d38fc6f14617d897636",
+      "assetSha256": "bc51a8b9a8bb0644382944265d825f036dcdc0ebd4552c07ad605db73ca07cd2"
+    }
+  },
+  "37": {
+    "cover": {
+      "src": "assets/ai-books/037-cover-8fbeadf2a104.webp",
+      "thumb": "assets/ai-books/037-cover-8fbeadf2a104-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "8fbeadf2a1047dc2e4cd4fa10c5216de4b9d1133a4b31d70c7bcec67f6dfeaa9",
+      "assetSha256": "be219d861158ad4b10aa5181934957e16571f40a2d596431165f8801b479bdc7"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/037-three-lines-7a5763959ee3.webp",
+      "thumb": "assets/ai-books/037-three-lines-7a5763959ee3-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "7a5763959ee3b5394e24c13c17b1619ac2911b25de3401e0c841a49953d9cfef",
+      "assetSha256": "ebf7deca218b15b13aad1154b387a850707d60d2c906320becd97c75c6f85322"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/037-blackboard-960291491c9e.webp",
+      "thumb": "assets/ai-books/037-blackboard-960291491c9e-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "960291491c9e334637e0acbb474698aa4a981f2719d956f74c869b16ac8e579b",
+      "assetSha256": "87f9673c5398d8b914593de1cbe736de0f592f5f18ea2bcf81cac059907b403f"
+    }
+  },
+  "38": {
+    "threeLines": {
+      "src": "assets/ai-books/038-three-lines-dfaf0501ffd5.webp",
+      "thumb": "assets/ai-books/038-three-lines-dfaf0501ffd5-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "dfaf0501ffd5e48aa53901034f1e72a846b4b70926b0091a4f378b32a8aa4ad8",
+      "assetSha256": "609f8409cfad39b83e0203f5a62b806ff00c1cf703a9c43adaefbcdb79a9d9a1"
+    }
+  },
+  "40": {
+    "blackboard": {
+      "src": "assets/ai-books/040-blackboard-af7010e0e97b.webp",
+      "thumb": "assets/ai-books/040-blackboard-af7010e0e97b-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "af7010e0e97b76593331be88f1a4950c8f6fdb04eaa9be73071eae02ef2f4c02",
+      "assetSha256": "46af69dc188f197d0d249cd0e25873a9acddb92b4a967394ac1e7f6c2926eb0e"
+    }
+  },
+  "42": {
+    "threeLines": {
+      "src": "assets/ai-books/042-three-lines-1b6e8cc0a23d.webp",
+      "thumb": "assets/ai-books/042-three-lines-1b6e8cc0a23d-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "1b6e8cc0a23d9956a02c7e6bc63926a64b28f04a93300d81fad32a6182df3c05",
+      "assetSha256": "1f1db8d24183631b6ca29919ba3b2d3b75fe307f4a7bb5c4720713f41a29dbb3"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/042-blackboard-94abd9f2f761.webp",
+      "thumb": "assets/ai-books/042-blackboard-94abd9f2f761-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "94abd9f2f76107a24d8795c61bf13f9243ceb407bbc77d2d839e426931c7610d",
+      "assetSha256": "0aa106d0912345c912814468e01256cc9ff71f2936fed4db07d0e02f8f2b0f3e"
+    }
+  },
+  "43": {
+    "threeLines": {
+      "src": "assets/ai-books/043-three-lines-fd6cd323ff2f.webp",
+      "thumb": "assets/ai-books/043-three-lines-fd6cd323ff2f-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "fd6cd323ff2f435cb65ec8d23633c270f7c6573bdb56cb1ff19c188d79c17f52",
+      "assetSha256": "4790780cfec46d197461f2127af718c8109adc8de90d1af95953a156cdafa24d"
+    }
+  },
+  "45": {
+    "threeLines": {
+      "src": "assets/ai-books/045-three-lines-b2618ef513a9.webp",
+      "thumb": "assets/ai-books/045-three-lines-b2618ef513a9-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "b2618ef513a97cbc28de53d1df92bf81f1a0504ef562e47f9688106abc260ffe",
+      "assetSha256": "0985a2e4c604ed1e6d8714acfd47404c317edb06fb75a5d2a54d825c4a8d912a"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/045-blackboard-64681d934485.webp",
+      "thumb": "assets/ai-books/045-blackboard-64681d934485-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "64681d93448533c938af97c34f921b10b95dc0c39924d9568e3eb3336507f678",
+      "assetSha256": "a8f7415c694425472899209449f573b37001a27b1382b30a0728f26ba83f61eb"
+    }
+  },
+  "50": {
+    "cover": {
+      "src": "assets/ai-books/050-cover-d92cca701bb2.webp",
+      "thumb": "assets/ai-books/050-cover-d92cca701bb2-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "d92cca701bb2decb4006f80d1f4334af5b99be0a5afaf7aee6df2f6965dd5b36",
+      "assetSha256": "e4117e0653cdc65f7695bb30bc82784701d44155db1a6c206b750e74f8c298c1"
+    }
+  },
+  "54": {
+    "cover": {
+      "src": "assets/ai-books/054-cover-ca0d08872f58.webp",
+      "thumb": "assets/ai-books/054-cover-ca0d08872f58-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "ca0d08872f58783ae8a96adcfda07f4ed156ece6470b4a43d56181f2a0925874",
+      "assetSha256": "67e78c1e29fdc154f209b4526cba442a0446c2ef033c0fc26a4f9f17211fdca2"
+    }
+  },
+  "57": {
+    "cover": {
+      "src": "assets/ai-books/057-cover-dde37a9c8cfa.webp",
+      "thumb": "assets/ai-books/057-cover-dde37a9c8cfa-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "dde37a9c8cfa9216c67d51d79dea6f8a5bef1dc481e513ed1aa90a97915907c6",
+      "assetSha256": "528d2d2c02b5ece65ebc4ebe318664f0138d7391076e6496e07ee579c1dfef42"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/057-three-lines-0c7cd13f454f.webp",
+      "thumb": "assets/ai-books/057-three-lines-0c7cd13f454f-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "0c7cd13f454f457292775a41375a20a4cc2ba2535a4bb96c15bc75565b4ee2da",
+      "assetSha256": "e55f91fee010f3e29e84e193e32ff6f7d9cb2419316afbfb3c047fcfc6228f22"
+    }
+  },
+  "59": {
+    "threeLines": {
+      "src": "assets/ai-books/059-three-lines-2f4228833880.webp",
+      "thumb": "assets/ai-books/059-three-lines-2f4228833880-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "2f4228833880ca0a7a4d366e77b2a542926455a4751ff128bcf5085654140a54",
+      "assetSha256": "db4a00c44fd37187fb58a480fbaba935f70b0f4810b9e865e7a9a7109afc61b7"
+    }
+  },
+  "62": {
+    "threeLines": {
+      "src": "assets/ai-books/062-three-lines-60562b92e425.webp",
+      "thumb": "assets/ai-books/062-three-lines-60562b92e425-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "60562b92e4250f24a8522405eac2952a8a22a7cbad2f3335acf499d417db6d88",
+      "assetSha256": "954f8d78b4c1a8309e73975b445bc290880b4ce6709e57861e681e5f3e5d2ada"
+    }
+  },
+  "68": {
+    "cover": {
+      "src": "assets/ai-books/068-cover-662104991854.webp",
+      "thumb": "assets/ai-books/068-cover-662104991854-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6621049918542b1f04445e0e68b616bbcef705a0ddf7ac919b72908bada6c489",
+      "assetSha256": "ce148e9deee4ee71e3cbef3870401fba7fcc6655e3c442892a5179fc3b96f8b7"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/068-three-lines-7da8c9e0e022.webp",
+      "thumb": "assets/ai-books/068-three-lines-7da8c9e0e022-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "7da8c9e0e0227f901bec30573a2387f3585a99a1864aa40c7f9e9e525c66b7f0",
+      "assetSha256": "0adf1086149932b165a711ca615d723e821c74e8fea0a9aa267793967c763e0b"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/068-blackboard-e6556d560ef5.webp",
+      "thumb": "assets/ai-books/068-blackboard-e6556d560ef5-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "e6556d560ef5b11f713cb6e0a7ce8814546a82fa3df537753e637b1956a2037e",
+      "assetSha256": "b4535d960dff3f0ef69296dc5dedc7473e9d9340a30e014f42454845699f73d7"
+    }
+  },
+  "69": {
+    "cover": {
+      "src": "assets/ai-books/069-cover-68cf222a255e.webp",
+      "thumb": "assets/ai-books/069-cover-68cf222a255e-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "68cf222a255e3d0e82650830de19962a7cfdf36d14ea8a7e3730d996f7483695",
+      "assetSha256": "eade837e63cea4b643205e2294acb7408b2a82826b5cbcef38a5cff15e7a2125"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/069-three-lines-0b6858ab9256.webp",
+      "thumb": "assets/ai-books/069-three-lines-0b6858ab9256-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "0b6858ab92569da612aa82e88ae03161e483e7388d6dfb56f783f7a93f675272",
+      "assetSha256": "960b721df69ef05e452c3f7efdc37acaf06aa25642041670e8c52a0ffbc85b73"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/069-blackboard-f1db19ab7b1a.webp",
+      "thumb": "assets/ai-books/069-blackboard-f1db19ab7b1a-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f1db19ab7b1a5edf766f75a045d480d4229d7e0566d0c002e63aa0c5dbf91c6a",
+      "assetSha256": "a3f7a7ea912e81e647979a40a6ae383e045dee9835c0e4fbfb4a52f2c3904bfd"
+    }
+  },
+  "70": {
+    "cover": {
+      "src": "assets/ai-books/070-cover-77f3b8419fd3.webp",
+      "thumb": "assets/ai-books/070-cover-77f3b8419fd3-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "77f3b8419fd31149d1528a6c7ce1b8ea0c98628c9225cd4ad4d3c282567e2bb4",
+      "assetSha256": "0b2387b43ab3e90f56766a8ab12791f5346ad22d46c8579e46d507cb3474ef66"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/070-three-lines-7fa4266a7e03.webp",
+      "thumb": "assets/ai-books/070-three-lines-7fa4266a7e03-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "7fa4266a7e03ebd4e6e15e3adf196b0db76e2c80c574b8f9e701ffd31f4e8627",
+      "assetSha256": "99042aa1a3436024fd5ea373b2bfb2073d69d74c42f9486a87ec549014a3d7cf"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/070-blackboard-f2f7f8e2045f.webp",
+      "thumb": "assets/ai-books/070-blackboard-f2f7f8e2045f-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f2f7f8e2045f1c9cdb6f9bfdeb0f1102b851726199c0177518ced90bc32509ba",
+      "assetSha256": "ac845886d53cc463a7db248a04f6297be160909aa766796d3e3bf1fdf2f4b353"
+    }
+  },
+  "71": {
+    "cover": {
+      "src": "assets/ai-books/071-cover-c2d333188e3c.webp",
+      "thumb": "assets/ai-books/071-cover-c2d333188e3c-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c2d333188e3cc7bc305d48c658d7efa6aa25eb1b26dd1c1c4e3151f01e379f83",
+      "assetSha256": "634c1a8f6b3be6c571fb6e4211b3b17270be95e4f4dcec286d9cbc764562088b"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/071-three-lines-d310e60a5def.webp",
+      "thumb": "assets/ai-books/071-three-lines-d310e60a5def-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "d310e60a5deffe25eda9a375bc5a3f1746b85cadca273df1ebb7c1301dad2a62",
+      "assetSha256": "37a4ba11baeaa24e07720631f2a500c8fd302cf9e357aa384d9ea32dce188ec4"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/071-blackboard-bb390bd2c0de.webp",
+      "thumb": "assets/ai-books/071-blackboard-bb390bd2c0de-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "bb390bd2c0deae563f9d283bbcde83140ac553c8c688ed2ad80b20eebf72f1a1",
+      "assetSha256": "f6fc4ab5cf423490c1e7d097880a6038184b46416ce0dd26040a18ed3fa33d13"
+    }
+  },
+  "72": {
+    "cover": {
+      "src": "assets/ai-books/072-cover-57e27e21d85e.webp",
+      "thumb": "assets/ai-books/072-cover-57e27e21d85e-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "57e27e21d85e57db7bc44c42043f6aec62ae3fd520a14ab1bd34ec388450ea83",
+      "assetSha256": "d03c3afbaa83db2c3d12fd81f7f39060096610ee10fef09df4e1c618f5e34952"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/072-three-lines-ff96431f3e7e.webp",
+      "thumb": "assets/ai-books/072-three-lines-ff96431f3e7e-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "ff96431f3e7e882474df0c922dcd72f1463f49934770a5b20e78d1cd1c6df853",
+      "assetSha256": "6a7c95962cc8119f6b24daa29e7b02ec168320fa32d3271bea20e412ba4aef3f"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/072-blackboard-6b29f10a8616.webp",
+      "thumb": "assets/ai-books/072-blackboard-6b29f10a8616-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6b29f10a86168129ec81f0514fd0d139fb232a8452d1a67aa36ca415daf1608e",
+      "assetSha256": "e1298b09512d0bcad196159c3f17fbcbcde93dc09e7637d3780f1da25149ae5f"
+    }
+  },
+  "73": {
+    "cover": {
+      "src": "assets/ai-books/073-cover-e4baa3f3e127.webp",
+      "thumb": "assets/ai-books/073-cover-e4baa3f3e127-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "e4baa3f3e1278282380e14047228f51483780472803c26cf9eea41746867e574",
+      "assetSha256": "0d9ae49276340726f762a37c04a8c7c25a5cdf499c73f46696c2c0b8de7be9a6"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/073-three-lines-dff6160ad09b.webp",
+      "thumb": "assets/ai-books/073-three-lines-dff6160ad09b-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "dff6160ad09bab38c85b3a98f012ffff648bf3b730dbd21f4117e18df7b4a326",
+      "assetSha256": "19be0d9232eaf818b96c3c7028dfc4445b8c4f2055287f623ce49a578c9ca698"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/073-blackboard-f1e246ace030.webp",
+      "thumb": "assets/ai-books/073-blackboard-f1e246ace030-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f1e246ace030b6daa2d9c21bda91424371d3f99c0436b5ea0b7586e7258293d9",
+      "assetSha256": "bd36be6e852c47e1988d5d74dbe8f7c6e17212d0e70b907bcd42340643cb7b80"
+    }
+  },
+  "74": {
+    "cover": {
+      "src": "assets/ai-books/074-cover-aefa9cec72be.webp",
+      "thumb": "assets/ai-books/074-cover-aefa9cec72be-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "aefa9cec72bea11e0a9d281879c166df952ce33f334719100b20207425ce4388",
+      "assetSha256": "ec18f136b0abd1cf02d2c0d6a0c20862cadaf84e0e2e4594745b2da8bdc4ef5a"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/074-three-lines-27a47db2fef2.webp",
+      "thumb": "assets/ai-books/074-three-lines-27a47db2fef2-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "27a47db2fef269a93ec37355a3b80a890846be949ba66d0c9bfaf552a2a506b9",
+      "assetSha256": "57d3ecd329d07a94ec5b8ffe3aae503c757e416b57627c9204f0519169248f45"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/074-blackboard-c0fb9e42235b.webp",
+      "thumb": "assets/ai-books/074-blackboard-c0fb9e42235b-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c0fb9e42235b1cef335d343ffe3fc232e1aba947a01498f8e1a55b9f9b15cd55",
+      "assetSha256": "c041abeebc6600cf60f4cc00578d4ab666a998427767e5a460a1011b251171f1"
+    }
+  },
+  "75": {
+    "cover": {
+      "src": "assets/ai-books/075-cover-471571a5315c.webp",
+      "thumb": "assets/ai-books/075-cover-471571a5315c-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "471571a5315ce976503612464ae27ee77e602cc9519863899d17b3dedfe34e26",
+      "assetSha256": "0edb0d04d459b0eef595306f33f890e327c3ae5b4522c32a42cc07dfcb011cc8"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/075-three-lines-cd38c65c4d27.webp",
+      "thumb": "assets/ai-books/075-three-lines-cd38c65c4d27-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "cd38c65c4d27078b7ce9b77c1e3fa37a064e9ea530424b8b7b1d6449d0c9f563",
+      "assetSha256": "58e91bb5bc4cc1b1941a6f695c16e0ef6bed77d9262508db2d878b155269d076"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/075-blackboard-5e6714a99acf.webp",
+      "thumb": "assets/ai-books/075-blackboard-5e6714a99acf-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "5e6714a99acf21f46c295afcd6239d3f622235d519b1d9fb419c23de0f934a72",
+      "assetSha256": "5431190bae6ae6ea2b3d8c3f9b5725a261dde38269bf7721776a77349044a1f6"
+    }
+  },
+  "76": {
+    "cover": {
+      "src": "assets/ai-books/076-cover-6062d44e254d.webp",
+      "thumb": "assets/ai-books/076-cover-6062d44e254d-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6062d44e254df6647b279590efc6c13bd66a2f8afb11985ff0edf8740f2544b9",
+      "assetSha256": "262253638511ce0c49bf283ab2f9b21fb76d3bb4f84d984511923a2d215fca90"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/076-three-lines-a0e4d8302e0f.webp",
+      "thumb": "assets/ai-books/076-three-lines-a0e4d8302e0f-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "a0e4d8302e0f6632a69346008e323e4dcbaa7cd7679fceda0d714a3b3e8de26c",
+      "assetSha256": "343bd1e27f513879a4e380bf76aac15f3e00a2ea394486ea06e0470ed21a2652"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/076-blackboard-651aaa5cd249.webp",
+      "thumb": "assets/ai-books/076-blackboard-651aaa5cd249-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "651aaa5cd2493eae7531f5e37563117ac0d856af68f420f0f2fab786df458618",
+      "assetSha256": "7ef078f6e04f5c8de4ff28250dd67de9b46a28e35aa47c159e2eed5d3b980511"
+    }
+  },
+  "77": {
+    "cover": {
+      "src": "assets/ai-books/077-cover-b9afa3963e0c.webp",
+      "thumb": "assets/ai-books/077-cover-b9afa3963e0c-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "b9afa3963e0c669ffb665ebf25d067b4abd65d8e8f0ce8711bd324b68a2412a8",
+      "assetSha256": "9665ee72c5e7fb15bb42448630624ddd1f7c8f06211bd814ca06cb211aa99bc7"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/077-blackboard-2f280f7d32dd.webp",
+      "thumb": "assets/ai-books/077-blackboard-2f280f7d32dd-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "2f280f7d32ddaeca2fc3843941de5ad7a6cfb89424bfd96a66a1da219f38cbd7",
+      "assetSha256": "97b10e5b7721deaa459afebadddda85c7cb1d106b1287fd28b0f1a33e716aa8c"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/077-three-lines-57a1290f7235.webp",
+      "thumb": "assets/ai-books/077-three-lines-57a1290f7235-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "57a1290f723551ae3f9aed767c9ac14277791aff85aad43b8757d4e5a037bd0d",
+      "assetSha256": "edb59b35f2592fdca75253970666eb6806859b99b42270ef75ac4d020e8fc61e"
+    }
+  },
+  "78": {
+    "cover": {
+      "src": "assets/ai-books/078-cover-e69bd0a99762.webp",
+      "thumb": "assets/ai-books/078-cover-e69bd0a99762-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "e69bd0a9976219a9190b5440b533582f62e0f050ded84d4330d0ef65bbd625dd",
+      "assetSha256": "c0f030c079fe3f2ece5648755d46aeed92165641e9b9bb61aa1f3545fcf13df6"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/078-three-lines-6ae680123a79.webp",
+      "thumb": "assets/ai-books/078-three-lines-6ae680123a79-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6ae680123a799a9271bd73c29642bd0366b04c3d29126e2942c1780c2e38ce12",
+      "assetSha256": "df2daf410d481abe121c432d11a0cf4ebd5e42150e27a94d81c2a361fc94c124"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/078-blackboard-006ff5b34fdb.webp",
+      "thumb": "assets/ai-books/078-blackboard-006ff5b34fdb-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "006ff5b34fdbe2c638e68f6f827c57c1b421feeba3ee716b1cc951980720777d",
+      "assetSha256": "49cfa28680bf496edfc761faad27725feb0b4a2ae19f0a16ef9c8c18476fff9d"
+    }
+  },
+  "79": {
+    "cover": {
+      "src": "assets/ai-books/079-cover-27adef2d058a.webp",
+      "thumb": "assets/ai-books/079-cover-27adef2d058a-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "27adef2d058a504e6b1f70cce0eae56939e74a69b72ebc5debb4dc9f06a82d87",
+      "assetSha256": "8349146e5fa9cd4e80a520c04ce3f4b78d7a168f2b8dc3164e27f97021cd950f"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/079-three-lines-c2dd68a120f4.webp",
+      "thumb": "assets/ai-books/079-three-lines-c2dd68a120f4-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c2dd68a120f451fd641a86d89d3538d2bcf3c1acac9205552d346470c095ec34",
+      "assetSha256": "e602987fbd26eccf72267b42aafdd84a94dde3a85ce6605d455c4d03b051728e"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/079-blackboard-023eb22b2d47.webp",
+      "thumb": "assets/ai-books/079-blackboard-023eb22b2d47-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "023eb22b2d47da2af4328cb8ebf6dfe1541ffde162d0ba685400315312838d8e",
+      "assetSha256": "9c87c6e25dacde00a16fd0a987662687fe5feb308d381f1e378342c89a82101d"
+    }
+  },
+  "80": {
+    "cover": {
+      "src": "assets/ai-books/080-cover-527a9c280d3e.webp",
+      "thumb": "assets/ai-books/080-cover-527a9c280d3e-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "527a9c280d3e18870b420771ec228618329dd4c50bff90d4fea68d312ff4087c",
+      "assetSha256": "5d8409eb373ad2f8b91dcef9bd4654a5b8a3affbba799098f832152ee07c90dd"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/080-three-lines-31769e102835.webp",
+      "thumb": "assets/ai-books/080-three-lines-31769e102835-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "31769e102835a95325832d51f23f1656229148ee34dddc822045bc2d4d0b414b",
+      "assetSha256": "ac650a1effa38efe4ec77de7ba65986466f76535e891bbcf7c6618047356dd30"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/080-blackboard-d5e58ee3f383.webp",
+      "thumb": "assets/ai-books/080-blackboard-d5e58ee3f383-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "d5e58ee3f38312336a8759c10640957e818deecb1d6d87b0c7143ba400d714f4",
+      "assetSha256": "5a4dc2f05a37cd995570b355b4e4e901adf56f549b2bd2ad82f5644519616d99"
+    }
+  },
+  "81": {
+    "cover": {
+      "src": "assets/ai-books/081-cover-91858a7732ad.webp",
+      "thumb": "assets/ai-books/081-cover-91858a7732ad-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "91858a7732ad712363fcaa8019db624deaf5bd15366ecb0e93b476bec50dc861",
+      "assetSha256": "1e772c1c04e38c13c030a7bad905fc904acb5b650f3de56f854372190d3828e6"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/081-three-lines-e905358c0f38.webp",
+      "thumb": "assets/ai-books/081-three-lines-e905358c0f38-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "e905358c0f383518b2f034f2d9ba0b02d78d8f0dfa79b09111e689ded613dafd",
+      "assetSha256": "6570e2b54b36d26c6e9509a572eda5f82585c9953f5e5caa497ca3b272a60da9"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/081-blackboard-462b9d426af4.webp",
+      "thumb": "assets/ai-books/081-blackboard-462b9d426af4-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "462b9d426af4a7e20308d1feac7fbdab440dcd35edc1d6724fd856bd28e353da",
+      "assetSha256": "3a24803bf403c2f98c1f89495bc800c003456a8e102795d8ba9ca5e7329cc621"
+    }
+  },
+  "82": {
+    "cover": {
+      "src": "assets/ai-books/082-cover-204c91f5ffb2.webp",
+      "thumb": "assets/ai-books/082-cover-204c91f5ffb2-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "204c91f5ffb2f6489c8ca029cf80445d6c026814aa36d038236019b5b019900e",
+      "assetSha256": "92dc215a29f3737a6d823b19adf5e688fd9fe6260e0ccbb1431d03c40a231e3e"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/082-three-lines-bd20d9f604c3.webp",
+      "thumb": "assets/ai-books/082-three-lines-bd20d9f604c3-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "bd20d9f604c3e436f967db7c9cd48fc3ab6ed2141121aa96e8359eca4952ccb0",
+      "assetSha256": "640003106423fbd10e2e2df08394830fb3153b07b19ef72874228175a0136573"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/082-blackboard-8bea262f82ba.webp",
+      "thumb": "assets/ai-books/082-blackboard-8bea262f82ba-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "8bea262f82ba58fbeeddf5d46b398ddb32390eb829be9c814cb47213fbfe7733",
+      "assetSha256": "6861df59b8140a2dd97ab9691c0540cc73f3197d18864a3f4835ddf50ac376ff"
+    }
+  },
+  "83": {
+    "cover": {
+      "src": "assets/ai-books/083-cover-9e7071b9b006.webp",
+      "thumb": "assets/ai-books/083-cover-9e7071b9b006-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "9e7071b9b0060f034494af7808a4151bf38cec9280918e6ed20a9470bc97e7ea",
+      "assetSha256": "9027a1569fa253e6873fd742af23a7bb1c8ac498d3ad5420ca5066efc417abac"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/083-three-lines-530484ffa5b3.webp",
+      "thumb": "assets/ai-books/083-three-lines-530484ffa5b3-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "530484ffa5b3f413df8d31b734c3bc297a97de3bf302bbece0ee16c283e617cf",
+      "assetSha256": "35d368fa2126e9378b9bfead30d4c178fa89902332b1a611aecfc95955ec39e1"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/083-blackboard-f87bcf4f4750.webp",
+      "thumb": "assets/ai-books/083-blackboard-f87bcf4f4750-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f87bcf4f47509fdf239f7202a4d947437981623543046cc193255e35a386e960",
+      "assetSha256": "38a3b60b028f146cae2b1ac3aed29553ad1f392c34f82efcebfb61adf78f3d58"
+    }
+  },
+  "84": {
+    "threeLines": {
+      "src": "assets/ai-books/084-three-lines-b9c7f9c491dd.webp",
+      "thumb": "assets/ai-books/084-three-lines-b9c7f9c491dd-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "b9c7f9c491ddb6b934608b260849a08b86ae5b1caedc3b5b14bd623c110bed0f",
+      "assetSha256": "88f63248dfa7a2943f15f39fc57322e25dc8778cdb128c4e300b41935dfbf93d"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/084-blackboard-c8dc0e529a0a.webp",
+      "thumb": "assets/ai-books/084-blackboard-c8dc0e529a0a-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c8dc0e529a0a0cb9784cd312ccffd51362b9d433cef591f30003625ece187ebe",
+      "assetSha256": "8e4fea2ef6767eb6aa71ae82ad79ef816bca221b61ae17cf82695790bacd25b7"
+    },
+    "cover": {
+      "src": "assets/ai-books/084-cover-7ef88ac07370.webp",
+      "thumb": "assets/ai-books/084-cover-7ef88ac07370-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "7ef88ac0737048e10e33b8e65e806bdec308b318c5cfd81ccab401b21a8f9f9f",
+      "assetSha256": "49e3bc8983ef6dbe4c67c9fd0b55347424622018314537f3e710ae54474136e0"
+    }
+  },
+  "85": {
+    "cover": {
+      "src": "assets/ai-books/085-cover-5979911671cc.webp",
+      "thumb": "assets/ai-books/085-cover-5979911671cc-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "5979911671cc9fa45252744fb1ca173a7ff0fd7fc7789c355ce0aca4bf8b9152",
+      "assetSha256": "52ffe9b982ee823a085bef954b02546b87de4524f5fa159006980dff572b6a62"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/085-three-lines-6c21c9c43948.webp",
+      "thumb": "assets/ai-books/085-three-lines-6c21c9c43948-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6c21c9c43948adfbdd4ebaae28d69d3c531bed5669f3b7e9c58c13d6c92d5d91",
+      "assetSha256": "22571436e0deb74a56204406043f5c35f241322dad82dbc3e223ea5a9df3dd8f"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/085-blackboard-aa8384463d15.webp",
+      "thumb": "assets/ai-books/085-blackboard-aa8384463d15-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "aa8384463d15cc107f6e6099192cde39c2ebaaba8cfbd8d40744df13ca8faaeb",
+      "assetSha256": "e29baa88ccf9134bced8341c6d2f103694eb08a35e46812abc4cc88d25f43e4a"
+    }
+  },
+  "86": {
+    "cover": {
+      "src": "assets/ai-books/086-cover-5cacd5efe088.webp",
+      "thumb": "assets/ai-books/086-cover-5cacd5efe088-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "5cacd5efe0880359a8b320aefdf440e5e3f9b9ed48dd2fa5fbf6a4635c6afa86",
+      "assetSha256": "2d0d5e8b239454ce5c9d8e1af737baa325c7eebb2b634b19895a441244366506"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/086-three-lines-edca498e12a7.webp",
+      "thumb": "assets/ai-books/086-three-lines-edca498e12a7-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "edca498e12a7da59cc9b91ba5043cc9e5efb30beac786bcc60e47535298355e4",
+      "assetSha256": "1c0ad6bead64078fe1849995ae10dce21b27925409f53991108250918e2a5f93"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/086-blackboard-f0240b87a59c.webp",
+      "thumb": "assets/ai-books/086-blackboard-f0240b87a59c-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f0240b87a59c88b55e8213b4ef6eb615f94109a310ee3455a4b493eccd2f62b9",
+      "assetSha256": "b1e516c09f1d945b1b4b7320b9097e011243b54fa11f84a48815b9dd8d23b737"
+    }
+  },
+  "87": {
+    "cover": {
+      "src": "assets/ai-books/087-cover-9d7fdfd58f93.webp",
+      "thumb": "assets/ai-books/087-cover-9d7fdfd58f93-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "9d7fdfd58f937f67f362a9a01477ff45b5b89058954bc02ff08edf392f2a4245",
+      "assetSha256": "3d9c1b59949cd0f17805ab74721d60472b0f41c1e23f68866d8d968bb8721554"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/087-blackboard-70b3def0c39f.webp",
+      "thumb": "assets/ai-books/087-blackboard-70b3def0c39f-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "70b3def0c39f4bca14b356fc9769e8d8ef86b024230ea4b5b00164b0a1fc3557",
+      "assetSha256": "435dea34be6e506609e6cd95ab45ba331d9ef712a7a2ecbb6f66af42bcbd27ca"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/087-three-lines-5a568a4286fe.webp",
+      "thumb": "assets/ai-books/087-three-lines-5a568a4286fe-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "5a568a4286fe73ee11f9f1d521f5f39af43000e57e62d6ccd554fff5de77cdde",
+      "assetSha256": "18651fdd19ea3728a7cb3187b9e0601b7cc1acb5c34cbb93e4a1189706cb6129"
+    }
+  },
+  "88": {
+    "cover": {
+      "src": "assets/ai-books/088-cover-b5cb5ff04d2a.webp",
+      "thumb": "assets/ai-books/088-cover-b5cb5ff04d2a-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "b5cb5ff04d2a906c0f5a9dd1de09074ac9763890e0e6cc5a323404698a12b77a",
+      "assetSha256": "34ad90c97d11b7e1b2bd1959825e6e886ffd3b240a7a1ced1cdb592f920a251a"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/088-three-lines-8002acd0fc2b.webp",
+      "thumb": "assets/ai-books/088-three-lines-8002acd0fc2b-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "8002acd0fc2b78918c9d1ecae70d2606e9a9006f73c47c48920e63c46beb9521",
+      "assetSha256": "1ed8ad92ed62c2620336ff58ae5ddf384dac54eb06e69b4ff65098971cf67d14"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/088-blackboard-32d69d91f32d.webp",
+      "thumb": "assets/ai-books/088-blackboard-32d69d91f32d-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "32d69d91f32dcff1c25188a17a9d4f2c3cc039df53a7bcb4bf53b7a69a196c06",
+      "assetSha256": "6a0a17a9135440cc4e10babce0f5e81befea414f04415bae52c06772e41b99f3"
+    }
+  },
+  "89": {
+    "cover": {
+      "src": "assets/ai-books/089-cover-52bb6f7bc89a.webp",
+      "thumb": "assets/ai-books/089-cover-52bb6f7bc89a-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "52bb6f7bc89afeafbe6545fcf407627916592e26ce984ce892980d6361fbfcd2",
+      "assetSha256": "ecd218fbb4e0f7e16c1015ebe3568553726cc789670c0ad46dfdd86e902300a6"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/089-blackboard-8249c1ae9071.webp",
+      "thumb": "assets/ai-books/089-blackboard-8249c1ae9071-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "8249c1ae90716c80806d47ec3633ff29309f85a10254e87f209f7176839bb48c",
+      "assetSha256": "39e1b6d4c80f1e5f9068b5d247f2db47df3e297df76116d5f8f17a4922443132"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/089-three-lines-93e7a8df16d1.webp",
+      "thumb": "assets/ai-books/089-three-lines-93e7a8df16d1-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "93e7a8df16d1f2ba12152c78702f94d00167510f7ca5815b2d9ee71c9da52467",
+      "assetSha256": "53c8e6dd00a0874fa488334170b12ece2f7f276c708d3224158180d6e04c4195"
+    }
+  },
+  "90": {
+    "cover": {
+      "src": "assets/ai-books/090-cover-606b49b027ac.webp",
+      "thumb": "assets/ai-books/090-cover-606b49b027ac-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "606b49b027acff6647032cd6c29dc9f53b9c06674d8ff01f3bf9b63366f1f280",
+      "assetSha256": "8c994a8e54070bb61edd5410b6348125a0f3b0f79cca685a1938c0e4fdf51d34"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/090-blackboard-0db34178e609.webp",
+      "thumb": "assets/ai-books/090-blackboard-0db34178e609-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "0db34178e6092bd1b118a8fb55201ac83ceca0ab1d048d22b77637e0af9e007b",
+      "assetSha256": "e699f5d6ea3234ed95f190529009df7983343ee006d1617d0630d272baf5d44d"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/090-three-lines-47eff79454d7.webp",
+      "thumb": "assets/ai-books/090-three-lines-47eff79454d7-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "47eff79454d76658648d4b754ff6006e69b79816a74374190b258ebe0ae550d9",
+      "assetSha256": "00845f15c764d3e97b0c68b4f36e0208a928a3b994f25d7d74636eba84feae1c"
+    }
+  },
+  "91": {
+    "cover": {
+      "src": "assets/ai-books/091-cover-06b6d35d73eb.webp",
+      "thumb": "assets/ai-books/091-cover-06b6d35d73eb-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "06b6d35d73eb34f751d1cc120f3086b2edd1b3ded32d60359fe48c8f386fb600",
+      "assetSha256": "20c0af7174d6b2eebf32c1fba4c4d777e24a76795cee3b3aa089b990919ea19f"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/091-blackboard-6a2056d3b0fa.webp",
+      "thumb": "assets/ai-books/091-blackboard-6a2056d3b0fa-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6a2056d3b0fa3282d1794e1a755eaa3028266f1bd7a3aa447a9ec1daea5fb893",
+      "assetSha256": "4f1ae32acad9fde36395c8a19a9139c485c8ba7600e44b7167a1116062759d1c"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/091-three-lines-8e6459873964.webp",
+      "thumb": "assets/ai-books/091-three-lines-8e6459873964-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "8e6459873964ff9aaa3d8cce5cf02c01d09b2de7e3b60462a9f8352f3a16d9a8",
+      "assetSha256": "c34045353c9418f940d25d6252de1e812eddbf0e6e1b19fe543a32401d68796f"
+    }
+  },
+  "92": {
+    "cover": {
+      "src": "assets/ai-books/092-cover-a49ef8ea236e.webp",
+      "thumb": "assets/ai-books/092-cover-a49ef8ea236e-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "a49ef8ea236e5a4c057919e14e9f589b370637b93b2aacfbb07959c6f2059d67",
+      "assetSha256": "eed945be48ecd581d5b3e1c6dcd3e8f1aed1d217f6fb450784bdbefd4033ea38"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/092-three-lines-a10272b713ab.webp",
+      "thumb": "assets/ai-books/092-three-lines-a10272b713ab-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "a10272b713ab0ab437f94529dc633dbfb9b88bdc215f8329f1d041db09c9302c",
+      "assetSha256": "b8672e105e0646852f8ea623346ac6d3d559815c2feceac6175fff93a5453abe"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/092-blackboard-79472492e2e8.webp",
+      "thumb": "assets/ai-books/092-blackboard-79472492e2e8-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "79472492e2e8aa45b8522ff94e227ae1c5da2c826bea97e4533edbe5d43489d8",
+      "assetSha256": "e6e1ceed714662d10c50d15f902bccdee3bf28205642ec28e3c670376cd97b04"
+    }
+  },
+  "93": {
+    "cover": {
+      "src": "assets/ai-books/093-cover-17bcd9c574c9.webp",
+      "thumb": "assets/ai-books/093-cover-17bcd9c574c9-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "17bcd9c574c9af4252bc27e95d3dae38a7f4be8d8d587442e85810ab90d323cd",
+      "assetSha256": "f56817ba73eaa358d383036928a5a476f24cd7f8a1ee753121305d0b788e8658"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/093-three-lines-cca6b6837686.webp",
+      "thumb": "assets/ai-books/093-three-lines-cca6b6837686-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "cca6b6837686efd3a61368465e0237509583c802b2055e88fb2762658519a0de",
+      "assetSha256": "a44ba644851a55096c0fa25e344dfca4b3ee41a029ce99fdad9c4b5a73075d4b"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/093-blackboard-b4407f9a9505.webp",
+      "thumb": "assets/ai-books/093-blackboard-b4407f9a9505-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "b4407f9a9505f542db78f4897bb2c3cbd1bbe9be37ba43a08935d86e4c42645e",
+      "assetSha256": "3b021360bf4cc3643a9961d9ed48d89279d009329e5bac0c97f8a0976acc0b27"
+    }
+  },
+  "94": {
+    "cover": {
+      "src": "assets/ai-books/094-cover-21cfdb8cc055.webp",
+      "thumb": "assets/ai-books/094-cover-21cfdb8cc055-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "21cfdb8cc05544493c3c182fb51661bb60fbd2211077653def66032e042844d3",
+      "assetSha256": "2242245b561fb474dd6442df292e0e11695496d4e722d3a08c73910ebac86f0b"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/094-three-lines-262d6a226b5d.webp",
+      "thumb": "assets/ai-books/094-three-lines-262d6a226b5d-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "262d6a226b5da53d9249356a035bd932847aba8cea75c67d2d816cca6c3a06e5",
+      "assetSha256": "94235b1662ae380db7a70ed2c0f17f345aa9548d9db94851d1509172fca939ca"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/094-blackboard-b44113efbcd2.webp",
+      "thumb": "assets/ai-books/094-blackboard-b44113efbcd2-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "b44113efbcd24d077ac9712768a6ca2968618792ddd28e5848b6ab9aad10ead2",
+      "assetSha256": "6c103083822a87678919f4d5a83b79ed39352e34d969decde5acb1d386565cab"
+    }
+  },
+  "95": {
+    "cover": {
+      "src": "assets/ai-books/095-cover-076c907a14f5.webp",
+      "thumb": "assets/ai-books/095-cover-076c907a14f5-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "076c907a14f50c22d04ebf177fd0d94a8f32f382c721b4ab377f96fce2ec6f95",
+      "assetSha256": "f2b8adc345188e0f6f37b1217d8d7655a1c0a498c4ba2ad8a1eb34e5c2f87b9c"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/095-three-lines-d76af2b88039.webp",
+      "thumb": "assets/ai-books/095-three-lines-d76af2b88039-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "d76af2b88039d880df26b41a9a258fa960519c4bf90dfb8d915ccb9a50df4502",
+      "assetSha256": "f3233a9e8df60b2b31efd581f51b60a07d374f738d1342f9aa596399dccc1ff5"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/095-blackboard-90aa309dd8ba.webp",
+      "thumb": "assets/ai-books/095-blackboard-90aa309dd8ba-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "90aa309dd8ba30b06b970f2cd3af313e5c34e9e9878c4f8b4258f4416fe56e4a",
+      "assetSha256": "380083795ef849b586105419230b2a61db2bf05d9fa70938b1cfa7ac64b15a6d"
+    }
+  },
+  "96": {
+    "cover": {
+      "src": "assets/ai-books/096-cover-fd6dc944cb72.webp",
+      "thumb": "assets/ai-books/096-cover-fd6dc944cb72-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "fd6dc944cb72a3ee3455a40fff635a70f2ce0cfb0bf48466fd291da23f28922d",
+      "assetSha256": "b3d51d49f1483168c67d885da5cd329e21299cdf1fb739151e13066ad8e68557"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/096-three-lines-f00949bc06dd.webp",
+      "thumb": "assets/ai-books/096-three-lines-f00949bc06dd-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "f00949bc06dd7437fed88f6529085901d65970ddbba296a9efad7074f5384eab",
+      "assetSha256": "a4769b62b23545ac44f8c063b7c00e6842f7771e2cf8ba79754b1c5a6faea41c"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/096-blackboard-ba1d3c593267.webp",
+      "thumb": "assets/ai-books/096-blackboard-ba1d3c593267-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "ba1d3c593267b7912a62ddb982f5f7545d9ae3fccfdceb7badd4af9755dd4fa8",
+      "assetSha256": "c86e12a75f88eabc99a37c673e08f954a90c5788338586e4609a68b624d5f076"
+    }
+  },
+  "97": {
+    "cover": {
+      "src": "assets/ai-books/097-cover-65417a68238f.webp",
+      "thumb": "assets/ai-books/097-cover-65417a68238f-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "65417a68238f601e29ce0caa94ac1298283c2e902cb84cdb7f350d691fab0902",
+      "assetSha256": "f40b51b3598df35bdb15e75d5a13bbbad425557e75cd3033ee99724be67aee0d"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/097-three-lines-4e799d4fd8b8.webp",
+      "thumb": "assets/ai-books/097-three-lines-4e799d4fd8b8-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "4e799d4fd8b89fa734b0901d382273a564def0f60941519343bb469cddd0e273",
+      "assetSha256": "cf92e9760273e7678d626319406d41e371a4ef63ce434e2635050f1271b93c2e"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/097-blackboard-9d619e3c83d8.webp",
+      "thumb": "assets/ai-books/097-blackboard-9d619e3c83d8-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "9d619e3c83d8160f53e16b99ca4a29f239a629288031a9a814faa07d6d30260d",
+      "assetSha256": "b82e8848280813a960cb580c3a04b46c747a4a40e6dcd23d46012207a728ae18"
+    }
+  },
+  "98": {
+    "cover": {
+      "src": "assets/ai-books/098-cover-388073f0a2db.webp",
+      "thumb": "assets/ai-books/098-cover-388073f0a2db-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "388073f0a2dbfd4da5fd4adcc1c06d0fe5ba6520c8f2557e522bb2ae659d54a4",
+      "assetSha256": "2e3bb4c4d3cae4a560630107b7d8209e78ae7d1e84e4ea01f8f664eec9ef4919"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/098-three-lines-dcce8d8d1844.webp",
+      "thumb": "assets/ai-books/098-three-lines-dcce8d8d1844-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "dcce8d8d18441ea0c909507dbe3d3b2686062e0916083d31a6fa5b6fb1932099",
+      "assetSha256": "6217ae0418f52a2ee3d12e9950a603a170cbe06fb034052c703c26924b2e167e"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/098-blackboard-ceb7e168a759.webp",
+      "thumb": "assets/ai-books/098-blackboard-ceb7e168a759-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "ceb7e168a75908a2e4e329926a702c9b0eb1425c51389cbb644956ba350cefd4",
+      "assetSha256": "7e1e758352d8fe2c137a1c6105232a1d6b1bb6005baab727f5b867a01ad3cdff"
+    }
+  },
+  "99": {
+    "cover": {
+      "src": "assets/ai-books/099-cover-15ba01dd0a63.webp",
+      "thumb": "assets/ai-books/099-cover-15ba01dd0a63-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "15ba01dd0a63a04036230505b0bfbfbebefff79cebc1bf690d095e1c21bbbcb5",
+      "assetSha256": "306c04461c48e235be509fb42159b22a78ce4b4e956395b8ddea52e6de31b741"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/099-three-lines-fe758e8c0ad5.webp",
+      "thumb": "assets/ai-books/099-three-lines-fe758e8c0ad5-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "fe758e8c0ad5b23678edbf2843f92470be343d18ff878a8449990dcd0d20f2f8",
+      "assetSha256": "c0ac93ea9307a3eb6a94522fdaf29b23e3fd88cb697b2452f17db85fedeb8d4f"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/099-blackboard-c1ab2c8e61a8.webp",
+      "thumb": "assets/ai-books/099-blackboard-c1ab2c8e61a8-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "c1ab2c8e61a8d9e3f66078523483e75cef05dc1ad5d681dcedc2e303ee1b0ef4",
+      "assetSha256": "8b3e11d87e793514053f7c67f5a3cfa0b86a0476b816c3e4fbefaffcce9e6bb4"
+    }
+  },
+  "100": {
+    "cover": {
+      "src": "assets/ai-books/100-cover-271a68df403d.webp",
+      "thumb": "assets/ai-books/100-cover-271a68df403d-thumb.webp",
+      "label": "视觉封面",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "271a68df403d649253c8db7bf3349af656c5126284f7ef2420a5169e7292b249",
+      "assetSha256": "40f3d61c03f71c644e22ea31dde280edbc413f5873ad9689e7fecfac57f90cf8"
+    },
+    "threeLines": {
+      "src": "assets/ai-books/100-three-lines-6dab597a6586.webp",
+      "thumb": "assets/ai-books/100-three-lines-6dab597a6586-thumb.webp",
+      "label": "三句话解读",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6dab597a65861c528cd39df87cb7dbca8e94a0423f745983a08f0f838cfd9b7d",
+      "assetSha256": "5b04612525329eb768db4d6c8537c549995b7d49288faaf1b2f03940ccb87405"
+    },
+    "blackboard": {
+      "src": "assets/ai-books/100-blackboard-6e5611d22038.webp",
+      "thumb": "assets/ai-books/100-blackboard-6e5611d22038-thumb.webp",
+      "label": "黑板图解",
+      "generated": true,
+      "aiGenerated": true,
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "6e5611d22038e65cb18c94954147f5133bc18a538b715d8d6a343c94809e11c4",
+      "assetSha256": "dcb7875f3f3b96b4768cee032c6908f9b60ce075ce60a1604f28183009b7a74f"
+    }
+  }
+}

@@ -7,7 +7,58 @@ import argparse
 import hashlib
 import json
 import shutil
-from pathlib import Path
+from copy import deepcopy
+from pathlib import Path, PurePosixPath
+
+
+AI_IMAGE_ROLES = ('cover', 'threeLines', 'blackboard')
+
+
+def load_ai_overrides(data, book_ids, out=None):
+    """Load optional, persistent image selections without modifying the base plan."""
+    path = data / 'ai-image-overrides.json'
+    raw = read(path) if path.is_file() else {}
+    if not isinstance(raw, dict):
+        raise ValueError('ai-image-overrides.json must be an object keyed by book ID')
+    overrides = {}
+    for key, roles in raw.items():
+        if not str(key).isdigit() or int(key) not in book_ids:
+            raise ValueError(f'Unknown AI image book ID: {key}')
+        book_id = int(key)
+        if book_id in overrides or not isinstance(roles, dict):
+            raise ValueError(f'Invalid or duplicate AI image entry: {key}')
+        overrides[book_id] = {}
+        for role, value in roles.items():
+            if role not in AI_IMAGE_ROLES or not isinstance(value, dict):
+                raise ValueError(f'Invalid AI image role: {key}/{role}')
+            image = deepcopy(value)
+            image.setdefault('thumb', image.get('src'))
+            for field in ('src', 'thumb'):
+                relative = image.get(field)
+                if not isinstance(relative, str) or any(c in relative for c in ('\\', '?', '#', '%')):
+                    raise ValueError(f'Invalid AI image {field}: {key}/{role}')
+                parts = PurePosixPath(relative).parts
+                if parts[:2] != ('assets', 'ai-books') or len(parts) < 3 or '..' in parts:
+                    raise ValueError(f'AI image must stay in assets/ai-books: {relative}')
+                if out is not None:
+                    asset = (out / relative).resolve()
+                    try:
+                        asset.relative_to((out / 'assets/ai-books').resolve())
+                    except ValueError as error:
+                        raise ValueError(f'AI image escapes its asset directory: {relative}') from error
+                    if not asset.is_file():
+                        raise ValueError(f'Missing AI image: {asset}')
+                    if field == 'src' and image.get('assetSha256', image.get('sourceSha256')):
+                        if hashlib.sha256(asset.read_bytes()).hexdigest() != image.get('assetSha256', image.get('sourceSha256')):
+                            raise ValueError(f'AI image content hash changed: {relative}')
+            for field in ('width', 'height'):
+                if isinstance(image.get(field), bool) or not isinstance(image.get(field), int) or image[field] <= 0:
+                    raise ValueError(f'AI image requires positive {field}: {key}/{role}')
+            if not isinstance(image.get('label'), str) or not image['label'].strip():
+                raise ValueError(f'AI image requires a label: {key}/{role}')
+            image.update(generated=True, aiGenerated=True)
+            overrides[book_id][role] = image
+    return overrides
 
 
 def read(path):
@@ -33,6 +84,7 @@ def main():
     expected = set(range(1, 101))
     assert {x['id'] for x in books} == set(ranks) == set(images) == expected
     assert {x['rank'] for x in ranks.values()} == expected
+    ai_overrides = load_ai_overrides(data, expected, out)
     for rank in ranks.values():
         assert all(0 <= rank[key] <= 5 and rank[key] * 2 == int(rank[key] * 2) for key in ('impact', 'popularity', 'reach'))
     order = sorted(ranks.values(), key=lambda rank: (-round(rank['impact'] * 2) * 50 - round(rank['popularity'] * 2) * 35 - round(rank['reach'] * 2) * 15, -rank['impact'], -rank['popularity'], -rank['reach'], rank['id']))
@@ -41,7 +93,8 @@ def main():
     for book in books:
         rank, plan = ranks[book['id']], images[book['id']]
         book.update(rank=rank['rank'], rankReason=rank['reason'], ranking={k: rank[k] for k in ('impact', 'popularity', 'reach')})
-        book['images'] = [dict(plan[key]) for key in ('cover', 'threeLines', 'blackboard')]
+        selected = ai_overrides.get(book['id'], {})
+        book['images'] = [dict(selected.get(key, plan[key])) for key in AI_IMAGE_ROLES]
         book['extras'] = [dict(image) for image in plan['extras']]
         assert len(book['images']) == 3
         generated += sum(image['generated'] for image in book['images'])
@@ -74,7 +127,8 @@ def main():
         relative = icon['src'].split('?')[0]
         icon['src'] = relative + '?v=' + hashlib.sha256((out / relative).read_bytes()).hexdigest()[:12]
     write(out / 'manifest.webmanifest', manifest)
-    write(out / 'release.json', dict(name='一书三图', version='2.1.0', theme='reading-journal', books=100, primaryImages=300, generatedNotebookCards=generated, canonicalUrl='https://shutu.kanglimin.com/', productionBranch='main', rankingDate=method.get('asOf', '2026-10-22')))
+    ai_generated = sum(bool(image.get('aiGenerated')) for book in books for image in book['images'])
+    write(out / 'release.json', dict(name='一书三图', version='2.2.0', theme='reading-journal', books=100, primaryImages=300, generatedNotebookCards=generated-ai_generated, aiGeneratedImages=ai_generated, canonicalUrl='https://shutu.kanglimin.com/', productionBranch='main', rankingDate=method.get('asOf', '2026-10-22')))
     digest = hashlib.sha256()
     for name in ('index.html', 'style.css', 'app.js', 'books.js', 'manifest.webmanifest'):
         digest.update((out / name).read_bytes())
