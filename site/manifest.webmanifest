@@ -1,14 +1,14 @@
 {
   "id": "/",
-  "name": "一书三图 · 翻页阅读本",
+  "name": "一书三图 · 百本阅读手帖",
   "short_name": "一书三图",
-  "description": "100本好书，大封面、三句话、黑板图解。按综合阅读榜翻阅，从目录直达每一本。",
+  "description": "100本好书，封面、三句话、黑板图解与完整阅读笔记。电脑三图并排，向下连续阅读，支持白色、黑色与纸色主题。",
   "lang": "zh-CN",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#f2eee5",
-  "theme_color": "#294536",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "assets/icon-192.png?v=5668fd0e0ad0",

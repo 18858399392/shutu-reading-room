@@ -1,7 +1,13 @@
 {
   "name": "一书三图",
-  "version": "2.2.0",
-  "theme": "reading-journal",
+  "version": "2.4.0",
+  "theme": "minimal",
+  "availableThemes": [
+    "white",
+    "black",
+    "paper"
+  ],
+  "layout": "continuous-reading",
   "books": 100,
   "primaryImages": 300,
   "generatedNotebookCards": 0,

@@ -122,13 +122,13 @@ def main():
     (out / 'index.html').write_text(html, encoding='utf-8', newline='\n')
     shutil.copyfile(out / 'index.html', out / 'index.htm')
     manifest = read(out / 'manifest.webmanifest')
-    manifest.update(name='一书三图 · 翻页阅读本', description='100本好书，大封面、三句话、黑板图解。按综合阅读榜翻阅，从目录直达每一本。', background_color='#f2eee5', theme_color='#294536')
+    manifest.update(name='一书三图 · 百本阅读手帖', description='100本好书，封面、三句话、黑板图解与完整阅读笔记。电脑三图并排，向下连续阅读，支持白色、黑色与纸色主题。', background_color='#ffffff', theme_color='#ffffff')
     for icon in manifest['icons']:
         relative = icon['src'].split('?')[0]
         icon['src'] = relative + '?v=' + hashlib.sha256((out / relative).read_bytes()).hexdigest()[:12]
     write(out / 'manifest.webmanifest', manifest)
     ai_generated = sum(bool(image.get('aiGenerated')) for book in books for image in book['images'])
-    write(out / 'release.json', dict(name='一书三图', version='2.2.0', theme='reading-journal', books=100, primaryImages=300, generatedNotebookCards=generated-ai_generated, aiGeneratedImages=ai_generated, canonicalUrl='https://shutu.kanglimin.com/', productionBranch='main', rankingDate=method.get('asOf', '2026-10-22')))
+    write(out / 'release.json', dict(name='一书三图', version='2.4.0', theme='minimal', availableThemes=['white','black','paper'], layout='continuous-reading', books=100, primaryImages=300, generatedNotebookCards=generated-ai_generated, aiGeneratedImages=ai_generated, canonicalUrl='https://shutu.kanglimin.com/', productionBranch='main', rankingDate=method.get('asOf', '2026-10-22')))
     digest = hashlib.sha256()
     for name in ('index.html', 'style.css', 'app.js', 'books.js', 'manifest.webmanifest'):
         digest.update((out / name).read_bytes())
